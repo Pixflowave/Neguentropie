@@ -1,0 +1,299 @@
+{"name": "Technè","url": "https://fr.wikipedia.org/wiki/Techn%C3%A8","children": [
+    {"name": "Technique","url":"https://fr.wikipedia.org/wiki/Technique", "children": [
+        {"name": "Couture", "url": "https://fr.wikipedia.org/wiki/Couture", "children": [
+            {"name": "Machine à Coudre", "url": "https://fr.wikipedia.org/wiki/Machine_%C3%A0_coudre"}
+         ]},
+        {"name": "Dremel", "url": "https://www.dremel.com/fr/fr"},
+        {"name": "Wanguerflange", "url": "https://www.wangerflange.com/"},
+        {"name": "Bricolage", "url": "https://fr.wikipedia.org/wiki/Bricolage"},
+        {"name": "Menuiserie", "url": "https://fr.wikipedia.org/wiki/Menuiserie", "children":[
+            {"name": "ISHITANI - Washitsu Table", "url": "https://youtu.be/HUJpPzOuRVU?feature=shared"},
+            {"name": "affûter une gouge", "url": "https://youtu.be/h24Wd7xZcc8?feature=shared"},
+            {"name": "Une bibliothèque design", "url": "https://youtu.be/K21TB6YL-zQ?feature=shared"}
+        ]},
+        {"name": "Tissage", "url": "https://fr.wikipedia.org/wiki/Tissage", "children":[
+            {"name": "Textile", "url": "https://fr.wikipedia.org/wiki/Textile", "children":[
+            ]}
+        ]},
+        {"name": "Richard Stallman","url": "https://www.radiofrance.fr/franceculture/richard-stallman-inventeur-du-logiciel-libre-et-penseur-d-un-internet-libertaire-5355561", "children":[
+            {"name": "Culture Maker", "url": "https://fr.wikipedia.org/wiki/Culture_maker"},
+            {"name": "Ubuntu", "url": "https://ubuntu.com/desktop"},
+            {"name": "GPhoto 2", "url": "https://manpages.ubuntu.com/manpages/trusty/man1/gphoto2.1.html"},
+            {"name": "Vscodium","url": "https://vscodium.com/"},
+            {"name": "FreeCAD", "url": "https://www.freecad.org/"},
+            {"name": "Blender", "url": "https://www.blender.org/"},
+            {"name": "InkScape", "url": "https://inkscape.org/fr/"},
+            {"name": "Gimp", "url": "https://www.gimp.org/"},
+            {"name": "Hackmd", "url": "https://hackmd.io/"},
+            {"name": "MPCNC", "url": "https://docs.v1e.com/mpcnc/intro/"},
+            {"name": "Do.Doc", "url": "https://dodoc.fr/"},
+            {"name": "Signal", "url": "https://signal.org/fr/"},
+            {"name": "JSON", "url": "https://json.org/json-fr.html"},
+            {"name": "Kdenlive", "url": "https://kdenlive.org/fr/"},
+            {"name": "Flowblade", "url": "http://jliljebl.github.io/flowblade/"},
+            {"name": "Nextcloud", "url": "https://nextcloud.com/"},
+            {"name": "Framateam", "url": "https://framateam.org/landing#/"},
+            {"name": "Open Badge", "url": "https://wikibadges.org/doku.php?id=fr:start"},
+            {"name": "Philippe Rivière", "url": "https://illisible.net/philippe-riviere", "children":[
+                {"name": "VisionsCarto", "url": "https://www.visionscarto.net/", "children":[
+                    {"name": "La projection comforme de Cox", "url": "https://www.visionscarto.net/la-projection-conforme-de-cox"},
+                    {"name": "La recette des Planètes de papier", "url": "https://www.visionscarto.net/la-recette-des-planetes-de-papier"},
+                    {"name": "La projection de Lee et ses paper toys", "url": "https://www.visionscarto.net/projection-de-lee"}
+                ]},
+                {"name": "ObservableHQ", "url": "https://observablehq.com","children":[
+                    {"name": "Plot", "url": "https://observablehq.com/plot/"},
+                    {"name": "Projection icosahedral de Richard Burkminster Fuller", "url":"https://observablehq.com/@fil/triangular-tiling-of-icosahedron"},
+                    {"name": "Framework", "url": "https://observablehq.com/framework/"}
+                ]}
+            ]}
+          ]}
+        ]},
+    {"name": "Pédagogie", "url": "https://fr.wikipedia.org/wiki/P%C3%A9dagogie", "children":[
+        {"name": "Pédagogie de projet", "url": "https://fr.wikipedia.org/wiki/P%C3%A9dagogie_de_projet"},
+        {"name": "Pédagogie institutionnelle","url":"https://fr.wikipedia.org/wiki/P%C3%A9dagogie_institutionnelle","children":[
+            {"name": "Ecole de la Neuville","url":"http://www.ecoledelaneuville.fr/", "children":[
+                {"name": "La Neuville : L'Ecole Avec Francoise Dolto Suivi De Dix Ans Après", "url":"https://www.decitre.fr/livres/la-neuville-l-ecole-avec-francoise-dolto-suivi-de-dix-ans-apres-9782710114482.html"}
+            ]},
+            {"name": "Les semailles", "url": "https://lessemailles.fr/"},
+            {"name": "Patrick Geffard", "url": "https://univ-paris8.academia.edu/PatrickGeffard"}
+        ]}
+    ]},
+    {"name": "Économie", "url": "https://fr.wikipedia.org/wiki/%C3%89conomie_(discipline)","children":[
+        {"name": "Frédèrique Lordon", "url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Lordon", "children":[
+            {"name": "La Condition anarchique", "url": "https://www.seuil.com/ouvrage/la-condition-anarchique-frederic-lordon/9782021406801"}
+        ]},    
+        {"name": "Thomas Piketty", "url": "https://fr.wikipedia.org/wiki/Thomas_Piketty", "children":[
+            {"name": "Nature, culture et inégalités", "url": "http://piketty.pse.ens.fr/files/Piketty2023NCI.pdf"},
+            {"name": "WORLD INEQUALITY REPORT 2022", "url": "https://wir2022.wid.world/"}
+        ]},
+        {"name": "François-Xavier Verschave", "url": "https://www.eclm.fr/auteurs/francois-xavier-verschave/","children":[
+            {"name": "La Maison monde - Libre leçons de Braudel","url": "https://www.eclm.fr/livre/la-maison-monde/"}
+        ]}    
+    ]},
+    {"name": "Droit", "url": "https://fr.wikipedia.org/wiki/Droit", "children":[
+        {"name": "Licence Art Libre", "url": "https://artlibre.org/"},
+        {"name": "UNESCO - Ressources Educatives Libres", "url": "https://www.unesco.org/fr/education/digital"},
+        {"name": "Licence Libre", "url": "https://fr.wikipedia.org/wiki/Licence_libre"},
+        {"name": "Organisation International du Travail", "url": "https://www.ilo.org/global/lang--fr/index.htm"},    
+        {"name": "Alain Supiot", "url": "https://www.college-de-france.fr/fr/chaire/alain-supiot-etat-social-et-mondialisation-analyse-juridique-des-solidarites-chaire-statutaire","children":[
+            {"name": "La gouvernance par les nombres", "url": "https://www.fayard.fr/livre/la-gouvernance-par-les-nombres-9782213681092/"},
+            {"name": "Le travail n'est pas une marchandise", "url": "https://www.college-de-france.fr/media/collections-de-livres/UPL6670766458633663704_Fiche_diffusion_LC_17_Supiot.pdf"},
+            {"name": "L'esprit de Philadelphie", "url": "https://www.seuil.com/ouvrage/l-esprit-de-philadelphie-alain-supiot/9782020991032"}
+        ]} 
+    ]},
+    {"name": "Sociologie", "url": "https://fr.wikipedia.org/wiki/Sociologie", "children":[
+        {"name": "Marcel Mauss", "url": "https://fr.wikipedia.org/wiki/Marcel_Mauss", "children":[
+            {"name": "Essai sur le don", "url": "https://fr.wikipedia.org/wiki/Essai_sur_le_don"}
+        ]}
+    ]},
+    {"name": "Agronomie", "url": "https://fr.wikipedia.org/wiki/Agronomie", "children":[
+        {"name": "Agriculture", "url": "https://fr.wikipedia.org/wiki/Agriculture","children":[
+            {"name": "Alimentation", "url": "https://fr.wikipedia.org/wiki/Alimentation","children":[
+                {"name": "Fibre Végétale", "url": "https://fr.wikipedia.org/wiki/Fibre_v%C3%A9g%C3%A9tale", "children":[
+                    {"name": "fibre de Bambou", "url": "https://fr.wikipedia.org/wiki/Fibre_de_bambou"},
+                    {"name": "Toile de jute", "url": "https://fr.wikipedia.org/wiki/Fibre_de_jute"},
+                    {"name": "Chanvre", "url": "https://fr.wikipedia.org/wiki/Chanvre", "children":[
+                        {"name": "Virgocoop", "url": "https://virgocoop.fr/"}
+                    ]}
+                ]},
+                {"name": "Repas Néguentropique", "url": "https://do.doc.neguentropie.art/_publications/repas-neguentropique/"}
+        ]},
+            {"name": "FAO", "url": "https://www.fao.org/sustainable-development-goals-helpdesk/fr"}
+        ]}
+    ]},
+    {"name": "CNRS", "url": "https://fr.wikipedia.org/wiki/Centre_national_de_la_recherche_scientifique", "children":[
+            {"name": "Historien", "url": "https://fr.wikipedia.org/wiki/Historien", "children":[
+                {"name": "L'événement Anthropocène", "url": "https://www.seuil.com/ouvrage/l-evenement-anthropocene-jean-baptiste-fressoz/9782021135008"}
+            ]},
+        {"name": "Mathématique", "url": "https://fr.wikipedia.org/wiki/Math%C3%A9matiques","children":[
+            {"name": "Épistémologie","url": "https://fr.wikipedia.org/wiki/%C3%89pist%C3%A9mologie","children":[
+                {"name": "Logicien", "url": "https://www.cnrtl.fr/definition/logicien","children":[
+                    {"name": "Giuseppe Longo", "url": "https://www.di.ens.fr/users/longo/", "children":[
+                        {"name": "Le Cauchemar de Prométhée - Les Scinces et leurs limites","url": "https://www.di.ens.fr/users/longo/files/Couv_Table-introLeCauchemarPromethee.pdf"}
+                    ]}
+                ]}
+            ]}
+        ]}
+    ]},
+    {"name": "Philosophie", "url":"https://fr.wikipedia.org/wiki/Philosophie" , "children":[
+             
+       {"name": "John Dewey", "url":"https://fr.wikipedia.org/wiki/John_Dewey"},
+       {"name": "Bernard Stiegler", "url": "https://www.radiofrance.fr/franceculture/podcasts/serie-bernard-stiegler-la-philosophie-et-la-vie" ,"children": [
+        {"name": "Pharmakon", "url":"https://pharmakon.fr/wordpress/"},
+        {"name": "Aimer, s’aimer, nous aimer", "url": "http://www.editions-galilee.fr/f/index.php?sp=liv&livre_id=3088"},
+        {"name": "Dans la disruption comment ne pas devenir fou ?", "url": "http://www.editionslesliensquiliberent.fr/livre-Dans_la_disruption-484-1-1-0-1.html"},
+        {"name": "qu'appelle-t-on panser ?", "url": "http://www.editionslesliensquiliberent.fr/livre-Dans_la_disruption-484-1-1-0-1.html"},
+        {"name": "La société automatique - l'avenir du travail", "url": "https://www.fayard.fr/livre/la-societe-automatique-9782213685656/"},
+        {"name": "La technique et le temps", "url": "https://www.fayard.fr/livre/la-technique-et-le-temps-9782213700878/"},
+        {"name": "Ars Industrialis", "url": "https://arsindustrialis.org/", "children":[
+            {"name": "Réenchenter le monde", "url": "https://editions.flammarion.com/reenchanter-le-monde/9782081217843"},
+            {"name": "Association des Amis de la Génération Thunberg-Ars Industrialis","url": "https://generation-thunberg.org/accueil"}
+        ]},
+        {"name": "Vers un art de l’hypercontrôle", "url": "https://alphabetville.org/vers-un-art-de-lhypercontrole/"},
+        {"name": "Shakespeare–to–peer,par Bernard Stiegler", "url": "https://archive-magazine.jeudepaume.org/2011/08/shakespeare-to-peer/index.html"},
+        {"name": "IRI", "url":"https://www.iri.centrepompidou.fr/","children":[
+            {"name": "Les Entretiens du nouveau monde industriel","url": "https://enmi-conf.org/", "children":[
+                {"name": "Prendre soin de l'informatique et des génèrations", "url": "https://boutique.fypeditions.com/products/prendre-soin-de-l-informatique-et-des-generations-hommage-a-bernard-stiegler"}
+            ]},
+            {"name": "Digitale Studies", "url": "https://digital-studies.org/wp/fr/"},
+            {"name": "Territoire Apprenant Contributif", "url": "https://tac93.fr/"},
+            {"name": "Recherche contributive", "url": "https://recherchecontributive.org/"},
+            {"name": "contribution écologique ECO", "url": "https://www.comite-eco.fr/"},
+            {"name": "Collectif Internation","url": "https://internation.world/", "children":[
+                {"name": "Bifurquer", "url": "http://www.editionslesliensquiliberent.fr/livre-Bifurquer-609-1-1-0-1.html"}
+            ]},
+            {"name": "Anne Alombert", "url": "https://philosophie.univ-paris8.fr/anne-alombert","children":[
+                {"name": "Penser l'humain et la technique Simondon et Derrida après la métaphysique", "url": "http://catalogue-editions.ens-lyon.fr/fr/livre/?GCOI=29021100646930&fa=author&person_id=7523"},
+                    {"name": "Schizophrénie numérique", "url": "https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique"},
+                    {"name": "Organoesis", "url": "https://organoesis.org/", "children":[
+                        {"name": "Pharmakon Studies", "url": "https://pharmakonstudies.wordpress.com/#"},
+                        {"name": "Critique de l’Intelligence Artificielle","url": "https://organoesis.org/recherches/critique-de-lintelligence-artificielle"}
+                         ]}
+                    ]}
+                ]}
+       ]},
+      {"name": "Henry Maldiney", "url": "https://www.henri-maldiney.org/","children":[
+        {"name": "L'esthetique des rythmes", "url": "https://rhuthmos.eu/spip.php?article477"}
+      ]},
+      {"name": "Jacques Derrida", "url":"https://www.radiofrance.fr/dossiers/jacques-derrida-l-integrale-en-cinq-entretiens-1998","children":[
+          {"name": "De la grammatologie", "url": "http://www.leseditionsdeminuit.fr/livre-De_la_grammatologie-2028-1-1-0-1.html"},
+      {"name": "Gilbert Simondon", "url": "https://www.radiofrance.fr/franceculture/podcasts/serie-gilbert-simondon","children":[ 
+        {"name":"Du mode d'existence des objets techniques", "url": "https://editions.flammarion.com/du-mode-dexistence-des-objets-techniques/9782700704280"}
+        ]}
+      ]}  
+    ]},
+   {"name": "Coopération", "url": "https://fr.wikipedia.org/wiki/Coop%C3%A9ration_(%C3%A9conomie_sociale)", "children": [
+         {"name": "Festival Human Tech Days", "url": "https://www.humantechdays.fr/", "children":[
+             {"name":"La Fabrique de Blois", "url": "https://www.blois.fr/annuaire/espaces-jeunes/la-fabrique"},
+             {"name":"Maison des sciences de l'Homme du Val de Loire", "url":"https://www.msh-vdl.fr/"},   
+             {"name":"Les Ateliers de la Morinerie", "url":"https://ateliersdelamorinerie.com/"},
+             {"name":"Art::Labo", "url": "http://artlabo.org/","children":[
+                 {"name": "Labomedia", "url": "https://labomedia.org/", "Children":[
+                     {"name": "Reboute","url": "https://tube.futuretic.fr/c/reboutelatechnologie/videos"}
+                 ]}
+
+             ]}
+         ]},
+         {"name": "Artéfacts", "url": "https://www.artefacts.coop/", "children":[
+             {"name": "Néguentropie", "url": "https://neguentropie.art/", "children":[
+                {"name": "Néguentropie Frontiére","url":"https://cracn.fr/books/neguentropie/page/neguentropie-frontiere"},
+                {"name": "Néguanthropocène", "url": "https://cracn.fr/books/neguentropie/page/neguanthropocene"},
+                {"name": "Habitus"},
+                {"name": "Humus", "url": "https://do.doc.neguentropie.art/_publications/humus-2022", "children":[
+                    {"name": "Méta-Humus", "url": "https://www.msh-vdl.fr/actualite/human-tech-days-meta-humus/"}
+                ]}   
+             ]}
+         ]}
+     ]}, 
+    {"name": "Anthropologie", "url": "https://fr.wikipedia.org/wiki/Anthropologie","children":[
+             {"name": "David Graeber", "url": "https://fr.wikipedia.org/wiki/David_Graeber","children":[
+                {"name": "Sur les Rois", "url": "https://editionslatempete.com/produit/sur-les-rois/"}
+             ]},  
+             {"name":"Philippe Descola", "url": "https://www.college-de-france.fr/fr/chaire/philippe-descola-anthropologie-de-la-nature-chaire-statutaire/biography", "children":[
+                 {"name": "Philippe Descola : Les anthropologues vont chercher l'étonnement", "url": "https://www.radiofrance.fr/franceculture/podcasts/les-masterclasses/philippe-descola-les-anthropologues-vont-chercher-l-etonnement-9782779"}
+             ]},
+             {"name": "Pierre Legendre", "url": "https://www.fayard.fr/auteur/pierre-legendre/", "children":[
+                 {"name": "La fabrique de l'homme occidental","url": "https://www.fayard.fr/livre/la-fabrique-de-lhomme-occidental-9782842050962/"}
+             ]},
+             {"name": "André Leroi-Gourhan", "url": "https://www.radiofrance.fr/franceculture/podcasts/carbone-14-le-magazine-de-l-archeologie/andre-leroi-gourhan-et-la-technologie-6950891", "children":[
+                 {"name": "Le Geste et la Parole", "url": "https://www.albin-michel.fr/le-geste-et-la-parole-tome-1-9782226017284"}
+             ]}
+         ]},
+    {"name": "Psychiatrie", "url": "https://fr.wikipedia.org/wiki/Psychiatrie","children":[ 
+             {"name": "Psychotherapie institutionnelle", "url": "https://psychotherapieinstitutionnelle.net/","children":[
+                {"name": "Association Culturel de la Borde", "url": "https://associationculturelledelaborde.org/","children":[
+                    {"name": "Chimères n°84 - Avec Jean Oury", "url": "https://www.revue-chimeres.fr/Chimeres-no84-Avec-Jean-Oury"},
+                    {"name": "Neuropsychiatrie", "url": "https://fr.wikipedia.org/wiki/Neuropsychiatrie", "children":[
+                        {"name": "Gisela Pankow", "url": "https://fr.wikipedia.org/wiki/Gisela_Pankow"},
+                        {"name": "Yves Agid ", "url": "https://fr.wikipedia.org/wiki/Yves_Agid", "children":[
+                            {"name": "L'homme Glial", "url": "https://www.odilejacob.fr/catalogue/sciences/neurosciences/homme-glial_9782738139986.php"},
+                            {"name": "Institut du Cerveau", "url": "https://institutducerveau-icm.org/fr/"}
+                            ]}
+                        ]},
+                    {"name": "Pierre Delion", "url": "https://fr.wikipedia.org/wiki/Pierre_Delion", "children":[
+                        {"name": "Oury, donc", "url": "https://www.editions-eres.com/ouvrage/4956/oury-donc"},
+                        {"name": "Fonction phorique, holding et institution", "url":"https://www.editions-eres.com/ouvrage/4240/fonction-phorique-holding-et-institution"},
+                        {"name": "La constellation transférentielle", "url": "https://www.editions-eres.com/ouvrage/4903/la-constellation-transferentielle"}
+                    ]},  
+                    {"name": "Anthropopsychiatrie", "url": "https://www.szondi.fr/textes-audios-videos/lanthropopsychiatrie/introduction-aux-concepts-de-lanthropopsychiatrie/", "children":[
+                        {"name": "Jacques Schotte" , "children":[
+                            {"name": "Vers l'anthropopsychiatrie", "url": "https://www.cairn.info/vers-l-anthropopsychiatrie--9782705667474.htm"}
+                        ]},
+                        {"name": "Marc Ledoux" , "children":[
+                            {"name": "Ce qui se passe", "url":"https://www.millon.fr/livres/458-hors-collection-ledoux-marc-ce-qui-se-passe.html"}
+                         ]}
+             ]},
+                {"name": "Frantz Fanon", "url": "https://fr.wikipedia.org/wiki/Frantz_Fanon","children":[
+                {"name": "Écrits sur l'aliénation et la liberté", "url": "https://www.editionsladecouverte.fr/ecrits_sur_l_alienation_et_la_liberte-9782707186386"}
+             ]},
+                {"name": "François Tosquelles", "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/entretien-avec-francois-tosquelles-1-2-1ere-diffusion-04-10-1985-5305009", "children":[
+                    {"name": "Une politique de la folie", "url": "https://vimeo.com/167991974"},
+                    {"name": "Joana Maso", "url": "https://lamanufacturedidees.org/2023/04/28/maso-joana/", "children":[
+                        {"name": "Soigner les institutions", "url": "http://www.editions-arachneen.fr/#mg_ld_7018"},
+                        {"name": "La Déconniatrie", "url": "https://www.arcadia-editorial.com/llibres/la-deconniatrie/"}
+                     ]},
+                {"name": "Jean Oury", "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/a-voix-nue-jean-oury-4-5-1ere-diffusion-27-09-1990-3631406", "children":[
+                {"name": "Le Collectif", "url": "http://www.champsocial.com/book-le_collectif_le_seminaire_de_sainte-anne,467.html#couv"},
+                {"name": "Les séminaires de La Borde 1996/1997", "url": "http://www.champsocial.com/book-les_seminaires_de_la_borde_1996_1997,470.html"},
+                {"name": "Création et schizophrénie", "url": "http://www.editions-galilee.fr/f/index.php?sp=liv&livre_id=3021"},
+                {"name": "Vie quotidienne, rythme et présence, 1986", "url":"https://www.esquisses.eu/revue/jean-oury-vie-quotidienne-rythme-et-presence-1986/"},
+                {"name": "De Saint-Alban à La Borde, la psychothérapie institutionnelle", "url": "https://www.radiofrance.fr/franceculture/podcasts/selection-de-saint-alban-a-la-borde-la-psychotherapie-institutionnelle"},
+                {"name": "Essai sur la création esthétique", "url": "https://www.editions-hermann.fr/livre/essai-sur-la-creation-esthetique-jean-oury"},
+                {"name": "La psychose, l'institution, la mort", "url": "https://www.editions-hermann.fr/livre/la-psychose-l-institution-la-mort-jean-oury"},
+                {"name": "Itinéraires de formation", "url": "https://www.editions-hermann.fr/livre/itineraires-de-formation-jean-oury"},
+                {"name": "Préfaces", "url": "https://www.editions-hermann.fr/livre/prefaces-jean-oury"}
+                     ]},
+                {"name": "Danielle Roulot", "url": "", "children":[
+                    {"name":"L'avec schizophrénique","url": "https://www.editions-hermann.fr/livre/9782705687960"},
+                    {"name":"Dialogues à La Borde","url": "https://www.editions-hermann.fr/livre/dialogues-a-la-borde-jean-oury"},
+                    {"name": "Paysage de l'impossible", "url": "http://www.champsocial.com/book-paysage_de_l_impossible,471.html"},
+                    {"name": "Schizophrénie et langage", "url": "https://www.editions-eres.com/ouvrage/1461/schizophrenie-et-langage"}
+                     
+                ]},
+                {"name": "Catherine Perret", "url": "https://epha.univ-paris8.fr/catherine-perret", "children":[
+                        {"name": "Le Tacite, l'humain", "url": "https://www.seuil.com/ouvrage/le-tacite-l-humain-catherine-perret/9782021452389"}
+                    ]}     
+                ]}
+             ]}
+            ]}
+         ]},
+    {"name": "art", "url": "https://fr.wikipedia.org/wiki/Art","children":[
+            {"name": "Poésie", "url": "https://fr.wikipedia.org/wiki/Po%C3%A9sie", "children":[
+                {"name": "Franck Pavloff", "url": "https://fr.wikipedia.org/wiki/Franck_Pavloff", "children":[
+                    {"name": "Matin brun", "url": "https://www.cheyne-editeur.com/livre/productidn/1767011/matin-brunfranck-pavloff"}
+                ]}
+            ]},
+            {"name": "Architecture", "url": "https://fr.wikipedia.org/wiki/Architecture","children":[
+                {"name": "David Georges Emmerich", "url": "https://collections.frac-centre.fr/collection/collection-art-architecture/index-des-auteurs/david-georges-emmerich-58.html?authID=66"},
+                {"name": "Richard Buckminster Fuller", "url": "https://www.bfi.org/", "children":[
+                    {"name": "Cooperating Manual for Spaceship earth", "url": "https://spaceshipearth.live/"}
+                ]},
+                {"name": "Le soufle de l'architecte", "url": "https://www.fondationcartier.com/expositions/bijoy-jain-studio-mumbai-le-souffle-de-larchitecte"},
+                {"name": "osarch", "url": "https://osarch.org/"},
+                {"name": "Plan BIM", "url": "https://www.ecologie.gouv.fr/batiment-et-numerique"},
+                {"name": "IfcOpenShell", "url": "http://ifcopenshell.org/"},
+                {"name": "Compas", "url": "https://compas.dev/#/"},
+                {"name": "Construction en Bambou", "url": "https://fr.wikipedia.org/wiki/Construction_en_bambou", "children":[
+                    {"name": "CESE - Le bambou, la solution pour 2023 et pour 2050", "url": "https://youtu.be/8HxT1fHFkxU?feature=shared"},
+                    {"name": "Horizocom", "url": "https://www.horizom.co/"},
+                    {"name": "Bombouscoopic", "url": "https://bambouscoopic.org/"}
+                ]}
+            ]},
+            {"name": "musique", "url": "https://fr.wikipedia.org/wiki/Musique", "children":[
+                {"name": "Nirintsoa", "url": "https://do.doc.neguentropie.art/_publications/nirintsoa-la-composition-en-mao/"},
+                {"name": "P'tit Louis la Planche", "url": "https://www.youtube.com/@ptitlouislaplanche5846"}
+            ]},
+            {"name": "centrepompidou", "url": "https://www.centrepompidou.fr/fr/", "children":[
+                {"name": "Réseaux-Mondes", "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/6lEXdWo"}
+            ]},
+            {"name": "Fluxus", "url": "https://www.fondationdudoute.fr/1604-les-artistes.htm", "children":[
+                {"name": "La Fondation du Doute", "url": "https://www.fondationdudoute.fr/", "children":[
+                    {"name": "Jean-Paul Thibeau", "url": "https://dda-nouvelle-aquitaine.org/jean-paul-thibeau", "children":[
+                        {"name": "Les protocoles Méta", "url": "https://hackmd.io/@Erwan/Protocoles-Meta"}
+                        ]},
+                    {"name": "Campus fluxus", "url": "https://www.fondationdudoute.fr/Agenda/7611/1649-actualite.htm"}  
+                ]}
+         ]}
+     ]}
+]}
+
