@@ -202,6 +202,7 @@
     {"name": "Psychiatrie", "url": "https://fr.wikipedia.org/wiki/Psychiatrie","children":[ 
              {"name": "Psychotherapie institutionnelle", "url": "https://psychotherapieinstitutionnelle.net/","children":[
                 {"name": "Association Culturel de la Borde", "url": "https://associationculturelledelaborde.org/","children":[
+                    {"name": "Julia Kristeva, l'œuvre qui bouscule la littérature", "url": "https://www.radiofrance.fr/franceculture/podcasts/serie-julia-kristeva"},
                     {"name": "Chimères n°84 - Avec Jean Oury", "url": "https://www.revue-chimeres.fr/Chimeres-no84-Avec-Jean-Oury"},
                     {"name": "Neuropsychiatrie", "url": "https://fr.wikipedia.org/wiki/Neuropsychiatrie", "children":[
                         {"name": "Gisela Pankow", "url": "https://fr.wikipedia.org/wiki/Gisela_Pankow"},
