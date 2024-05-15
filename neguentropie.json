@@ -169,7 +169,8 @@
              {"name":"Les Ateliers de la Morinerie", "url":"https://ateliersdelamorinerie.com/"},
              {"name":"Art::Labo", "url": "http://artlabo.org/","children":[
                  {"name": "Labomedia", "url": "https://labomedia.org/", "children":[
-                     {"name": "Reboute", "url": "https://tube.futuretic.fr/c/reboutelatechnologie/videos"}
+                     {"name": "Reboute", "url": "https://tube.futuretic.fr/c/reboutelatechnologie/videos"},
+                     {"name": "CRACN", "url": "https://cracn.fr/books/neguentropie"}
                  ]}
 
              ]}
