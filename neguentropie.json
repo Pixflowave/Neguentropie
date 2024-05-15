@@ -176,6 +176,7 @@
          ]},
          {"name": "Artéfacts", "url": "https://www.artefacts.coop/", "children":[
              {"name": "Néguentropie", "url": "https://neguentropie.art/", "children":[
+                {"name": "Le printemps des cartes", "url": "https://www.printempsdescartes.fr/"}
                 {"name": "Néguentropie Frontiére","url":"https://cracn.fr/books/neguentropie/page/neguentropie-frontiere"},
                 {"name": "Néguanthropocène", "url": "https://cracn.fr/books/neguentropie/page/neguanthropocene"},
                 {"name": "Habitus"},
