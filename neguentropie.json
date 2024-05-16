@@ -73,6 +73,7 @@
     {"name": "Droit", "url": "https://fr.wikipedia.org/wiki/Droit", "children":[
         {"name": "Licence Art Libre", "url": "https://artlibre.org/"},
         {"name": "UNESCO - Ressources Educatives Libres", "url": "https://www.unesco.org/fr/education/digital"},
+        {"name": "ONU - 17 Objectifs de développement durable", "url": "https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable/"},
         {"name": "Licence Libre", "url": "https://fr.wikipedia.org/wiki/Licence_libre"},
         {"name": "Organisation International du Travail", "url": "https://www.ilo.org/global/lang--fr/index.htm"},    
         {"name": "Alain Supiot", "url": "https://www.college-de-france.fr/fr/chaire/alain-supiot-etat-social-et-mondialisation-analyse-juridique-des-solidarites-chaire-statutaire","children":[
