@@ -35,6 +35,7 @@
             {"name": "Framateam", "url": "https://framateam.org/landing#/"},
             {"name": "Open Badge", "url": "https://wikibadges.org/doku.php?id=fr:start"},
             {"name": "Cartographie", "url": "https://fr.wikipedia.org/wiki/Cartographie", "children":[
+                {"name": "Open Street Map", "url": "https://www.openstreetmap.fr/"},
                 {"name": "IGN", "url": "https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/les-cartes-ign-vont-elles-detroner-google-maps-4116534"},
                 {"name": "Philippe Rivière", "url": "https://illisible.net/philippe-riviere", "children":[
                     {"name": "VisionsCarto", "url": "https://www.visionscarto.net/", "children":[
