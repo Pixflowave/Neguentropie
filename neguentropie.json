@@ -39,6 +39,9 @@
                 {"name": "IGN", "url": "https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/les-cartes-ign-vont-elles-detroner-google-maps-4116534"},
                 {"name": "Philippe Rivière", "url": "https://illisible.net/philippe-riviere", "children":[
                     {"name": "VisionsCarto", "url": "https://www.visionscarto.net/", "children":[
+                        {"name": "Joanne Cheung", "url":"https://joannekcheung.com/","children":[
+                            {"name": "1969 : le « jeu de la paix mondiale » de Buckminster Fuller", "url":"https://www.visionscarto.net/buckminster-fuller-jeu-mondial"}
+                        ]},
                         {"name": "La projection comforme de Cox", "url": "https://www.visionscarto.net/la-projection-conforme-de-cox"},
                         {"name": "La recette des Planètes de papier", "url": "https://www.visionscarto.net/la-recette-des-planetes-de-papier"},
                         {"name": "La projection de Lee et ses paper toys", "url": "https://www.visionscarto.net/projection-de-lee"}
