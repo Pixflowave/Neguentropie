@@ -22,6 +22,9 @@
             {"name": "Hacker","url": "https://fr.wikipedia.org/wiki/Hacker_(sous-culture)", "children":[
                 {"name": "Richard Stallman","url": "https://www.radiofrance.fr/franceculture/richard-stallman-inventeur-du-logiciel-libre-et-penseur-d-un-internet-libertaire-5355561", "children":[
                 {"name": "Culture Maker", "url": "https://fr.wikipedia.org/wiki/Culture_maker"},
+                {"name": "Fred Turner", "url": "https://fr.wikipedia.org/wiki/Fred_Turner_(professeur)","children":[
+                    {"name":"Entretien avec Fred Turner, un penseur critique dans la Silicon Valley", "url": "https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/entretien-avec-fred-turner-un-penseur-critique-dans-la-silicon-valley-4627670"}
+                ]},
                 {"name": "Ubuntu", "url": "https://ubuntu.com/desktop"},
                 {"name": "GPhoto 2", "url": "https://manpages.ubuntu.com/manpages/trusty/man1/gphoto2.1.html"},
                 {"name": "Vscodium","url": "https://vscodium.com/"},
