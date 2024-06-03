@@ -55,6 +55,7 @@
                         ]},
                         {"name": "ObservableHQ", "url": "https://observablehq.com","children":[
                             {"name": "Plot", "url": "https://observablehq.com/plot/"},
+                            {"name": "projection AirOcean de Fuller", "url": "https://observablehq.com/@fil/buckminster-fullers-triangle-transformation"},
                             {"name": "Projection icosahedral de Richard Burkminster Fuller", "url":"https://observablehq.com/@fil/triangular-tiling-of-icosahedron"},
                             {"name": "Framework", "url": "https://observablehq.com/framework/"}
                     ]}
