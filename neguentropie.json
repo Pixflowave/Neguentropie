@@ -55,8 +55,10 @@
                         ]},
                         {"name": "ObservableHQ", "url": "https://observablehq.com","children":[
                             {"name": "Plot", "url": "https://observablehq.com/plot/"},
-                            {"name": "Buckminster Fuller’s triangle transformation", "url": "https://observablehq.com/@fil/buckminster-fullers-triangle-transformation"},
-                            {"name": "Projection icosahedral de Richard Burkminster Fuller", "url":"https://observablehq.com/@fil/triangular-tiling-of-icosahedron"},
+                            {"name": "Buckminster Fuller’s triangle transformation", "url": "https://observablehq.com/@fil/buckminster-fullers-triangle-transformation", "children":[
+                                {"name": "Projection icosahedral de Richard Burkminster Fuller", "url":"https://observablehq.com/@fil/triangular-tiling-of-icosahedron"},
+                                {"name": "Airocean projection","url":"https://observablehq.com/@fil/airocean-projection"}
+                            ]},
                             {"name": "Framework", "url": "https://observablehq.com/framework/"}
                     ]}
                   ]}
