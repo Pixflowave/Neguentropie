@@ -267,11 +267,11 @@
                 {"name": "Itinéraires de formation", "url": "https://www.editions-hermann.fr/livre/itineraires-de-formation-jean-oury"},
                 {"name": "Préfaces", "url": "https://www.editions-hermann.fr/livre/prefaces-jean-oury"}
                      ]},
-                {"name": "Danielle Roulot", "url": "", "children":[
-                    {"name":"L'avec schizophrénique","url": "https://www.editions-hermann.fr/livre/9782705687960"},
-                    {"name":"Dialogues à La Borde","url": "https://www.editions-hermann.fr/livre/dialogues-a-la-borde-jean-oury"},
-                    {"name": "Paysage de l'impossible", "url": "http://www.champsocial.com/book-paysage_de_l_impossible,471.html"},
-                    {"name": "Schizophrénie et langage", "url": "https://www.editions-eres.com/ouvrage/1461/schizophrenie-et-langage"}
+                {"name": "Danielle Roulot", "url": "https://www.editions-eres.com/nos-auteurs/52690/roulot-danielle", "children":[
+                    {"name":"L'avec schizophrénique", "url": "https://www.editions-hermann.fr/livre/9782705687960"},
+                    {"name":"Dialogues à La Borde", "url": "https://www.editions-hermann.fr/livre/dialogues-a-la-borde-jean-oury"},
+                    {"name":"Paysage de l'impossible", "url": "http://www.champsocial.com/book-paysage_de_l_impossible,471.html"},
+                    {"name":"Schizophrénie et langage", "url": "https://www.editions-eres.com/ouvrage/1461/schizophrenie-et-langage"}
                      
                 ]},
                 {"name": "Catherine Perret", "url": "https://epha.univ-paris8.fr/catherine-perret", "children":[
