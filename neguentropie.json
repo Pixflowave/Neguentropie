@@ -164,6 +164,9 @@
                 {"name": "Bifurquer", "url": "http://www.editionslesliensquiliberent.fr/livre-Bifurquer-609-1-1-0-1.html"}
             ]},
             {"name": "Organoesis", "url": "https://organoesis.org/", "children":[
+                {"name": "Yuk Hui", "url":"https://fr.wikipedia.org/wiki/Yuk_Hui", "children":[
+                    {"name":"Penser la technodiversité autrement","url":"https://courier.unesco.org/fr/articles/penser-la-technodiversite-autrement"}
+                ]},
                 {"name": "Anne Alombert", "url": "https://organoesis.org/anne-alombert","children":[
                     {"name": "Penser l'humain et la technique Simondon et Derrida après la métaphysique", "url": "http://catalogue-editions.ens-lyon.fr/fr/livre/?GCOI=29021100646930&fa=author&person_id=7523"},
                     {"name": "Schizophrénie numérique", "url": "https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique"},{"name": "Bernard Stiegler - Panser le devenir des savoirs dans le milieu numérique", "url":"https://www.lespressesdureel.com/ouvrage.php?id=11380&menu="},
@@ -198,6 +201,7 @@
          ]},
          {"name": "Artéfacts", "url": "https://www.artefacts.coop/", "children":[
              {"name": "Néguentropie", "url": "https://neguentropie.art/", "children":[
+                {"name":"Néguentropie à La Fabrique de Blois HTD2022" ,"url":"https://do.doc.neguentropie.art/_publications/neguentropie"},
                 {"name": "Printemps des cartes", "url": "https://www.printempsdescartes.fr/"},
                 {"name": "Néguentropie Frontiére","url":"https://cracn.fr/books/neguentropie/page/neguentropie-frontiere"},
                 {"name": "Néguanthropocène", "url": "https://cracn.fr/books/neguentropie/page/neguanthropocene"},
