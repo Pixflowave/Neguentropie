@@ -23,7 +23,7 @@
                 {"name": "Richard Stallman","url": "https://www.radiofrance.fr/franceculture/richard-stallman-inventeur-du-logiciel-libre-et-penseur-d-un-internet-libertaire-5355561", "children":[
                 {"name": "Culture Maker", "url": "https://fr.wikipedia.org/wiki/Culture_maker"},
                 {"name": "Fred Turner", "url": "https://fr.wikipedia.org/wiki/Fred_Turner_(professeur)","children":[
-                    {"name":"Entretien avec Fred Turner, un penseur critique dans la Silicon Valley", "url": "https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/entretien-avec-fred-turner-un-penseur-critique-dans-la-silicon-valley-4627670"}
+                    {"name":"Entretien avec Fred Turner,\nun penseur critique dans la Silicon Valley", "url": "https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/entretien-avec-fred-turner-un-penseur-critique-dans-la-silicon-valley-4627670"}
                 ]},
                 {"name": "Ubuntu", "url": "https://ubuntu.com/desktop"},
                 {"name": "GPhoto 2", "url": "https://manpages.ubuntu.com/manpages/trusty/man1/gphoto2.1.html"},
@@ -47,7 +47,7 @@
                     {"name": "Philippe Rivière", "url": "https://illisible.net/philippe-riviere", "children":[
                         {"name": "VisionsCarto", "url": "https://www.visionscarto.net/", "children":[
                             {"name": "Joanne Cheung", "url":"https://joannekcheung.com/","children":[
-                                {"name": "1969 : le « jeu de la paix mondiale » de Buckminster Fuller", "url":"https://www.visionscarto.net/buckminster-fuller-jeu-mondial"}
+                                {"name": "1969 : le « jeu de la paix mondiale »\nde Buckminster Fuller", "url":"https://www.visionscarto.net/buckminster-fuller-jeu-mondial"}
                             ]},
                             {"name": "La projection de Lee et ses paper toys","url": "https://www.visionscarto.net/projection-de-lee"},
                             {"name": "La projection comforme de Cox", "url": "https://www.visionscarto.net/la-projection-conforme-de-cox"},
@@ -57,7 +57,7 @@
                         {"name": "ObservableHQ", "url": "https://observablehq.com","children":[
                             {"name": "Plot", "url": "https://observablehq.com/plot/"},
                             {"name": "Buckminster Fuller’s triangle transformation", "url": "https://observablehq.com/@fil/buckminster-fullers-triangle-transformation", "children":[
-                                {"name": "Projection icosahedral de Richard Buckminster Fuller", "url":"https://observablehq.com/@fil/triangular-tiling-of-icosahedron"},
+                                {"name": "Projection icosahedral\nde Richard Buckminster Fuller", "url":"https://observablehq.com/@fil/triangular-tiling-of-icosahedron"},
                                 {"name": "Airocean projection","url":"https://observablehq.com/@fil/airocean-projection"}
                             ]},
                             {"name": "Framework", "url": "https://observablehq.com/framework/"}
@@ -72,7 +72,7 @@
         {"name": "Pédagogie de projet", "url": "https://fr.wikipedia.org/wiki/P%C3%A9dagogie_de_projet"},
         {"name": "Pédagogie institutionnelle","url":"https://fr.wikipedia.org/wiki/P%C3%A9dagogie_institutionnelle","children":[
             {"name": "Ecole de la Neuville","url":"http://www.ecoledelaneuville.fr/", "children":[
-                {"name": "La Neuville : L'Ecole Avec Francoise Dolto Suivi De Dix Ans Après", "url":"https://www.decitre.fr/livres/la-neuville-l-ecole-avec-francoise-dolto-suivi-de-dix-ans-apres-9782710114482.html"}
+                {"name": "La Neuville : L'Ecole Avec Francoise Dolto\nSuivi De Dix Ans Après", "url":"https://www.decitre.fr/livres/la-neuville-l-ecole-avec-francoise-dolto-suivi-de-dix-ans-apres-9782710114482.html"}
             ]},
             {"name": "Les semailles", "url": "https://lessemailles.fr/"},
             {"name": "Patrick Geffard", "url": "https://univ-paris8.academia.edu/PatrickGeffard"}
@@ -87,12 +87,12 @@
             {"name": "WORLD INEQUALITY REPORT 2022", "url": "https://wir2022.wid.world/"}
         ]},
         {"name": "François-Xavier Verschave", "url": "https://www.eclm.fr/auteurs/francois-xavier-verschave/","children":[
-            {"name": "La Maison monde - Libre leçons de Braudel","url": "https://www.eclm.fr/livre/la-maison-monde/"}
+            {"name": "La Maison monde\nLibre leçons de Braudel","url": "https://www.eclm.fr/livre/la-maison-monde/"}
         ]}    
     ]},
     {"name": "Droit", "url": "https://fr.wikipedia.org/wiki/Droit", "children":[
         {"name": "Licence Art Libre", "url": "https://artlibre.org/"},
-        {"name": "UNESCO - Ressources Educatives Libres", "url": "https://www.unesco.org/fr/education/digital"},
+        {"name": "UNESCO\nRessources Educatives Libres", "url": "https://www.unesco.org/fr/education/digital"},
         {"name": "ONU - 17 Objectifs de développement durable", "url": "https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable/"},
         {"name": "Licence Libre", "url": "https://fr.wikipedia.org/wiki/Licence_libre"},
         {"name": "Organisation International du Travail", "url": "https://www.ilo.org/global/lang--fr/index.htm"},    
@@ -130,7 +130,7 @@
             {"name": "Épistémologie","url": "https://fr.wikipedia.org/wiki/%C3%89pist%C3%A9mologie","children":[
                 {"name": "Logicien", "url": "https://www.cnrtl.fr/definition/logicien","children":[
                     {"name": "Giuseppe Longo", "url": "https://www.di.ens.fr/users/longo/", "children":[
-                        {"name": "Le Cauchemar de Prométhée - Les Sciences et leurs limites","url": "https://www.di.ens.fr/users/longo/files/Couv_Table-introLeCauchemarPromethee.pdf"}
+                        {"name": "Le Cauchemar de Prométhée\nLes Sciences et leurs limites","url": "https://www.di.ens.fr/users/longo/files/Couv_Table-introLeCauchemarPromethee.pdf"}
                     ]}
                 ]}
             ]}
@@ -142,19 +142,19 @@
        {"name": "Bernard Stiegler", "url": "https://www.radiofrance.fr/franceculture/podcasts/serie-bernard-stiegler-la-philosophie-et-la-vie" ,"children": [
         {"name": "Pharmakon", "url":"https://pharmakon.fr/wordpress/"},
         {"name": "Aimer, s’aimer, nous aimer", "url": "http://www.editions-galilee.fr/f/index.php?sp=liv&livre_id=3088"},
-        {"name": "Dans la disruption comment ne pas devenir fou ?", "url": "http://www.editionslesliensquiliberent.fr/livre-Dans_la_disruption-484-1-1-0-1.html"},
+        {"name": "Dans la disruption\ncomment ne pas devenir fou ?", "url": "http://www.editionslesliensquiliberent.fr/livre-Dans_la_disruption-484-1-1-0-1.html"},
         {"name": "qu'appelle-t-on panser ?", "url": "http://www.editionslesliensquiliberent.fr/livre-Dans_la_disruption-484-1-1-0-1.html"},
-        {"name": "La société automatique - l'avenir du travail", "url": "https://www.fayard.fr/livre/la-societe-automatique-9782213685656/"},
+        {"name": "La société automatique\nl'avenir du travail", "url": "https://www.fayard.fr/livre/la-societe-automatique-9782213685656/"},
         {"name": "La technique et le temps", "url": "https://www.fayard.fr/livre/la-technique-et-le-temps-9782213700878/"},
         {"name": "Ars Industrialis", "url": "https://arsindustrialis.org/", "children":[
             {"name": "Réenchenter le monde", "url": "https://editions.flammarion.com/reenchanter-le-monde/9782081217843"},
-            {"name": "Association des Amis de la Génération Thunberg-Ars Industrialis","url": "https://generation-thunberg.org/accueil"}
+            {"name": "Association des Amis de la Génération Thunberg\nArs Industrialis","url": "https://generation-thunberg.org/accueil"}
         ]},
         {"name": "Vers un art de l’hypercontrôle", "url": "https://alphabetville.org/vers-un-art-de-lhypercontrole/"},
-        {"name": "Shakespeare–to–peer,par Bernard Stiegler", "url": "https://archive-magazine.jeudepaume.org/2011/08/shakespeare-to-peer/index.html"},
+        {"name": "Shakespeare–to–peer\npar Bernard Stiegler", "url": "https://archive-magazine.jeudepaume.org/2011/08/shakespeare-to-peer/index.html"},
         {"name": "IRI", "url":"https://www.iri.centrepompidou.fr/","children":[
             {"name": "Les Entretiens du nouveau monde industriel","url": "https://enmi-conf.org/", "children":[
-                {"name": "Prendre soin de l'informatique et des génèrations", "url": "https://boutique.fypeditions.com/products/prendre-soin-de-l-informatique-et-des-generations-hommage-a-bernard-stiegler"}
+                {"name": "Prendre soin de l'informatique\net des génèrations", "url": "https://boutique.fypeditions.com/products/prendre-soin-de-l-informatique-et-des-generations-hommage-a-bernard-stiegler"}
             ]},
             {"name": "Digitale Studies", "url": "https://digital-studies.org/wp/fr/"},
             {"name": "Territoire Apprenant Contributif", "url": "https://tac93.fr/"},
@@ -243,7 +243,7 @@
                         ]},
                     {"name": "Pierre Delion", "url": "https://fr.wikipedia.org/wiki/Pierre_Delion", "children":[
                         {"name": "Oury, donc", "url": "https://www.editions-eres.com/ouvrage/4956/oury-donc"},
-                        {"name": "Fonction phorique, holding et institution", "url":"https://www.editions-eres.com/ouvrage/4240/fonction-phorique-holding-et-institution"},
+                        {"name": "Fonction phorique\nholding et institution", "url":"https://www.editions-eres.com/ouvrage/4240/fonction-phorique-holding-et-institution"},
                         {"name": "La constellation transférentielle", "url": "https://www.editions-eres.com/ouvrage/4903/la-constellation-transferentielle"}
                     ]},  
                     {"name": "Anthropopsychiatrie", "url": "https://www.szondi.fr/textes-audios-videos/lanthropopsychiatrie/introduction-aux-concepts-de-lanthropopsychiatrie/", "children":[
@@ -268,8 +268,8 @@
                 {"name": "Le Collectif", "url": "http://www.champsocial.com/book-le_collectif_le_seminaire_de_sainte-anne,467.html#couv"},
                 {"name": "Les séminaires de La Borde 1996/1997", "url": "http://www.champsocial.com/book-les_seminaires_de_la_borde_1996_1997,470.html"},
                 {"name": "Création et schizophrénie", "url": "http://www.editions-galilee.fr/f/index.php?sp=liv&livre_id=3021"},
-                {"name": "Vie quotidienne, rythme et présence, 1986", "url":"https://www.esquisses.eu/revue/jean-oury-vie-quotidienne-rythme-et-presence-1986/"},
-                {"name": "De Saint-Alban à La Borde, la psychothérapie institutionnelle", "url": "https://www.radiofrance.fr/franceculture/podcasts/selection-de-saint-alban-a-la-borde-la-psychotherapie-institutionnelle"},
+                {"name": "Vie quotidienne,\nrythme et présence, 1986", "url":"https://www.esquisses.eu/revue/jean-oury-vie-quotidienne-rythme-et-presence-1986/"},
+                {"name": "De Saint-Alban à La Borde,\nla psychothérapie institutionnelle", "url": "https://www.radiofrance.fr/franceculture/podcasts/selection-de-saint-alban-a-la-borde-la-psychotherapie-institutionnelle"},
                 {"name": "Essai sur la création esthétique", "url": "https://www.editions-hermann.fr/livre/essai-sur-la-creation-esthetique-jean-oury"},
                 {"name": "La psychose, l'institution, la mort", "url": "https://www.editions-hermann.fr/livre/la-psychose-l-institution-la-mort-jean-oury"},
                 {"name": "Itinéraires de formation", "url": "https://www.editions-hermann.fr/livre/itineraires-de-formation-jean-oury"},
