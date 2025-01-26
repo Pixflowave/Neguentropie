@@ -148,7 +148,7 @@
         {"name": "La technique et le temps", "url": "https://www.fayard.fr/livre/la-technique-et-le-temps-9782213700878/"},
         {"name": "Ars Industrialis", "url": "https://arsindustrialis.org/", "children":[
             {"name": "Réenchenter le monde", "url": "https://editions.flammarion.com/reenchanter-le-monde/9782081217843"},
-            {"name": "Association des Amis de la Génération Thunberg\nArs Industrialis","url": "https://generation-thunberg.org/accueil"}
+            {"name": "Association des Amis de la Génération Thunberg","url": "https://generation-thunberg.org/accueil"}
         ]},
         {"name": "Vers un art de l’hypercontrôle", "url": "https://alphabetville.org/vers-un-art-de-lhypercontrole/"},
         {"name": "Shakespeare–to–peer\npar Bernard Stiegler", "url": "https://archive-magazine.jeudepaume.org/2011/08/shakespeare-to-peer/index.html"},
@@ -168,7 +168,7 @@
                     {"name":"Penser la technodiversité autrement","url":"https://courier.unesco.org/fr/articles/penser-la-technodiversite-autrement"}
                 ]},
                 {"name": "Anne Alombert", "url": "https://organoesis.org/anne-alombert","children":[
-                    {"name": "Penser l'humain et la technique Simondon et Derrida après la métaphysique", "url": "http://catalogue-editions.ens-lyon.fr/fr/livre/?GCOI=29021100646930&fa=author&person_id=7523"},
+                    {"name": "Penser l'humain et la technique\nSimondon et Derrida après la métaphysique", "url": "http://catalogue-editions.ens-lyon.fr/fr/livre/?GCOI=29021100646930&fa=author&person_id=7523"},
                     {"name": "Schizophrénie numérique", "url": "https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique"},{"name": "Bernard Stiegler - Panser le devenir des savoirs dans le milieu numérique", "url":"https://www.lespressesdureel.com/ouvrage.php?id=11380&menu="},
                     {"name": "Pharmakon Studies", "url": "https://pharmakonstudies.wordpress.com/#"},
                     {"name": "Critique de l’Intelligence Artificielle","url": "https://organoesis.org/recherches/critique-de-lintelligence-artificielle"}
@@ -189,7 +189,7 @@
    {"name": "Coopération", "url": "https://fr.wikipedia.org/wiki/Coop%C3%A9ration_(%C3%A9conomie_sociale)", "children": [
          {"name": "Festival Human Tech Days", "url": "https://www.humantechdays.fr/", "children":[
              {"name":"La Fabrique de Blois", "url": "https://www.blois.fr/annuaire/espaces-jeunes/la-fabrique"},
-             {"name":"Maison des sciences de l'Homme du Val de Loire", "url":"https://www.msh-vdl.fr/"},   
+             {"name":"Maison des sciences de l'Homme\ndu Val de Loire", "url":"https://www.msh-vdl.fr/"},   
              {"name":"Les Ateliers de la Morinerie", "url":"https://ateliersdelamorinerie.com/"},
              {"name":"Art::Labo", "url": "http://artlabo.org/","children":[
                  {"name": "Labomedia", "url": "https://labomedia.org/", "children":[
@@ -201,7 +201,7 @@
          ]},
          {"name": "Artéfacts", "url": "https://www.artefacts.coop/", "children":[
              {"name": "Néguentropie", "url": "https://neguentropie.art/", "children":[
-                {"name":"Néguentropie à La Fabrique de Blois HTD2022" ,"url":"https://do.doc.neguentropie.art/_publications/neguentropie"},
+                {"name":"Néguentropie\n à La Fabrique de Blois HTD2022" ,"url":"https://do.doc.neguentropie.art/_publications/neguentropie"},
                 {"name": "Printemps des cartes", "url": "https://www.printempsdescartes.fr/"},
                 {"name": "Néguentropie Frontiére","url":"https://cracn.fr/books/neguentropie/page/neguentropie-frontiere"},
                 {"name": "Néguanthropocène", "url": "https://cracn.fr/books/neguentropie/page/neguanthropocene"},
@@ -307,7 +307,7 @@
                 {"name": "IfcOpenShell", "url": "http://ifcopenshell.org/"},
                 {"name": "Compas", "url": "https://compas.dev/#/"},
                 {"name": "Construction en Bambou", "url": "https://fr.wikipedia.org/wiki/Construction_en_bambou", "children":[
-                    {"name": "CESE - Le bambou, la solution pour 2023 et pour 2050", "url": "https://youtu.be/8HxT1fHFkxU?feature=shared"},
+                    {"name": "CESE - Le bambou,\nla solution pour 2023 et pour 2050", "url": "https://youtu.be/8HxT1fHFkxU?feature=shared"},
                     {"name": "Horizocom", "url": "https://www.horizom.co/"},
                     {"name": "Bombouscoopic", "url": "https://bambouscoopic.org/"}
                 ]}
