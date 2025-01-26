@@ -169,7 +169,8 @@
                 ]},
                 {"name": "Anne Alombert", "url": "https://organoesis.org/anne-alombert","children":[
                     {"name": "Penser l'humain et la technique\nSimondon et Derrida après la métaphysique", "url": "http://catalogue-editions.ens-lyon.fr/fr/livre/?GCOI=29021100646930&fa=author&person_id=7523"},
-                    {"name": "Schizophrénie numérique", "url": "https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique"},{"name": "Bernard Stiegler - Panser le devenir des savoirs dans le milieu numérique", "url":"https://www.lespressesdureel.com/ouvrage.php?id=11380&menu="},
+                    {"name": "Schizophrénie numérique", "url": "https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique"},
+                    {"name": "Bernard Stiegler\nPanser le devenir des savoirs dans le milieu numérique", "url":"https://www.lespressesdureel.com/ouvrage.php?id=11380&menu="},
                     {"name": "Pharmakon Studies", "url": "https://pharmakonstudies.wordpress.com/#"},
                     {"name": "Critique de l’Intelligence Artificielle","url": "https://organoesis.org/recherches/critique-de-lintelligence-artificielle"}
                          ]}
@@ -217,7 +218,7 @@
                 {"name": "Sur les Rois", "url": "https://editionslatempete.com/produit/sur-les-rois/"}
              ]},  
              {"name":"Philippe Descola", "url": "https://www.college-de-france.fr/fr/chaire/philippe-descola-anthropologie-de-la-nature-chaire-statutaire/biography", "children":[
-                 {"name": "Philippe Descola : Les anthropologues vont chercher l'étonnement", "url": "https://www.radiofrance.fr/franceculture/podcasts/les-masterclasses/philippe-descola-les-anthropologues-vont-chercher-l-etonnement-9782779"}
+                 {"name": "Philippe Descola :\nLes anthropologues vont chercher l'étonnement", "url": "https://www.radiofrance.fr/franceculture/podcasts/les-masterclasses/philippe-descola-les-anthropologues-vont-chercher-l-etonnement-9782779"}
              ]},
              {"name": "Pierre Legendre", "url": "https://www.fayard.fr/auteur/pierre-legendre/", "children":[
                  {"name": "La fabrique de l'homme occidental","url": "https://www.fayard.fr/livre/la-fabrique-de-lhomme-occidental-9782842050962/"}
