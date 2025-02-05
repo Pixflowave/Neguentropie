@@ -232,7 +232,9 @@
                  {"name": "Le Geste et la Parole", "url": "https://www.albin-michel.fr/le-geste-et-la-parole-tome-1-9782226017284"}
              ]}
          ]},
-    {"name": "Psychiatrie", "url": "https://fr.wikipedia.org/wiki/Psychiatrie","children":[ 
+    {"name": "Psychiatrie", "url": "https://fr.wikipedia.org/wiki/Psychiatrie","children":[
+             {"name": "Collectif des 39", "url": "https://www.collectifpsychiatrie.fr"},
+             {"name": "Printemps de la psychiatrie", "url": "https://printempsdelapsychiatrie.org"},
              {"name": "Psychotherapie institutionnelle", "url": "https://psychotherapieinstitutionnelle.net/","children":[
                 {"name": "Association Culturel de la Borde", "url": "https://associationculturelledelaborde.org/","children":[
                     {"name": "Joseph Gabel", "url": "https://fr.wikipedia.org/wiki/Joseph_Gabel", "children":[
