@@ -192,14 +192,15 @@
          {"name": "Festival Human Tech Days", "url": "https://www.humantechdays.fr/", "children":[
              {"name":"La Fabrique de Blois", "url": "https://www.blois.fr/annuaire/espaces-jeunes/la-fabrique"},
              {"name":"Maison des sciences de l'Homme\ndu Val de Loire", "url":"https://www.msh-vdl.fr/", "children": [
-                {"name": "Atelier de la donnée Centre-Val de Loire", "url": "https://adcvl.pu-cvl.fr"},  
+                {"name": "Atelier de la donnée Centre-Val de Loire", "url": "https://adcvl.pu-cvl.fr"}
+             ]},  
              {"name":"Les Ateliers de la Morinerie", "url":"https://ateliersdelamorinerie.com/"},
              {"name":"Art::Labo", "url": "http://artlabo.org/","children":[
                  {"name": "Labomedia", "url": "https://labomedia.org/", "children":[
                      {"name": "Reboute", "url": "https://tube.futuretic.fr/c/reboutelatechnologie/videos"},
                      {"name": "CRACN", "url": "https://cracn.fr/books/neguentropie"}
                  ]}
-                 ]}
+                 
              ]}
          ]},
          {"name": "Artéfacts", "url": "https://www.artefacts.coop/", "children":[
