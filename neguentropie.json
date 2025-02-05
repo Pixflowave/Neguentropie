@@ -1,6 +1,9 @@
 {"name": "Technè","url": "https://fr.wikipedia.org/wiki/Techn%C3%A8","children": [
     {"name": "Technique","url":"https://fr.wikipedia.org/wiki/Technique", "children": [
-        {"name": "Designing Future Democracies", "url": "https://compdemocracy.org"},
+        {"name": "Démocratie","url":"https://fr.wikipedia.org/wiki/Démocratie", "children": [
+            {"name": "Designing Future Democracies", "url": "https://compdemocracy.org"},
+            {"name": "L’observatoire des algorithmes publics", "url": "https://odap.fr"}
+        ]},
         {"name": "Cartographie", "url": "https://fr.wikipedia.org/wiki/Cartographie", "children":[
             {"name": "IGN", "url": "https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/les-cartes-ign-vont-elles-detroner-google-maps-4116534"}
         ]},
@@ -190,17 +193,16 @@
     ]},
    {"name": "Coopération", "url": "https://fr.wikipedia.org/wiki/Coop%C3%A9ration_(%C3%A9conomie_sociale)", "children": [
          {"name": "Festival Human Tech Days", "url": "https://www.humantechdays.fr/", "children":[
+            {"name":"Les Ateliers de la Morinerie", "url":"https://ateliersdelamorinerie.com/"},
+            {"name":"Art::Labo", "url":"http://artlabo.org/","children":[
+                 {"name":"Labomedia", "url":"https://labomedia.org/", "children":[
+                     {"name":"Reboute", "url":"https://tube.futuretic.fr/c/reboutelatechnologie/videos"},
+                     {"name":"CRACN", "url":"https://cracn.fr/books/neguentropie"}
+                 ]} 
+             ]},
              {"name":"La Fabrique de Blois", "url": "https://www.blois.fr/annuaire/espaces-jeunes/la-fabrique"},
              {"name":"Maison des sciences de l'Homme\ndu Val de Loire", "url":"https://www.msh-vdl.fr/", "children": [
                 {"name": "Atelier de la donnée Centre-Val de Loire", "url": "https://adcvl.pu-cvl.fr"}
-             ]},  
-             {"name":"Les Ateliers de la Morinerie", "url":"https://ateliersdelamorinerie.com/"},
-             {"name":"Art::Labo", "url": "http://artlabo.org/","children":[
-                 {"name": "Labomedia", "url": "https://labomedia.org/", "children":[
-                     {"name": "Reboute", "url": "https://tube.futuretic.fr/c/reboutelatechnologie/videos"},
-                     {"name": "CRACN", "url": "https://cracn.fr/books/neguentropie"}
-                 ]}
-                 
              ]}
          ]},
          {"name": "Artéfacts", "url": "https://www.artefacts.coop/", "children":[
