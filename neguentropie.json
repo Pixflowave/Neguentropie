@@ -236,6 +236,7 @@
              {"name": "Collectif des 39", "url": "https://www.collectifpsychiatrie.fr"},
              {"name": "Printemps de la psychiatrie", "url": "https://printempsdelapsychiatrie.org"},
              {"name": "Psychotherapie institutionnelle", "url": "https://psychotherapieinstitutionnelle.net/","children":[
+                {"name": "Ecole de Psychiatrie institutionnelle de la Chesnaie", "url": "https://epiclachesnaieblog.wordpress.com"},
                 {"name": "Association Culturel de la Borde", "url": "https://associationculturelledelaborde.org/","children":[
                     {"name": "Joseph Gabel", "url": "https://fr.wikipedia.org/wiki/Joseph_Gabel", "children":[
                         {"name": "La Fausse Conscience", "url": "https://www.lechappee.org/collections/versus/la-fausse-conscience"}
