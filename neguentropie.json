@@ -121,7 +121,7 @@
                         {"name": "Virgocoop", "url": "https://virgocoop.fr/"}
                     ]}
                 ]},
-                {"name": "Repas Néguentropique", "url": "https://do.doc.neguentropie.art/_publications/repas-neguentropique/"}
+                {"name": "Repas Néguentropique", "url": "https://tekhne.neguentropie.art/+neguentropie/neguentropie-la-fabrique-de-blois-2022/publications/neguentropie-la-fabrique-de-blois-2022?display=section&section=section-1760094361539.meta.txt"}
         ]},
             {"name": "FAO", "url": "https://www.fao.org/sustainable-development-goals-helpdesk/fr"}
         ]}
@@ -210,14 +210,14 @@
          ]},
          {"name": "Artéfacts", "url": "https://www.artefacts.coop/", "children":[
              {"name": "Néguentropie", "url": "https://neguentropie.art/", "children":[
-                {"name":"Néguentropie\n à La Fabrique de Blois HTD2022" ,"url":"https://do.doc.neguentropie.art/_publications/neguentropie"},
+                {"name":"Néguentropie\n à La Fabrique de Blois HTD2022" ,"url":"https://tekhne.neguentropie.art/+neguentropie/neguentropie-la-fabrique-de-blois-2022/publications/neguentropie-la-fabrique-de-blois-2022?display=section&section=section-1760092463921.meta.txt"},
                 {"name": "Printemps des cartes", "url": "https://www.printempsdescartes.fr/", "children":[
                     {"name": "Cartes & Géomatique", "url": "https://www.lecfc.fr/index.php?page=publication"}
                     ]},
                 {"name": "Néguentropie Frontiére","url":"https://cracn.fr/books/neguentropie/page/neguentropie-frontiere"},
                 {"name": "Néguanthropocène", "url": "https://cracn.fr/books/neguentropie/page/neguanthropocene"},
                 {"name": "Habitus"},
-                {"name": "Humus", "url": "https://do.doc.neguentropie.art/_publications/humus-2022", "children":[
+                {"name": "Humus", "url": "https://tekhne.neguentropie.art/+neguentropie/humus/publications/humus?display=slides", "children":[
                     {"name": "Méta-Humus", "url": "https://www.msh-vdl.fr/actualite/human-tech-days-meta-humus/"}
                 ]}   
              ]}
@@ -327,7 +327,7 @@
                 ]}
             ]},
             {"name": "musique", "url": "https://fr.wikipedia.org/wiki/Musique", "children":[
-                {"name": "Nirintsoa", "url": "https://do.doc.neguentropie.art/_publications/nirintsoa-la-composition-en-mao/"},
+                {"name": "Nirintsoa", "url": "https://tekhne.neguentropie.art/+neguentropie/neguentropie-la-fabrique-de-blois-2022?projectpanes=%5B%7B%22type%22%3A%22publish%22,%22size%22%3A100,%22folder%22%3A%22neguentropie-la-fabrique-de-blois-2022%22,%22section%22%3A%22section-1760392532380.meta.txt%22%7D%5D"},
                 {"name": "P'tit Louis la Planche", "url": "https://www.youtube.com/@ptitlouislaplanche5846"}
             ]},
             {"name": "centrepompidou", "url": "https://www.centrepompidou.fr/fr/", "children":[
