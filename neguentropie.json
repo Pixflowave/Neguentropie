@@ -152,7 +152,9 @@
         {"name": "La technique et le temps", "url": "https://www.fayard.fr/livre/la-technique-et-le-temps-9782213700878/"},
         {"name": "Ars Industrialis", "url": "https://arsindustrialis.org/", "children":[
             {"name": "Réenchenter le monde", "url": "https://editions.flammarion.com/reenchanter-le-monde/9782081217843"},
-            {"name": "Association des Amis de la Génération Thunberg","url": "https://generation-thunberg.org/accueil"}
+            {"name": "Association des Amis de la Génération Thunberg","url": "https://generation-thunberg.org/accueil", "children":[
+            {"name": "Épokhè", "url": "https://epokhe.world"}
+            ]}
         ]},
         {"name": "Vers un art de l’hypercontrôle", "url": "https://alphabetville.org/vers-un-art-de-lhypercontrole/"},
         {"name": "Shakespeare–to–peer\npar Bernard Stiegler", "url": "https://archive-magazine.jeudepaume.org/2011/08/shakespeare-to-peer/index.html"},
