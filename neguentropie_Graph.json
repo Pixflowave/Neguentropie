@@ -1049,12 +1049,12 @@
         {
             "source": "Technique",
             "target": "Couture",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Couture",
             "target": "Machine à Coudre",
-            "type": "Savoir-faire"
+            "type": "Outil"
         },
         {
             "source": "Technique",
