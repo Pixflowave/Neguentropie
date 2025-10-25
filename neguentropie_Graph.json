@@ -2267,13 +2267,13 @@
             "type": "parent-child"
         },
         {
-            "source": "Gaël Giraud",
-            "target": "Le capital que je ne suis pas !",
+            "source": "CNRS",
+            "target": "Gaël Giraud",
             "type": "parent-child"
         },
         {
-            "source": "CNRS",
-            "target": "Gaël Giraud",
+            "source": "Gaël Giraud",
+            "target": "Le capital que je ne suis pas !",
             "type": "parent-child"
         }
     ]
