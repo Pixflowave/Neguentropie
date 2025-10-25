@@ -1504,7 +1504,7 @@
         {
             "source": "Gaël Giraud",
             "target": "Le capital que je ne suis pas !",
-            "type": "parent-child"
+            "type": "child-parent"
         },
         {
             "source": "CNRS",
