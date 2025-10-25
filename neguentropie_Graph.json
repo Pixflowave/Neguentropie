@@ -1024,27 +1024,27 @@
         {
             "source": "Démocratie",
             "target": "Designing Future Democracies",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
-            "source": "Démocratie",
+            "source": "Designing Future Democracies",
             "target": "Polis",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Démocratie",
             "target": "L’observatoire des algorithmes publics",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Technique",
             "target": "Cartographie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Cartographie",
             "target": "IGN",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Technique",
@@ -1054,1227 +1054,1227 @@
         {
             "source": "Couture",
             "target": "Machine à Coudre",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Technique",
             "target": "Dremel",
-            "type": "parent-child"
+            "type": "Outil"
         },
         {
             "source": "Technique",
             "target": "Wanguerflange",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Technique",
             "target": "Bricolage",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Technique",
             "target": "Menuiserie",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Menuiserie",
             "target": "ISHITANI\nWashitsu Table",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Menuiserie",
             "target": "affûter une gouge",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Menuiserie",
             "target": "Une bibliothèque design",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Technique",
             "target": "Tissage",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Tissage",
             "target": "Textile",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Technique",
             "target": "Contre-Culture",
-            "type": "parent-child"
+            "type": "Mouvement"
         },
         {
             "source": "Contre-Culture",
             "target": "Hacker",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Hacker",
             "target": "Richard Stallman",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Richard Stallman",
             "target": "Culture Maker",
-            "type": "parent-child"
+            "type": "Mouvement"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Hacker",
             "target": "Fred Turner",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Fred Turner",
             "target": "Entretien avec Fred Turner,\nun penseur critique dans la Silicon Valley",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
             "source": "Richard Stallman",
             "target": "Ubuntu",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "GPhoto 2",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Vscodium",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "FreeCAD",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Blender",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "InkScape",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Gimp",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Hackmd",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "MPCNC",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Do.Doc",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Signal",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "JSON",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Kdenlive",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Flowblade",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Nextcloud",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Framateam",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Richard Stallman",
             "target": "Open Badge",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Cartographie",
             "target": "Contre-Cartographie",
-            "type": "parent-child"
+            "type": "Mouvement"
         },
         {
             "source": "Contre-Cartographie",
             "target": "Open Street Map",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Contre-Cartographie",
             "target": "Philippe Rivière",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Philippe Rivière",
             "target": "VisionsCarto",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "VisionsCarto",
             "target": "Joanne Cheung",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Joanne Cheung",
             "target": "1969 : le « jeu de la paix mondiale »\nde Buckminster Fuller",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
-            "source": "VisionsCarto",
+            "source": "Philippe Rivière",
             "target": "La quadrature de la sphère",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
-            "source": "VisionsCarto",
+            "source": "Philippe Rivière",
             "target": "La projection de Lee et ses paper toys",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
             "source": "VisionsCarto",
             "target": "La projection comforme de Cox",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
-            "source": "VisionsCarto",
+            "source": "Philippe Rivière",
             "target": "La recette des Planètes de papier",
-            "type": "parent-child"
-        },
-        {
-            "source": "VisionsCarto",
-            "target": "La projection de Lee et ses paper toys",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
             "source": "Philippe Rivière",
             "target": "ObservableHQ",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "ObservableHQ",
             "target": "Plot",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "ObservableHQ",
             "target": "Buckminster Fuller’s triangle transformation",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Buckminster Fuller’s triangle transformation",
             "target": "Projection icosahedral\nde Richard Buckminster Fuller",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Buckminster Fuller’s triangle transformation",
             "target": "Airocean projection",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "ObservableHQ",
             "target": "Framework",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Technè",
             "target": "Pédagogie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Pédagogie",
             "target": "Pédagogie de projet",
-            "type": "parent-child"
+            "type": "Methode"
         },
         {
             "source": "Pédagogie",
             "target": "Pédagogie institutionnelle",
-            "type": "parent-child"
+            "type": "Methode"
         },
         {
             "source": "Pédagogie institutionnelle",
             "target": "Ecole de la Neuville",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Ecole de la Neuville",
             "target": "La Neuville : L'Ecole Avec Francoise Dolto\nSuivi De Dix Ans Après",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Pédagogie institutionnelle",
             "target": "Les semailles",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Pédagogie institutionnelle",
             "target": "Patrick Geffard",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Technè",
             "target": "Économie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Économie",
             "target": "Frédèrique Lordon",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Frédèrique Lordon",
             "target": "La Condition anarchique",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Économie",
             "target": "Thomas Piketty",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Thomas Piketty",
             "target": "Nature, culture et inégalités",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Thomas Piketty",
             "target": "WORLD INEQUALITY REPORT 2022",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Économie",
             "target": "François-Xavier Verschave",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "François-Xavier Verschave",
             "target": "La Maison monde\nLibre leçons de Braudel",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Technè",
             "target": "Droit",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Droit",
             "target": "Licence Art Libre",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Droit",
             "target": "UNESCO\nRessources Educatives Libres",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Droit",
             "target": "ONU - 17 Objectifs de développement durable",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Droit",
             "target": "Licence Libre",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Droit",
             "target": "Organisation International du Travail",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Droit",
             "target": "Alain Supiot",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Alain Supiot",
             "target": "La gouvernance par les nombres",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Alain Supiot",
             "target": "Le travail n'est pas une marchandise",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Alain Supiot",
             "target": "L'esprit de Philadelphie",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Technè",
             "target": "Sociologie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Sociologie",
             "target": "Marcel Mauss",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Marcel Mauss",
             "target": "Essai sur le don",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Technè",
             "target": "Agronomie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Agronomie",
             "target": "Agriculture",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Agriculture",
             "target": "Alimentation",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Alimentation",
             "target": "Fibre Végétale",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Fibre Végétale",
             "target": "fibre de Bambou",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Fibre Végétale",
             "target": "Toile de jute",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Fibre Végétale",
             "target": "Chanvre",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Chanvre",
             "target": "Virgocoop",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Alimentation",
             "target": "Repas Néguentropique",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Agriculture",
             "target": "FAO",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Technè",
             "target": "CNRS",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "CNRS",
             "target": "Gaël Giraud",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Gaël Giraud",
             "target": "Le capital que je ne suis pas !",
-            "type": "child-parent"
+            "type": "Livre"
         },
         {
             "source": "CNRS",
             "target": "Historien",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Historien",
             "target": "L'événement Anthropocène",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "CNRS",
             "target": "Mathématique",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Mathématique",
             "target": "Épistémologie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Épistémologie",
+            "target": "Logique",
+            "type": "Discipline"
+        },
+        {
+            "source": "Logique",
             "target": "Logicien",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Logicien",
             "target": "Giuseppe Longo",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Giuseppe Longo",
             "target": "Le Cauchemar de Prométhée\nLes Sciences et leurs limites",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Technè",
             "target": "Philosophie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Philosophie",
             "target": "John Dewey",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Philosophie",
             "target": "Bernard Stiegler",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Bernard Stiegler",
             "target": "Pharmakon",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Bernard Stiegler",
             "target": "Aimer, s’aimer, nous aimer",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Bernard Stiegler",
             "target": "Dans la disruption\ncomment ne pas devenir fou ?",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Bernard Stiegler",
             "target": "qu'appelle-t-on panser ?",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Bernard Stiegler",
             "target": "La société automatique\nl'avenir du travail",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Bernard Stiegler",
             "target": "La technique et le temps",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Bernard Stiegler",
             "target": "Ars Industrialis",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Ars Industrialis",
             "target": "Réenchenter le monde",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Ars Industrialis",
             "target": "Association des Amis de la Génération Thunberg",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Association des Amis de la Génération Thunberg",
             "target": "Épokhè",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Bernard Stiegler",
             "target": "Vers un art de l’hypercontrôle",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Bernard Stiegler",
             "target": "Shakespeare–to–peer\npar Bernard Stiegler",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
             "source": "Bernard Stiegler",
             "target": "IRI",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "IRI",
             "target": "Les Entretiens du nouveau monde industriel",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
             "source": "Les Entretiens du nouveau monde industriel",
             "target": "Prendre soin de l'informatique\net des génèrations",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "IRI",
             "target": "Digitale Studies",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "IRI",
             "target": "Territoire Apprenant Contributif",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "IRI",
             "target": "Recherche contributive",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "IRI",
             "target": "contribution écologique ECO",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "IRI",
             "target": "Collectif Internation",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Collectif Internation",
             "target": "Bifurquer",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "IRI",
             "target": "Organoesis",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Organoesis",
             "target": "Yuk Hui",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Yuk Hui",
             "target": "Penser la technodiversité autrement",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Organoesis",
             "target": "Anne Alombert",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Anne Alombert",
             "target": "Penser l'humain et la technique\nSimondon et Derrida après la métaphysique",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anne Alombert",
             "target": "Schizophrénie numérique",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anne Alombert",
             "target": "Penser avec Bernard Stiegler",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anne Alombert",
             "target": "Bernard Stiegler\nPanser le devenir des savoirs dans le milieu numérique",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anne Alombert",
             "target": "Pharmakon Studies",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Anne Alombert",
             "target": "Le capital que je ne suis pas !",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anne Alombert",
             "target": "Critique de l’Intelligence Artificielle",
-            "type": "parent-child"
+            "type": "Colloque"
         },
         {
             "source": "Philosophie",
             "target": "Henry Maldiney",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Henry Maldiney",
             "target": "L'esthetique des rythmes",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
             "source": "Philosophie",
             "target": "Jacques Derrida",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Jacques Derrida",
             "target": "De la grammatologie",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jacques Derrida",
             "target": "Gilbert Simondon",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Gilbert Simondon",
             "target": "Du mode d'existence des objets techniques",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Technè",
             "target": "Coopération",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Coopération",
             "target": "Festival Human Tech Days",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Festival Human Tech Days",
             "target": "Les Ateliers de la Morinerie",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Festival Human Tech Days",
             "target": "Art::Labo",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Art::Labo",
             "target": "Labomedia",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Labomedia",
             "target": "Reboute",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
             "source": "Labomedia",
             "target": "CRACN",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Festival Human Tech Days",
             "target": "La Fabrique de Blois",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Festival Human Tech Days",
             "target": "Maison des sciences de l'Homme\ndu Val de Loire",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Maison des sciences de l'Homme\ndu Val de Loire",
             "target": "Atelier de la donnée Centre-Val de Loire",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Coopération",
             "target": "Artéfacts",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Artéfacts",
             "target": "Néguentropie",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Néguentropie",
             "target": "Néguentropie\n à La Fabrique de Blois HTD2022",
-            "type": "parent-child"
+            "type": "Événement"
         },
         {
             "source": "Néguentropie",
             "target": "Printemps des cartes",
-            "type": "parent-child"
+            "type": "Événement"
         },
         {
             "source": "Printemps des cartes",
             "target": "Cartes & Géomatique",
-            "type": "parent-child"
+            "type": "Événement"
         },
         {
             "source": "Néguentropie",
             "target": "Néguentropie Frontiére",
-            "type": "parent-child"
+            "type": "Événement"
         },
         {
             "source": "Néguentropie",
             "target": "Néguanthropocène",
-            "type": "parent-child"
+            "type": "Événement"
         },
         {
             "source": "Néguentropie",
             "target": "Habitus",
-            "type": "parent-child"
+            "type": "Événement"
         },
         {
             "source": "Néguentropie",
             "target": "Humus",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Humus",
             "target": "Méta-Humus",
-            "type": "parent-child"
+            "type": "Événement"
         },
         {
             "source": "Technè",
             "target": "Anthropologie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Anthropologie",
             "target": "David Graeber",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "David Graeber",
             "target": "Sur les Rois",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anthropologie",
             "target": "Philippe Descola",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Philippe Descola",
             "target": "Philippe Descola :\nLes anthropologues vont chercher l'étonnement",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anthropologie",
             "target": "Pierre Legendre",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Pierre Legendre",
             "target": "La fabrique de l'homme occidental",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anthropologie",
             "target": "André Leroi-Gourhan",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "André Leroi-Gourhan",
             "target": "Le Geste et la Parole",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Technè",
             "target": "Psychiatrie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Psychiatrie",
             "target": "Collectif des 39",
-            "type": "parent-child"
+            "type": "Mouvement"
         },
         {
             "source": "Psychiatrie",
             "target": "Printemps de la psychiatrie",
-            "type": "parent-child"
+            "type": "Mouvement"
         },
         {
             "source": "Psychiatrie",
             "target": "Psychotherapie institutionnelle",
-            "type": "parent-child"
+            "type": "Mouvement"
         },
         {
             "source": "Psychotherapie institutionnelle",
             "target": "Ecole de Psychiatrie institutionnelle de la Chesnaie",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Psychotherapie institutionnelle",
             "target": "Association Culturel de la Borde",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Association Culturel de la Borde",
             "target": "Joseph Gabel",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Joseph Gabel",
             "target": "La Fausse Conscience",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Association Culturel de la Borde",
             "target": "Julia Kristeva, l'œuvre qui bouscule la littérature",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Association Culturel de la Borde",
             "target": "Chimères n°84 - Avec Jean Oury",
-            "type": "parent-child"
+            "type": "Revue"
         },
         {
             "source": "Association Culturel de la Borde",
             "target": "Neuropsychiatrie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Neuropsychiatrie",
             "target": "Gisela Pankow",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Neuropsychiatrie",
             "target": "Yves Agid ",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Yves Agid ",
             "target": "L'homme Glial",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Yves Agid ",
             "target": "Institut du Cerveau",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Association Culturel de la Borde",
             "target": "Pierre Delion",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Pierre Delion",
             "target": "Oury, donc",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Pierre Delion",
             "target": "Fonction phorique\nholding et institution",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Pierre Delion",
             "target": "La constellation transférentielle",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Association Culturel de la Borde",
             "target": "Anthropopsychiatrie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Anthropopsychiatrie",
             "target": "Jacques Schotte",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Jacques Schotte",
             "target": "Vers l'anthropopsychiatrie",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Anthropopsychiatrie",
             "target": "Marc Ledoux",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Marc Ledoux",
             "target": "Ce qui se passe",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Association Culturel de la Borde",
             "target": "Frantz Fanon",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Frantz Fanon",
             "target": "Écrits sur l'aliénation et la liberté",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Association Culturel de la Borde",
             "target": "François Tosquelles",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "François Tosquelles",
             "target": "Une politique de la folie",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "François Tosquelles",
             "target": "L'enseignement de la folie",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "François Tosquelles",
             "target": "Joana Maso",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Joana Maso",
             "target": "Soigner les institutions",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Joana Maso",
             "target": "La Déconniatrie",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "François Tosquelles",
             "target": "Jean Oury",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Jean Oury",
             "target": "Le Collectif",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "Les séminaires de La Borde 1996/1997",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "Création et schizophrénie",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "Vie quotidienne,\nrythme et présence, 1986",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "De Saint-Alban à La Borde,\nla psychothérapie institutionnelle",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "Essai sur la création esthétique",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "La psychose, l'institution, la mort",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "Itinéraires de formation",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "Préfaces",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Jean Oury",
             "target": "Onze heures du soir à la Borde",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "François Tosquelles",
             "target": "Danielle Roulot",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Danielle Roulot",
             "target": "L'avec schizophrénique",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Danielle Roulot",
             "target": "Dialogues à La Borde",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Danielle Roulot",
             "target": "Paysage de l'impossible",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Danielle Roulot",
             "target": "Schizophrénie et langage",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "François Tosquelles",
             "target": "Catherine Perret",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Catherine Perret",
             "target": "Le Tacite, l'humain",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Technè",
             "target": "art",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "art",
             "target": "Poésie",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Poésie",
             "target": "Franck Pavloff",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Franck Pavloff",
             "target": "Matin brun",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "art",
             "target": "Architecture",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Architecture",
             "target": "David Georges Emmerich",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Architecture",
             "target": "Richard Buckminster Fuller",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Richard Buckminster Fuller",
             "target": "Cooperating Manual for Spaceship earth",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Architecture",
             "target": "Le soufle de l'architecte",
-            "type": "parent-child"
+            "type": "Livre"
         },
         {
             "source": "Architecture",
             "target": "osarch",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Architecture",
             "target": "Plan BIM",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Architecture",
             "target": "IfcOpenShell",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "Architecture",
             "target": "Compas",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Architecture",
             "target": "Construction en Bambou",
-            "type": "parent-child"
+            "type": "Savoir-faire"
         },
         {
             "source": "Construction en Bambou",
             "target": "CESE - Le bambou,\nla solution pour 2023 et pour 2050",
-            "type": "parent-child"
+            "type": "Article"
         },
         {
             "source": "Construction en Bambou",
             "target": "Horizocom",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Construction en Bambou",
             "target": "Bombouscoopic",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "art",
             "target": "musique",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "musique",
             "target": "Nirintsoa",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "musique",
             "target": "P'tit Louis la Planche",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "art",
             "target": "centrepompidou",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "centrepompidou",
             "target": "Réseaux-Mondes",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "art",
             "target": "Fluxus",
-            "type": "parent-child"
+            "type": "Mouvement"
         },
         {
             "source": "Fluxus",
             "target": "La Fondation du Doute",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "La Fondation du Doute",
             "target": "Jean-Paul Thibeau",
-            "type": "parent-child"
+            "type": "Individu"
         },
         {
             "source": "Jean-Paul Thibeau",
             "target": "Les protocoles Méta",
-            "type": "parent-child"
+            "type": "Objet"
         },
         {
             "source": "La Fondation du Doute",
             "target": "Campus fluxus",
-            "type": "parent-child"
+            "type": "Événement"
         }
     ]
 }
