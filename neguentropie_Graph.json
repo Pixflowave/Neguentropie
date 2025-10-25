@@ -1014,12 +1014,12 @@
         {
             "source": "Technè",
             "target": "Technique",
-            "type": "parent-child"
+            "type": "Discipline"
         },
         {
             "source": "Technique",
             "target": "Démocratie",
-            "type": "parent-child"
+            "type": "Institution"
         },
         {
             "source": "Démocratie",

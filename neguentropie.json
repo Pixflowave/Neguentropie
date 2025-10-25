@@ -2,7 +2,6 @@
     {"name": "Technique","url":"https://fr.wikipedia.org/wiki/Technique", "children": [
         {"name": "Démocratie","url":"https://fr.wikipedia.org/wiki/Démocratie", "children": [
             {"name": "Designing Future Democracies", "url": "https://compdemocracy.org"},
-            {"name": "Polis", "url": "https://pol.is"},
             {"name": "L’observatoire des algorithmes publics", "url": "https://odap.fr"}
         ]},
         {"name": "Cartographie", "url": "https://fr.wikipedia.org/wiki/Cartographie", "children":[
