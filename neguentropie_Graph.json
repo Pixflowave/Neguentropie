@@ -1008,6 +1008,18 @@
         {
             "id": "Gaël Giraud",
             "url": "https://fr.wikipedia.org/wiki/Gaël_Giraud"
+        },
+        {
+            "id": "UC Berkeley",
+            "url": "https://www.berkeley.edu"
+        },
+        {
+            "id": "David Bates",
+            "url": "https://rhetoric.berkeley.edu/people/david-bates"
+        },
+        {
+            "id": "An Artificial History of Natural Intelligence Thinking with Machines from Descartes to the Digital Age",
+            "url": "https://press.uchicago.edu/ucp/books/book/chicago/A/bo212878817.html"
         }
     ],
     "edges": [
@@ -2275,6 +2287,26 @@
             "source": "La Fondation du Doute",
             "target": "Campus fluxus",
             "type": "Événement"
+        },
+        {
+            "source": "Technè",
+            "target": "Histoire",
+            "type": "Discipline"
+        },
+        {
+            "source": "Histoire",
+            "target": "UC Berkeley",
+            "type": "Institution"
+        },
+        {
+            "source": "UC Berkeley",
+            "target": "David Bates",
+            "type": "Individu"
+        },
+        {
+            "source": "David Bates",
+            "target": "An Artificial History of Natural Intelligence: Thinking with Machines from Descartes to the Digital Age",
+            "type": "Livre"
         }
     ]
 }
