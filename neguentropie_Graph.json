@@ -1498,6 +1498,16 @@
         },
         {
             "source": "CNRS",
+            "target": "Gaël Giraud",
+            "type": "parent-child"
+        },
+        {
+            "source": "Gaël Giraud",
+            "target": "Le capital que je ne suis pas !",
+            "type": "parent-child"
+        },
+        {
+            "source": "CNRS",
             "target": "Historien",
             "type": "parent-child"
         },
@@ -2264,16 +2274,6 @@
         {
             "source": "La Fondation du Doute",
             "target": "Campus fluxus",
-            "type": "parent-child"
-        },
-        {
-            "source": "CNRS",
-            "target": "Gaël Giraud",
-            "type": "parent-child"
-        },
-        {
-            "source": "Gaël Giraud",
-            "target": "Le capital que je ne suis pas !",
             "type": "parent-child"
         }
     ]
