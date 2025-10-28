@@ -1552,6 +1552,11 @@
             "type": "Livre"
         },
         {
+            "source": "Gaël Giraud",
+            "target": "Organoesis",
+            "type": "Institution"
+        },
+        {
             "source": "CNRS",
             "target": "Historien",
             "type": "Discipline"
@@ -1717,8 +1722,8 @@
             "type": "Institution"
         },
         {
-            "source": "Organoesis",
-            "target": "Yuk Hui",
+            "source": "Yuk Hui",
+            "target": "Organoesis",
             "type": "Individu"
         },
         {
@@ -2352,8 +2357,8 @@
             "type": "Livre"
         },
         {
-            "source": "Organoesis",
-            "target": "Daniel Ross",
+            "source": "Daniel Ross",
+            "target": "Organoesis",
             "type": "Individu"
         },
         {
@@ -2380,6 +2385,11 @@
             "source": "Michał Krzykawski",
             "target": "Colloque d’hommage à la pensée de Bernard Stiegler. De la philosophie à l’organologie, et au-delà ? Penser le devenir des savoirs dans l’exosomatisation numérique 20-22.06.2022",
             "type": "Événement"
+        },
+        {
+            "source": "Michał Krzykawski",
+            "target": "Organoesis",
+            "type": "Institution"
         },
         {
             "source": "Anne Alombert",
