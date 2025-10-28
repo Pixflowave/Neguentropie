@@ -1024,7 +1024,36 @@
         {
             "id": "Histoire",
             "url": "https://fr.wikipedia.org/wiki/Histoire"
+        },
+        {
+            "id": "Daniel Ross",
+            "url": "https://independent.academia.edu/DanielRoss57"
+        },
+        {
+            "id": "The Immense Regression. What is called caring (vol. 1)",
+            "url": "https://kverlag.com/products/the-immense-regression"
+        },
+        {
+            "id": "Michał Krzykawski",
+            "url": "https://www.ccts.us.edu.pl/people/"
+        },
+        {
+            "id": " University of Silesia",
+            "url": "https://www.ccts.us.edu.pl"
+        },
+        {
+            "id": "Colloque d’hommage à la pensée de Bernard Stiegler. De la philosophie à l’organologie, et au-delà ? Penser le devenir des savoirs dans l’exosomatisation numérique 20-22.06.2022",
+            "url": "https://llcp.univ-paris8.fr/colloque-d-hommage-a-la-pensee-de-bernard-stiegler-de-la-philosophie-a-l"
+        },
+        {
+            "id": "Université Paris Nanterre",
+            "url": "https://www.parisnanterre.fr"
+        },
+        {
+            "id": "Université Paris 8",
+            "url": "https://llcp.univ-paris8.fr"
         }
+
     ],
     "edges": [
         {
@@ -1513,6 +1542,11 @@
             "type": "Individu"
         },
         {
+            "source": "Économie",
+            "target": "Gaël Giraud",
+            "type": "Individu"
+        },
+        {
             "source": "Gaël Giraud",
             "target": "Le capital que je ne suis pas !",
             "type": "Livre"
@@ -1828,14 +1862,19 @@
             "type": "Événement"
         },
         {
-            "source": "Néguentropie",
-            "target": "Printemps des cartes",
+            "source": "Anne Alombert",
+            "target": "Néguentropie\n à La Fabrique de Blois HTD2022",
             "type": "Événement"
         },
         {
-            "source": "Printemps des cartes",
-            "target": "Cartes & Géomatique",
+            "source": "Néguentropie",
+            "target": "Néguentropie au Printemps des Cartes",
             "type": "Événement"
+        },
+        {
+            "source": "Néguentropie au Printemps des cartes",
+            "target": "Cartes & Géomatique",
+            "type": "Article"
         },
         {
             "source": "Néguentropie",
@@ -2311,6 +2350,61 @@
             "source": "David Bates",
             "target": "An Artificial History of Natural Intelligence: Thinking with Machines from Descartes to the Digital Age",
             "type": "Livre"
+        },
+        {
+            "source": "Organoesis",
+            "target": "Daniel Ross",
+            "type": "Individu"
+        },
+        {
+            "source": "Daniel Ross",
+            "target": "The Immense Regression. What is called caring (vol. 1)",
+            "type": "Livre"
+        },
+        {
+            "source": "Philosophie",
+            "target": "University of Silesia",
+            "type": "Institution"
+        },
+        {
+            "source": "University of Silesia",
+            "target": "Michał Krzykawski",
+            "type": "Individu"
+        },
+        {
+            "source": "Daniel Ross",
+            "target": "The Immense Regression. What is called caring (vol. 1)",
+            "type": "Livre"
+        },
+        {
+            "source": "Michał Krzykawski",
+            "target": "Colloque d’hommage à la pensée de Bernard Stiegler. De la philosophie à l’organologie, et au-delà ? Penser le devenir des savoirs dans l’exosomatisation numérique 20-22.06.2022",
+            "type": "Événement"
+        },
+        {
+            "source": "Anne Alombert",
+            "target": "Colloque d’hommage à la pensée de Bernard Stiegler. De la philosophie à l’organologie, et au-delà ? Penser le devenir des savoirs dans l’exosomatisation numérique 20-22.06.2022",
+            "type": "Événement"
+        },
+        {
+            "source": "Philosophie",
+            "target": "Université Paris Nanterre",
+            "type": "Institution"
+        },
+        {
+            "source": "Philosophie",
+            "target": "Université Paris 8",
+            "type": "Institution"
+        },
+        {
+            "source": "Université Paris 8",
+            "target": "Colloque d’hommage à la pensée de Bernard Stiegler. De la philosophie à l’organologie, et au-delà ? Penser le devenir des savoirs dans l’exosomatisation numérique 20-22.06.2022",
+            "type": "Événement"
+        },
+        {
+            "source": "Université Paris Nanterre",
+            "target": "Colloque d’hommage à la pensée de Bernard Stiegler. De la philosophie à l’organologie, et au-delà ? Penser le devenir des savoirs dans l’exosomatisation numérique 20-22.06.2022",
+            "type": "Événement"
         }
     ]
 }
