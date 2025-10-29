@@ -30,6 +30,17 @@
                 ]},
                 {"name": "Richard Stallman","url": "https://www.radiofrance.fr/franceculture/richard-stallman-inventeur-du-logiciel-libre-et-penseur-d-un-internet-libertaire-5355561", "children":[
                     {"name": "Licence Libre", "url": "https://fr.wikipedia.org/wiki/Licence_libre", "children":[
+                        {"name": "Ubuntu", "url": "https://ubuntu.com/desktop"},
+                        {"name": "GPhoto 2", "url": "https://manpages.ubuntu.com/manpages/trusty/man1/gphoto2.1.html"},
+                        {"name": "Vscodium","url": "https://vscodium.com/"},
+                        {"name": "Hackmd", "url": "https://hackmd.io/"},
+                        {"name": "Signal", "url": "https://signal.org/fr/"},
+                        {"name": "JSON", "url": "https://json.org/json-fr.html"},
+                        {"name": "Kdenlive", "url": "https://kdenlive.org/fr/"},
+                        {"name": "Flowblade", "url": "http://jliljebl.github.io/flowblade/"},
+                        {"name": "Nextcloud", "url": "https://nextcloud.com/"},
+                        {"name": "Framateam", "url": "https://framateam.org/landing#/"}
+                    ]},    
                     {"name": "Culture Maker", "url": "https://fr.wikipedia.org/wiki/Culture_maker", "children":[
                         {"name": "FreeCAD", "url": "https://www.freecad.org/"},
                         {"name": "MPCNC", "url": "https://docs.v1e.com/mpcnc/intro/"},
@@ -59,25 +70,14 @@
                                     ]},
                                     {"name": "Framework", "url": "https://observablehq.com/framework/"}
 
-                    ]},
-                {"name": "Ubuntu", "url": "https://ubuntu.com/desktop"},
-                {"name": "GPhoto 2", "url": "https://manpages.ubuntu.com/manpages/trusty/man1/gphoto2.1.html"},
-                {"name": "Vscodium","url": "https://vscodium.com/"},
-                {"name": "Hackmd", "url": "https://hackmd.io/"},
-                {"name": "Signal", "url": "https://signal.org/fr/"},
-                {"name": "JSON", "url": "https://json.org/json-fr.html"},
-                {"name": "Kdenlive", "url": "https://kdenlive.org/fr/"},
-                {"name": "Flowblade", "url": "http://jliljebl.github.io/flowblade/"},
-                {"name": "Nextcloud", "url": "https://nextcloud.com/"},
-                {"name": "Framateam", "url": "https://framateam.org/landing#/"}
+                    ]}
                    ]}
                   ]}
                 ]}
               ]}
             ]}
            ]}
-          ]}
-         ]}         
+          ]}           
         ]},
     {"name": "Pédagogie", "url": "https://fr.wikipedia.org/wiki/P%C3%A9dagogie", "children":[
         {"name": "Pédagogie de projet", "url": "https://fr.wikipedia.org/wiki/P%C3%A9dagogie_de_projet"},
