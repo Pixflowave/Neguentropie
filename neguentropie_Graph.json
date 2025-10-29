@@ -1304,6 +1304,11 @@
             "type": "Objet"
         },
         {
+            "source": "Philippe Rivière",
+            "target": "Artéfacts",
+            "type": "Institution"
+        },
+        {
             "source": "VisionsCarto",
             "target": "Joanne Cheung",
             "type": "Individu"
