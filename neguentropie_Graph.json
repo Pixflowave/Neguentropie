@@ -2585,6 +2585,11 @@
             "type": "Objet"
         },
         {
+            "source": "Erwan Bozec",
+            "target": "Artéfacts",
+            "type": "Institution"
+        },
+        {
             "source": "Aline Perdereau",
             "target": "Artéfacts",
             "type": "Institution"
