@@ -7,22 +7,22 @@
         {"name": "Cartographie", "url": "https://fr.wikipedia.org/wiki/Cartographie", "children":[
             {"name": "IGN", "url": "https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/les-cartes-ign-vont-elles-detroner-google-maps-4116534"}
         ]}, 
-        {"name": "Couture", "url": "https://fr.wikipedia.org/wiki/Couture", "children": [
-            {"name": "Machine à Coudre", "url": "https://fr.wikipedia.org/wiki/Machine_%C3%A0_coudre"}
-         ]},
         {"name": "Dremel", "url": "https://www.dremel.com/fr/fr"},
-        {"name": "Wanguerflange", "url": "https://www.wangerflange.com/"},
-        {"name": "Bricolage", "url": "https://fr.wikipedia.org/wiki/Bricolage"},
-        {"name": "Menuiserie", "url": "https://fr.wikipedia.org/wiki/Menuiserie", "children":[
-            {"name": "ISHITANI\nWashitsu Table", "url": "https://youtu.be/HUJpPzOuRVU?feature=shared"},
-            {"name": "affûter une gouge", "url": "https://youtu.be/h24Wd7xZcc8?feature=shared"},
-            {"name": "Une bibliothèque design", "url": "https://youtu.be/K21TB6YL-zQ?feature=shared"}
-        ]},
         {"name": "Tissage", "url": "https://fr.wikipedia.org/wiki/Tissage", "children":[
             {"name": "Textile", "url": "https://fr.wikipedia.org/wiki/Textile", "children":[
             ]}
         ]},
         {"name": "Do it yourself", "url":"https://fr.wikipedia.org/wiki/Do_it_yourself", "children":[
+            {"name": "Wanguerflange", "url": "https://www.wangerflange.com/"},
+            {"name": "Couture", "url": "https://fr.wikipedia.org/wiki/Couture", "children": [
+                {"name": "Machine à Coudre", "url": "https://fr.wikipedia.org/wiki/Machine_%C3%A0_coudre"}
+            ]},
+            {"name": "Bricolage", "url": "https://fr.wikipedia.org/wiki/Bricolage"},
+        {"name": "Menuiserie", "url": "https://fr.wikipedia.org/wiki/Menuiserie", "children":[
+            {"name": "ISHITANI\nWashitsu Table", "url": "https://youtu.be/HUJpPzOuRVU?feature=shared"},
+            {"name": "affûter une gouge", "url": "https://youtu.be/h24Wd7xZcc8?feature=shared"},
+            {"name": "Une bibliothèque design", "url": "https://youtu.be/K21TB6YL-zQ?feature=shared"}
+        ]},    
         {"name": "Contre-Culture","url": "https://fr.wikipedia.org/wiki/Contre-culture", "children":[
             {"name": "Hacker","url": "https://fr.wikipedia.org/wiki/Hacker_(sous-culture)", "children":[
                 {"name": "Fred Turner", "url": "https://fr.wikipedia.org/wiki/Fred_Turner_(professeur)","children":[
