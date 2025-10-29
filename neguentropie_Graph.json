@@ -1060,6 +1060,10 @@
         {
             "id": "UTC de Compiègne",
             "url": "https://www.utc.fr"
+        },
+        {
+            "id": "Technologie",
+            "url": "https://fr.wikipedia.org/wiki/Technologie"
         }
 
     ],
@@ -1076,6 +1080,11 @@
         },
         {
             "source": "Technique",
+            "target": "Technologie",
+            "type": "Discipline"
+        },
+        {
+            "source": "Technologie",
             "target": "UTC de Compiègne",
             "type": "Institution"
         },
