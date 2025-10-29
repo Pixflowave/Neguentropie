@@ -313,7 +313,7 @@
             "url": "https://www.unesco.org/fr/education/digital"
         },
         {
-            "id": "ONU - 17 Objectifs de développement durable",
+            "id": "17 Objectifs de développement durable",
             "url": "https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable/"
         },
         {
@@ -1482,7 +1482,7 @@
         },
         {
             "source": "ONU",
-            "target": "ONU - 17 Objectifs de développement durable",
+            "target": "17 Objectifs de développement durable",
             "type": "Institution"
         },
         {
