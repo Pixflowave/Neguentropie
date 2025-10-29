@@ -1064,6 +1064,10 @@
         {
             "id": "Technologie",
             "url": "https://fr.wikipedia.org/wiki/Technologie"
+        },
+        {
+            "id": "Software Heritage",
+            "url": "https://www.softwareheritage.org/"
         }
 
     ],
@@ -1561,6 +1565,11 @@
         {
             "source": "Technè",
             "target": "CNRS",
+            "type": "Institution"
+        },
+        {
+            "source": "CNRS",
+            "target": "Software Heritage",
             "type": "Institution"
         },
         {
