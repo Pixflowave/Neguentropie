@@ -1084,6 +1084,14 @@
         {
             "id": "The Free Software Foundation",
             "url": "https://www.fsf.org"
+        },
+        {
+            "id": "Do it yourself",
+            "url": "https://fr.wikipedia.org/wiki/Do_it_yourself"
+        },
+        {
+            "id": "Low-Tech",
+            "url": "https://fr.wikipedia.org/wiki/Low-tech"
         }
 
 
@@ -2528,6 +2536,22 @@
             "source": "Richard Stallman",
             "target": "The Free Software Foundation",
             "type": "Institution"
+        },
+        {
+            "source": "Technique",
+            "target": "Do it yourself",
+            "type": "Mouvement"
+        },
+        {
+            "source": "Do it yourself",
+            "target": "Culture Maker",
+            "type": "Mouvement"
+        },
+        {
+            "source": "Do it yourself",
+            "target": "Low-Tech",
+            "type": "Mouvement"
         }
+
     ]
 }
