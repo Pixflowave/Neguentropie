@@ -637,8 +637,8 @@
             "url": "https://tekhne.neguentropie.art/+neguentropie/neguentropie-la-fabrique-de-blois-2022/publications/neguentropie-la-fabrique-de-blois-2022?display=section&section=section-1760092463921.meta.txt"
         },
         {
-            "id": "Printemps des cartes",
-            "url": "https://www.printempsdescartes.fr/"
+            "id": "Néguentropie au Printemps des Cartes",
+            "url": "https://www.printempsdescartes.fr/edition-2024-2/"
         },
         {
             "id": "Cartes & Géomatique",
@@ -1919,7 +1919,7 @@
             "type": "Événement"
         },
         {
-            "source": "Néguentropie au Printemps des Cartes",
+            "source": "Néguentropie au Printemps des artes",
             "target": "Cartes & Géomatique",
             "type": "Article"
         },
