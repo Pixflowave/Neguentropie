@@ -305,7 +305,11 @@
             "url": "https://artlibre.org/"
         },
         {
-            "id": "UNESCO\nRessources Educatives Libres",
+            "id": "UNESCO",
+            "url": "https://www.unesco.org/fr"
+        },
+        {
+            "id": "UNESCO Ressources Educatives Libres",
             "url": "https://www.unesco.org/fr/education/digital"
         },
         {
@@ -1459,7 +1463,12 @@
         },
         {
             "source": "Droit",
-            "target": "UNESCO\nRessources Educatives Libres",
+            "target": "Unesco",
+            "type": "Institution"
+        },
+        {
+            "source": "Droit",
+            "target": "Ressources Educatives Libres",
             "type": "Institution"
         },
         {
