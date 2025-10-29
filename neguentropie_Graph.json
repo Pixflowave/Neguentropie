@@ -1104,7 +1104,12 @@
         {
             "id": "Luc Léger",
             "url": "https://www.artefacts.coop/cooperataires/luc-leger/"
+        },
+        {
+            "id": "Erwan Bozec",
+            "url": "https://www.artefacts.coop/cooperataires/pixflowave-erwan-bozec/"
         }
+
 
 
     ],
@@ -1975,7 +1980,7 @@
             "type": "Institution"
         },
         {
-            "source": "Artéfacts",
+            "source": "Erwan Bozec",
             "target": "Néguentropie",
             "type": "Objet"
         },
