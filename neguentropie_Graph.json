@@ -1056,6 +1056,10 @@
         {
             "id": "Vincent Puig",
             "url": "https://www.iri.centrepompidou.fr/equipe/conseil-dadministration-partenaires-tac-college-scientifique-et-industriel-equipe-de-liri/?lang=fr_fr"
+        },
+        {
+            "id": "UTC de Compiègne",
+            "url": "https://www.utc.fr"
         }
 
     ],
@@ -1068,6 +1072,11 @@
         {
             "source": "Technique",
             "target": "Démocratie",
+            "type": "Institution"
+        },
+        {
+            "source": "Technique",
+            "target": "UTC de Compiègne",
             "type": "Institution"
         },
         {
@@ -1654,6 +1663,11 @@
             "source": "Bernard Stiegler",
             "target": "La technique et le temps",
             "type": "Livre"
+        },
+        {
+            "source": "Bernard Stiegler",
+            "target": "UTC de Compiègne",
+            "type": "Institution"
         },
         {
             "source": "Bernard Stiegler",
