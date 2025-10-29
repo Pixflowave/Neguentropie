@@ -309,7 +309,7 @@
             "url": "https://www.unesco.org/fr"
         },
         {
-            "id": "UNESCO Ressources Educatives Libres",
+            "id": "Ressources Educatives Libres",
             "url": "https://www.unesco.org/fr/education/digital"
         },
         {
@@ -1467,11 +1467,11 @@
         },
         {
             "source": "Droit",
-            "target": "Unesco",
+            "target": "UNESCO",
             "type": "Institution"
         },
         {
-            "source": "Unesco",
+            "source": "UNESCO",
             "target": "Ressources Educatives Libres",
             "type": "Institution"
         },
