@@ -1160,7 +1160,7 @@
             "type": "Institution"
         },
         {
-            "source": "Technique",
+            "source": "Do it yourself",
             "target": "Couture",
             "type": "Savoir-faire"
         },
@@ -1175,17 +1175,17 @@
             "type": "Outil"
         },
         {
-            "source": "Technique",
+            "source": "Do it yourself",
             "target": "Wanguerflange",
             "type": "Objet"
         },
         {
-            "source": "Technique",
+            "source": "Do it yourself",
             "target": "Bricolage",
             "type": "Savoir-faire"
         },
         {
-            "source": "Technique",
+            "source": "Do it yourself",
             "target": "Menuiserie",
             "type": "Savoir-faire"
         },
