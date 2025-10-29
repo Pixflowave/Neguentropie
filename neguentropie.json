@@ -39,22 +39,21 @@
                         {"name": "Kdenlive", "url": "https://kdenlive.org/fr/"},
                         {"name": "Flowblade", "url": "http://jliljebl.github.io/flowblade/"},
                         {"name": "Nextcloud", "url": "https://nextcloud.com/"},
-                        {"name": "Framateam", "url": "https://framateam.org/landing#/"}
-                    ]},    
-                    {"name": "Culture Maker", "url": "https://fr.wikipedia.org/wiki/Culture_maker", "children":[
-                        {"name": "FreeCAD", "url": "https://www.freecad.org/"},
-                        {"name": "MPCNC", "url": "https://docs.v1e.com/mpcnc/intro/"},
-                        {"name": "Do.Doc", "url": "https://dodoc.fr/"},
-                        {"name": "Open Badge", "url": "https://wikibadges.org/doku.php?id=fr:start"},
-                        {"name": "Blender", "url": "https://www.blender.org/"},
-                        {"name": "InkScape", "url": "https://inkscape.org/fr/"},
-                        {"name": "Gimp", "url": "https://www.gimp.org/"},
-                        {"name": "Contre-Cartographie", "url": "https://fr.wikipedia.org/wiki/G%C3%A9ographie_radicale", "children":[
-                            {"name": "Open Street Map", "url": "https://www.openstreetmap.fr/"},
-                            {"name": "Philippe Rivière", "url": "https://illisible.net/philippe-riviere", "children":[
-                                {"name": "VisionsCarto", "url": "https://www.visionscarto.net/", "children":[
-                                    {"name": "Joanne Cheung", "url":"https://joannekcheung.com/","children":[
-                                        {"name": "1969 : le « jeu de la paix mondiale »\nde Buckminster Fuller", "url":"https://www.visionscarto.net/buckminster-fuller-jeu-mondial"}
+                        {"name": "Framateam", "url": "https://framateam.org/landing#/"},
+                        {"name": "Culture Maker", "url": "https://fr.wikipedia.org/wiki/Culture_maker", "children":[
+                            {"name": "FreeCAD", "url": "https://www.freecad.org/"},
+                            {"name": "MPCNC", "url": "https://docs.v1e.com/mpcnc/intro/"},
+                            {"name": "Do.Doc", "url": "https://dodoc.fr/"},
+                            {"name": "Open Badge", "url": "https://wikibadges.org/doku.php?id=fr:start"},
+                            {"name": "Blender", "url": "https://www.blender.org/"},
+                            {"name": "InkScape", "url": "https://inkscape.org/fr/"},
+                            {"name": "Gimp", "url": "https://www.gimp.org/"},
+                            {"name": "Contre-Cartographie", "url": "https://fr.wikipedia.org/wiki/G%C3%A9ographie_radicale", "children":[
+                                {"name": "Open Street Map", "url": "https://www.openstreetmap.fr/"},
+                                {"name": "Philippe Rivière", "url": "https://illisible.net/philippe-riviere", "children":[
+                                    {"name": "VisionsCarto", "url": "https://www.visionscarto.net/", "children":[
+                                        {"name": "Joanne Cheung", "url":"https://joannekcheung.com/","children":[
+                                            {"name": "1969 : le « jeu de la paix mondiale »\nde Buckminster Fuller", "url":"https://www.visionscarto.net/buckminster-fuller-jeu-mondial"}
                                     ]},
                                     {"name": "La quadrature de la sphère", "url":"https://www.visionscarto.net/la-quadrature-de-la-sphere"},
                                     {"name": "La projection de Lee et ses paper toys","url": "https://www.visionscarto.net/projection-de-lee"},
@@ -69,13 +68,13 @@
                                         {"name": "Airocean projection","url":"https://observablehq.com/@fil/airocean-projection"}
                                     ]},
                                     {"name": "Framework", "url": "https://observablehq.com/framework/"}
-
+                                 ]}
+                                ]}
+                            ]}
+                        ]}
                     ]}
-                   ]}
-                  ]}
                 ]}
-              ]}
-            ]}
+                ]}
            ]}
           ]}           
         ]},
