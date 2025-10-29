@@ -1245,6 +1245,11 @@
             "type": "Individu"
         },
         {
+            "source": "Hacker",
+            "target": "Do it yourself",
+            "type": "Mouvement"
+        },
+        {
             "source": "Fred Turner",
             "target": "Entretien avec Fred Turner, un penseur critique dans la Silicon Valley",
             "type": "Article"
