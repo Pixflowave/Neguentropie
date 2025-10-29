@@ -1355,6 +1355,11 @@
             "type": "Institution"
         },
         {
+            "source": "Philippe Rivière",
+            "target": "Néguentropie",
+            "type": "Objet"
+        },
+        {
             "source": "VisionsCarto",
             "target": "Joanne Cheung",
             "type": "Individu"
@@ -2570,9 +2575,19 @@
             "type": "Institution"
         },
         {
+            "source": "Luc Léger",
+            "target": "Néguentropie",
+            "type": "Objet"
+        },
+        {
             "source": "Aline Perdereau",
             "target": "Artéfacts",
             "type": "Institution"
+        },
+        {
+            "source": "Aline Perdereau",
+            "target": "Néguentropie",
+            "type": "Objet"
         },
         {
             "source": "Aline Perdereau",
