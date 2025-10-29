@@ -1092,6 +1092,18 @@
         {
             "id": "Low-Tech",
             "url": "https://fr.wikipedia.org/wiki/Low-tech"
+        },
+        {
+            "id": "Aline Perdereau",
+            "url": "https://www.linkedin.com/in/aline-perdereau-1b6a08179/"
+        },
+        {
+            "id": "Melissa Plet-Wyckhuyse",
+            "url": "https://radiodufutur.wordpress.com/2017/10/24/melissa-plet-wyckhuyse-vrai-ifier-les-choses-en-les-mentant-la-fiction-radiophonique-journalistique/"
+        },
+        {
+            "id": "Luc Léger",
+            "url": "https://www.artefacts.coop/cooperataires/luc-leger/"
         }
 
 
@@ -2551,7 +2563,33 @@
             "source": "Do it yourself",
             "target": "Low-Tech",
             "type": "Mouvement"
+        },
+        {
+            "source": "Luc Léger",
+            "target": "Artéfacts",
+            "type": "Institution"
+        },
+        {
+            "source": "Aline Perdereau",
+            "target": "Artéfacts",
+            "type": "Institution"
+        },
+        {
+            "source": "Aline Perdereau",
+            "target": "Néguentropie Frontiére",
+            "type": "Événement"
+        },
+        {
+            "source": "Melissa Plet-Wyckhuyse",
+            "target": "Radio Campus Tours - La Méridienne",
+            "type": "Emission"
+        },
+        {
+            "source": "Melissa Plet-Wyckhuyse",
+            "target": "Néguentropie Frontiére",
+            "type": "Événement"
         }
+
 
     ]
 }
