@@ -1052,6 +1052,10 @@
         {
             "id": "Université Paris 8",
             "url": "https://llcp.univ-paris8.fr"
+        },
+        {
+            "id": "Vincent Puig",
+            "url": "https://www.iri.centrepompidou.fr/equipe/conseil-dadministration-partenaires-tac-college-scientifique-et-industriel-equipe-de-liri/?lang=fr_fr"
         }
 
     ],
@@ -1597,6 +1601,16 @@
             "type": "Livre"
         },
         {
+            "source": "Giuseppe Longo",
+            "target": "IRI",
+            "type": "Institution"
+        },
+        {
+            "source": "Giuseppe Longo",
+            "target": "Organoesis",
+            "type": "Institution"
+        },
+        {
             "source": "Technè",
             "target": "Philosophie",
             "type": "Discipline"
@@ -1612,7 +1626,7 @@
             "type": "Individu"
         },
         {
-            "source": "Bernard Stiegler",
+            "source": "Ars Industrialis",
             "target": "Pharmakon",
             "type": "Institution"
         },
@@ -2357,6 +2371,16 @@
             "type": "Livre"
         },
         {
+            "source": "David Bates",
+            "target": "Organoesis",
+            "type": "Institution"
+        },
+        {
+            "source": "David Bates",
+            "target": "IRI",
+            "type": "Institution"
+        },
+        {
             "source": "Daniel Ross",
             "target": "Organoesis",
             "type": "Individu"
@@ -2415,6 +2439,11 @@
             "source": "Université Paris Nanterre",
             "target": "Colloque d’hommage à la pensée de Bernard Stiegler. De la philosophie à l’organologie, et au-delà ? Penser le devenir des savoirs dans l’exosomatisation numérique 20-22.06.2022",
             "type": "Événement"
+        },
+        {
+            "source": "Vincent Puig",
+            "target": "IRI",
+            "type": "Institution"
         }
     ]
 }
