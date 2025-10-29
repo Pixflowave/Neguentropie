@@ -1067,11 +1067,15 @@
         },
         {
             "id": "Technologie",
-            "url": "https://fr.wikipedia.org/wiki/Technologie"
+            "url": "https://fr.wikipedia.org/wiki/Technologie/"
         },
         {
             "id": "Software Heritage",
             "url": "https://www.softwareheritage.org/"
+        },
+        {
+            "id": "ONU",
+            "url": "https://www.un.org/fr/"
         }
 
     ],
@@ -1467,12 +1471,17 @@
             "type": "Institution"
         },
         {
-            "source": "Droit",
+            "source": "Unesco",
             "target": "Ressources Educatives Libres",
             "type": "Institution"
         },
         {
             "source": "Droit",
+            "target": "ONU",
+            "type": "Institution"
+        },
+        {
+            "source": "ONU",
             "target": "ONU - 17 Objectifs de développement durable",
             "type": "Institution"
         },
