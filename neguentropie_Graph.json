@@ -1076,7 +1076,16 @@
         {
             "id": "ONU",
             "url": "https://www.un.org/fr/"
+        },
+        {
+            "id": "GNU",
+            "url": "https://www.gnu.org"
+        },
+        {
+            "id": "The Free Software Foundation",
+            "url": "https://www.fsf.org"
         }
+
 
     ],
     "edges": [
@@ -1201,6 +1210,11 @@
             "type": "Mouvement"
         },
         {
+            "source": "Richard Stallman",
+            "target": "GNU",
+            "type": "Objet"
+        },
+        {
             "source": "Hacker",
             "target": "Fred Turner",
             "type": "Individu"
@@ -1211,87 +1225,87 @@
             "type": "Article"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Ubuntu",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "GPhoto 2",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Vscodium",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "FreeCAD",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Blender",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "InkScape",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Gimp",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Hackmd",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "MPCNC",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Do.Doc",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Signal",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "JSON",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Kdenlive",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Flowblade",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Nextcloud",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Framateam",
             "type": "Objet"
         },
         {
-            "source": "Richard Stallman",
+            "source": "Licence Libre",
             "target": "Open Badge",
             "type": "Objet"
         },
@@ -1487,6 +1501,11 @@
         },
         {
             "source": "Droit",
+            "target": "Licence Libre",
+            "type": "Institution"
+        },
+        {
+            "source": "Richard Stallman",
             "target": "Licence Libre",
             "type": "Institution"
         },
@@ -2503,6 +2522,11 @@
         {
             "source": "Vincent Puig",
             "target": "IRI",
+            "type": "Institution"
+        },
+        {
+            "source": "Richard Stallman",
+            "target": "The Free Software Foundation",
             "type": "Institution"
         }
     ]
