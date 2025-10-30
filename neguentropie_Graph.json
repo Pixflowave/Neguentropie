@@ -401,8 +401,16 @@
             "url": "https://fr.wikipedia.org/wiki/Historien"
         },
         {
+            "id": "Jean-Baptiste Fressoz",
+            "url": "https://fr.wikipedia.org/wiki/Jean-Baptiste_Fressoz"
+        },
+        {
+            "id": "Christophe Bonneuil",
+            "url": "https://fr.wikipedia.org/wiki/Christophe_Bonneuil"
+        },
+        {
             "id": "L'événement Anthropocène",
-            "url": "https://www.seuil.com/ouvrage/l-evenement-anthropocene-jean-baptiste-fressoz/9782021135008"
+            "url": "https://www.editionspoints.com/ouvrage/l-evenement-anthropocene-jean-baptiste-fressoz/9782757859599"
         },
         {
             "id": "Mathématique",
@@ -1710,7 +1718,22 @@
             "type": "Discipline"
         },
         {
+            "source": "Jean-Baptiste Fressoz",
+            "target": "L'événement Anthropocène",
+            "type": "Livre"
+        },
+        {
             "source": "Historien",
+            "target": "Jean-Baptiste Fressoz",
+            "type": "Individu"
+        },
+        {
+            "source": "Historien",
+            "target": "Christophe Bonneuil",
+            "type": "Individu"
+        },
+        {
+            "source": "Christophe Bonneuil",
             "target": "L'événement Anthropocène",
             "type": "Livre"
         },
