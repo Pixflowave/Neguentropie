@@ -1108,10 +1108,15 @@
         {
             "id": "Erwan Bozec",
             "url": "https://www.artefacts.coop/cooperataires/pixflowave-erwan-bozec/"
+        },
+        {
+            "id": "L'empire numérique",
+            "url": "https://www.puf.com/lempire-numerique"
+        },
+        {
+            "id": "Jean Lassègue",
+            "url": "https://www.puf.com/lempire-numerique"
         }
-
-
-
     ],
     "edges": [
         {
@@ -1653,6 +1658,21 @@
             "source": "CNRS",
             "target": "Gaël Giraud",
             "type": "Individu"
+        },
+        {
+            "source": "CNRS",
+            "target": "Jean Lassègue",
+            "type": "Individu"
+        },
+        {
+            "source": "Jean Lassègue",
+            "target": "L'empire numérique",
+            "type": "Livre"
+        },
+        {
+            "source": "Giuseppe Longo",
+            "target": "L'empire numérique",
+            "type": "Livre"
         },
         {
             "source": "Économie",
