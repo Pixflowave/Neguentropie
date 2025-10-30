@@ -1635,6 +1635,11 @@
             "type": "Savoir-faire"
         },
         {
+            "source": "Néguentropie à La Fabrique de Blois HTD2022",
+            "target": "Repas Néguentropique",
+            "type": "Savoir-faire"
+        },
+        {
             "source": "Agriculture",
             "target": "FAO",
             "type": "Institution"
