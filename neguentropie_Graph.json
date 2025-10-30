@@ -1680,6 +1680,11 @@
             "type": "Livre"
         },
         {
+            "source": "Giuseppe Longo",
+            "target": "Épokhè",
+            "type": "Institution"
+        },
+        {
             "source": "Économie",
             "target": "Gaël Giraud",
             "type": "Individu"
