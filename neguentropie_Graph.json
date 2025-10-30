@@ -1152,10 +1152,14 @@
         {
             "id": "THE NEGANTHROPOCENE",
             "url": "https://library.oapen.org/bitstream/handle/20.500.12657/30171/649431.pdf?sequence=1"
-        },
+        }, 
         {
             "id": "Intelligences artificielles : vers une automatisation de la pensée ?",
             "url": "https://blogs.alternatives-economiques.fr/reseauinnovation/2023/07/15/intelligences-artificielles-vers-une-automatisation-de-la-pensee"
+        },
+        {
+            "id": "Vocabulaire de l’Internation",
+            "url": "https://journals.openedition.org/appareil/3752"
         }
     ],
     "edges": [
@@ -2013,10 +2017,20 @@
             "source": "Anne Alombert",
             "target": "Pharmakon Studies",
             "type": "Institution"
-        }, 
+        },
         {
             "source": "Anne Alombert",
             "target": "Intelligences artificielles : vers une automatisation de la pensée ?",
+            "type": "Article"
+        },
+        {
+            "source": "Anne Alombert",
+            "target": "Vocabulaire de l’Internation",
+            "type": "Article"
+        },
+        {
+            "source": "Michał Krzykawski",
+            "target": "Vocabulaire de l’Internation",
             "type": "Article"
         },
         {
