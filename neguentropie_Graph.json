@@ -469,6 +469,30 @@
             "url": "https://www.fayard.fr/livre/la-technique-et-le-temps-9782213700878/"
         },
         {
+            "id": "De la misère symbolique",
+            "url": "https://editions.flammarion.com/de-la-misere-symbolique/9782081270824"
+        },
+        {
+            "id": "Pharmacologie du Front national suivi du Vocabulaire d'Ars Industrialis",
+            "url": "https://editions.flammarion.com/pharmacologie-du-front-national-suivi-du-vocabulaire-dars-industrialis/9782081284616"
+        },
+        {
+            "id": "Ce qui fait que la vie vaut la peine d'être vécue",
+            "url": "https://editions.flammarion.com/ce-qui-fait-que-la-vie-vaut-la-peine-detre-vecue/9782081220355"
+        },
+        {
+            "id": "Pour en finir avec la mécroissance",
+            "url": "https://editions.flammarion.com/pour-en-finir-avec-la-mecroissance/9782081224926"
+        },
+        {
+            "id": "La Télécratie contre la démocratie lettre ouverte aux représentants politiques",
+            "url": "https://editions.flammarion.com/le-telecratie-contre-la-democratie/9782082105699"
+        },
+        {
+            "id": "Prendre soin - 1 De la jeunesse et des générations",
+            "url": "https://editions.flammarion.com/prendre-soin-1/9782081207363"
+        },
+        {
             "id": "Ars Industrialis",
             "url": "https://arsindustrialis.org/"
         },
@@ -1803,7 +1827,32 @@
         },
         {
             "source": "Bernard Stiegler",
+            "target": "La Télécratie contre la démocratie lettre ouverte aux représentants politiques",
+            "type": "Livre"
+        },
+        {
+            "source": "Bernard Stiegler",
+            "target": "De la misère symbolique",
+            "type": "Livre"
+        },
+        {
+            "source": "Bernard Stiegler",
             "target": "Aimer, s’aimer, nous aimer",
+            "type": "Livre"
+        },
+        {
+            "source": "Bernard Stiegler",
+            "target": "Pharmacologie du Front national suivi du Vocabulaire d'Ars Industrialis",
+            "type": "Livre"
+        },
+        {
+            "source": "Bernard Stiegler",
+            "target": "Ce qui fait que la vie vaut la peine d'être vécue",
+            "type": "Livre"
+        },
+        {
+            "source": "Bernard Stiegler",
+            "target": "Pour en finir avec la mécroissance",
             "type": "Livre"
         },
         {
@@ -1819,6 +1868,11 @@
         {
             "source": "Bernard Stiegler",
             "target": "La société automatique l'avenir du travail",
+            "type": "Livre"
+        },
+        {
+            "source": "Bernard Stiegler",
+            "target": "Prendre soin - 1 De la jeunesse et des générations",
             "type": "Livre"
         },
         {
