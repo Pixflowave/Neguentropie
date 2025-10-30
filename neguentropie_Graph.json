@@ -1124,6 +1124,10 @@
         {
             "id": "Jean Lassègue",
             "url": "https://www.puf.com/lempire-numerique"
+        },
+        {
+            "id": "THE NEGANTHROPOCENE",
+            "url": "https://library.oapen.org/bitstream/handle/20.500.12657/30171/649431.pdf?sequence=1"
         }
     ],
     "edges": [
@@ -2565,6 +2569,15 @@
         {
             "source": "Daniel Ross",
             "target": "The Immense Regression. What is called caring (vol. 1)",
+            "type": "Livre"
+        },
+        {
+            "source": "Daniel Ross",
+            "target": "The NEGANTHROPOCENE",
+            "type": "Livre"
+        },{
+            "source": "Bernard Stiegler",
+            "target": "The NEGANTHROPOCENE",
             "type": "Livre"
         },
         {
