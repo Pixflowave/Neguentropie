@@ -1827,6 +1827,11 @@
         },
         {
             "source": "Bernard Stiegler",
+            "target": "Bifurquer",
+            "type": "Livre"
+        },
+        {
+            "source": "Bernard Stiegler",
             "target": "La Télécratie contre la démocratie lettre ouverte aux représentants politiques",
             "type": "Livre"
         },
