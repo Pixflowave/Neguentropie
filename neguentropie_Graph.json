@@ -1964,11 +1964,6 @@
             "type": "Institution"
         },
         {
-            "source": "IRI",
-            "target": "Collectif Internation",
-            "type": "Institution"
-        },
-        {
             "source": "Collectif Internation",
             "target": "Bifurquer",
             "type": "Livre"
