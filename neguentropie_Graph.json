@@ -454,11 +454,11 @@
         },
         {
             "id": "Dans la disruption comment ne pas devenir fou ?",
-            "url": "http://www.editionslesliensquiliberent.fr/livre-Dans_la_disruption-484-1-1-0-1.html"
+            "url": "https://www.editionslesliensquiliberent.fr/livre-Dans_la_disruption-484-1-1-0-1.html"
         },
         {
             "id": "qu'appelle-t-on panser ?",
-            "url": "http://www.editionslesliensquiliberent.fr/livre-Dans_la_disruption-484-1-1-0-1.html"
+            "url": "https://www.editionslesliensquiliberent.fr/livre-Qu’appelle_t_on_Panser%C2%A0_-555-1-1-0-1.html"
         },
         {
             "id": "La société automatique l'avenir du travail",
@@ -550,7 +550,7 @@
         },
         {
             "id": "Bifurquer",
-            "url": "http://www.editionslesliensquiliberent.fr/livre-Bifurquer-609-1-1-0-1.html"
+            "url": "https://www.editionslesliensquiliberent.fr/livre-Bifurquer-609-1-1-0-1.html"
         },
         {
             "id": "Organoesis",
@@ -1164,6 +1164,14 @@
         {
             "id": "Vocabulaire de l’Internation",
             "url": "https://journals.openedition.org/appareil/3752"
+        },
+        {
+            "id": "Les Liens qui Libèrent",
+            "url": "https://www.editionslesliensquiliberent.fr"
+        },
+        {
+            "id": "Édition",
+            "url": "https://fr.wikipedia.org/wiki/Édition"
         }
     ],
     "edges": [
@@ -2826,8 +2834,31 @@
             "source": "Melissa Plet-Wyckhuyse",
             "target": "Néguentropie Frontiére",
             "type": "Événement"
+        },
+        {
+            "source": "Technique",
+            "target": "Édition",
+            "type": "Institution"
+        },
+        {
+            "source": "Édition",
+            "target": "Les Liens qui libèrent",
+            "type": "Institution"
+        },
+        {
+            "source": "Les Liens qui libèrent",
+            "target": "Bifurquer",
+            "type": "Livre"
+        },
+        {
+            "source": "Les Liens qui libèrent",
+            "target": "qu'appelle-t-on panser ?",
+            "type": "Livre"
+        },
+        {
+            "source": "Les Liens qui libèrent",
+            "target": "Dans la disruption comment ne pas devenir fou ?",
+            "type": "Livre"
         }
-
-
     ]
 }
