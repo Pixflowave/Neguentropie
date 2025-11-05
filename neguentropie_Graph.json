@@ -1500,6 +1500,11 @@
             "type": "Institution"
         },
         {
+            "source": "Licence Art Libre",
+            "target": "Néguentropie",
+            "type": "Objet"
+        },
+        {
             "source": "Philippe Rivière",
             "target": "Néguentropie",
             "type": "Objet"
@@ -1645,7 +1650,7 @@
             "type": "Discipline"
         },
         {
-            "source": "Droit",
+            "source": "Licence Libre",
             "target": "Licence Art Libre",
             "type": "Institution"
         },
