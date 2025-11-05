@@ -2966,6 +2966,16 @@
             "source": "Revue 3.0",
             "target": "Stylo",
             "type": "Projet"
+        },
+        {
+            "source": "Jean-Paul Thibeau",
+            "target": "Méta-Humus",
+            "type": "Événement"
+        },
+        {
+            "source": "Jean-Paul Thibeau",
+            "target": "Néguanthropocène",
+            "type": "Projet"
         }
 
     ]
