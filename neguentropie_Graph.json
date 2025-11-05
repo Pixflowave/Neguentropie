@@ -1236,6 +1236,10 @@
         {
             "id": "René Girard",
             "url": "https://fr.wikipedia.org/wiki/René_Girard"
+        },
+        {
+            "id": "René Char",
+            "url": "https://fr.wikipedia.org/wiki/René_Char"
         }
 
     ],
@@ -3047,6 +3051,11 @@
         },
         {
             "source": "René Girard",
+            "target": "Mensonge romantique et vérité romanesque",
+            "type": "Livre"
+        },
+        {
+            "source": "René Char",
             "target": "Mensonge romantique et vérité romanesque",
             "type": "Livre"
         }
