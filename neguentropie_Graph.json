@@ -1240,7 +1240,12 @@
         {
             "id": "René Char",
             "url": "https://fr.wikipedia.org/wiki/René_Char"
-        }
+        },
+        {
+            "id": "René Char, la résistance est un art",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie/rene-char-la-resistance-est-un-art-3627931"
+        } 
+ 
 
     ],
     "edges": [
@@ -3078,6 +3083,11 @@
             "source": "Poésie",
             "target": "René Char",
             "type": "Individu"
+        },
+        {
+            "source": "René Char",
+            "target": "René Char, la résistance est un art",
+            "type": "Emission"
         },
         {
             "source": "Licence Libre",
