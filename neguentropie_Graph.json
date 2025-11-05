@@ -1426,6 +1426,11 @@
         },
         {
             "source": "Licence Libre",
+            "target": "Polis",
+            "type": "Objet"
+        },
+        {
+            "source": "Licence Libre",
             "target": "MPCNC",
             "type": "Objet"
         },
@@ -3068,6 +3073,11 @@
             "source": "Poésie",
             "target": "René Char",
             "type": "Individu"
+        },
+        {
+            "source": "Licence Libre",
+            "target": "Stylo",
+            "type": "Objet"
         }
 
     ]
