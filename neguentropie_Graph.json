@@ -1204,7 +1204,20 @@
         {
             "id": "ETHICS EA7446",
             "url": "https://lillethics.com"
-        }
+        },
+        {
+            "id": "Institut pour la recherche",
+            "url": "https://www.caissedesdepots.fr/institut-pour-la-recherche"
+        },
+        {
+            "id": "Caisse des Dépots",
+            "url": "https://www.caissedesdepots.fr/"
+        },
+        {
+            "id": "NEST",
+            "url": "https://www.nestproject.eu"
+        } 
+
     ],
     "edges": [
         {
@@ -2976,7 +2989,26 @@
             "source": "Jean-Paul Thibeau",
             "target": "Néguanthropocène",
             "type": "Projet"
+        },
+        {
+            "source": "Caisse des Dépots",
+            "target": "Institut pour la recherche",
+            "type": "Institution"
+        }, 
+        {
+            "source": "Institut pour la recherche",
+            "target": "Les Entretiens du nouveau monde industriel",
+            "type": "Colloque"
+        },
+        {
+            "source": "NEST",
+            "target": "Les Entretiens du nouveau monde industriel",
+            "type": "Colloque"
         }
+
+
+
+        
 
     ]
 }
