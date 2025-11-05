@@ -1196,10 +1196,14 @@
         {
             "id": "Revue 3.0",
             "url": "https://revue30.org/"
-        },
+        }, 
         {
             "id": "Stylo",
             "url": "https://stylo.huma-num.fr"
+        },
+        {
+            "id": "ETHICS EA7446",
+            "url": "https://lillethics.com"
         }
     ],
     "edges": [
@@ -2879,6 +2883,26 @@
             "type": "Institution"
         },
         {
+            "source": "FYP",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
+            "source": "IRI",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
+            "source": "Organoesis",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
+            "source": "Cap digital",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
             "source": "Les Liens qui Libèrent",
             "target": "Bifurquer",
             "type": "Livre"
@@ -2914,6 +2938,16 @@
             "type": "Livre"
         },
         {
+            "source": "ETHICS EA7446",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        }, 
+        {
+            "source": "Association des Amis de la Génération Thunberg",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
             "source": "Cap digital",
             "target": "Les Entretiens du nouveau monde industriel",
             "type": "Colloque"
@@ -2933,5 +2967,6 @@
             "target": "Stylo",
             "type": "Projet"
         }
+
     ]
 }
