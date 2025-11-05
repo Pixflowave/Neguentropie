@@ -3046,17 +3046,22 @@
         },
         {
             "source": "Grasset",
-            "target": "Mensonge romantique et vérité romanesque",
+            "target": "La violence et le sacré",
             "type": "Livre"
         },
         {
             "source": "René Girard",
-            "target": "Mensonge romantique et vérité romanesque",
+            "target": "La violence et le sacré",
             "type": "Livre"
         },
         {
-            "source": "René Char",
-            "target": "Mensonge romantique et vérité romanesque",
+            "source": "Grasset",
+            "target": "Des choses cachées depuis la fondation du monde",
+            "type": "Livre"
+        },
+        {
+            "source": "René Girard",
+            "target": "Des choses cachées depuis la fondation du monde",
             "type": "Livre"
         }
 
