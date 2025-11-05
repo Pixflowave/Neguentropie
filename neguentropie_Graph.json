@@ -526,7 +526,7 @@
         },
         {
             "id": "Prendre soin de l'informatique et des génèrations",
-            "url": "https://boutique.fypeditions.com/products/prendre-soin-de-l-informatique-et-des-generations-hommage-a-bernard-stiegler"
+            "url": "https://fypeditions.com/prendre-soin-de-l-informatique-et-des-generations/"
         },
         {
             "id": "Digitale Studies",
@@ -1172,6 +1172,34 @@
         {
             "id": "Édition",
             "url": "https://fr.wikipedia.org/wiki/Édition"
+        },
+        {
+            "id": "Victor Chaix",
+            "url": "https://llm.umontreal.ca/repertoire-departement/doctorantes-doctorants/victor-chaix-illui/"
+        },
+        {
+            "id": "Maël Montévil",
+            "url": "https://montevil.org"
+        },
+        {
+            "id": "FYP",
+            "url": "https://fypeditions.com"
+        },
+        {
+            "id": "Cap digital",
+            "url": "https://www.capdigital.com"
+        }, 
+        {
+            "id": "ENSCI",
+            "url": "https://www.ensci.com"
+        }, 
+        {
+            "id": "Revue 3.0",
+            "url": "https://revue30.org/"
+        },
+        {
+            "id": "Stylo",
+            "url": "https://stylo.huma-num.fr"
         }
     ],
     "edges": [
@@ -2846,6 +2874,11 @@
             "type": "Institution"
         },
         {
+            "source": "Édition",
+            "target": "FYP",
+            "type": "Institution"
+        },
+        {
             "source": "Les Liens qui Libèrent",
             "target": "Bifurquer",
             "type": "Livre"
@@ -2859,6 +2892,46 @@
             "source": "Les Liens qui Libèrent",
             "target": "Dans la disruption comment ne pas devenir fou ?",
             "type": "Livre"
+        },
+        {
+            "source": "Anne Alombert",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
+            "source": "Vincent Puig",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
+            "source": "Victor Chaix",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
+            "source": "Maël Montévil",
+            "target": "Prendre soin de l'informatique et des génèrations",
+            "type": "Livre"
+        },
+        {
+            "source": "Cap Digital",
+            "target": "Les Entretiens du nouveau monde industriel",
+            "type": "Colloque"
+        },
+        {
+            "source": "ENSCI",
+            "target": "Les Entretiens du nouveau monde industriel",
+            "type": "Colloque"
+        },
+        {
+            "source": "Victor Chaix",
+            "target": "Revue 3.0",
+            "type": "Institution"
+        },
+        {
+            "source": "Revue 3.0",
+            "target": "Stylo",
+            "type": "Projet"
         }
     ]
 }
