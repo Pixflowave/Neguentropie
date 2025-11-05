@@ -1216,7 +1216,27 @@
         {
             "id": "NEST",
             "url": "https://www.nestproject.eu"
-        } 
+        },
+        {
+            "id": "Des choses cachées depuis la fondation du monde",
+            "url": "https://www.grasset.fr/livre/des-choses-cachees-depuis-la-fondation-du-monde-9782246618416/"
+        },
+        {
+            "id": "La Violence et le sacré",
+            "url": "https://www.grasset.fr/livre/la-violence-et-le-sacre-9782246000518/"
+        },
+        {
+            "id": "Mensonge romantique et vérité romanesque",
+            "url": "https://www.grasset.fr/livre/la-violence-et-le-sacre-9782246000518/"
+        },
+        {
+            "id": "Grasset",
+            "url": "https://www.grasset.fr/"
+        },
+        {
+            "id": "René Girard",
+            "url": "https://fr.wikipedia.org/wiki/René_Girard"
+        }
 
     ],
     "edges": [
@@ -3004,6 +3024,31 @@
             "source": "NEST",
             "target": "Les Entretiens du nouveau monde industriel",
             "type": "Colloque"
+        },
+        {
+            "source": "Édition",
+            "target": "Grasset",
+            "type": "Institution"
+        },
+        {
+            "source": "Grasset",
+            "target": "Mensonge romantique et vérité romanesque",
+            "type": "Livre"
+        },
+        {
+            "source": "René Girard",
+            "target": "Mensonge romantique et vérité romanesque",
+            "type": "Livre"
+        },
+        {
+            "source": "Grasset",
+            "target": "Mensonge romantique et vérité romanesque",
+            "type": "Livre"
+        },
+        {
+            "source": "René Girard",
+            "target": "Mensonge romantique et vérité romanesque",
+            "type": "Livre"
         }
 
 
