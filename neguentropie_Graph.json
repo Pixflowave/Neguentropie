@@ -3065,11 +3065,10 @@
             "type": "Livre"
         },
         {
-            "source": "René Char",
-            "target": "Des choses cachées depuis la fondation du monde",
-            "type": "Livre"
+            "source": "Poésie",
+            "target": "René Char",
+            "type": "Individu"
         }
-
 
     ]
 }
