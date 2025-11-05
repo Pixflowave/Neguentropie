@@ -1222,7 +1222,7 @@
             "url": "https://www.grasset.fr/livre/des-choses-cachees-depuis-la-fondation-du-monde-9782246618416/"
         },
         {
-            "id": "La Violence et le sacré",
+            "id": "La violence et le sacré",
             "url": "https://www.grasset.fr/livre/la-violence-et-le-sacre-9782246000518/"
         },
         {
@@ -3063,7 +3063,13 @@
             "source": "René Girard",
             "target": "Des choses cachées depuis la fondation du monde",
             "type": "Livre"
+        },
+        {
+            "source": "René Char",
+            "target": "Des choses cachées depuis la fondation du monde",
+            "type": "Livre"
         }
+
 
     ]
 }
