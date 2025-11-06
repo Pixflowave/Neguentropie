@@ -1393,6 +1393,11 @@
             "type": "Institution"
         },
         {
+            "source": "France Culture",
+            "target": "IGN",
+            "type": "Émission"
+        },
+        {
             "source": "Do it yourself",
             "target": "Couture",
             "type": "Savoir-faire"
@@ -1463,6 +1468,11 @@
             "type": "Individu"
         },
         {
+            "source": "France Culture",
+            "target": "Richard Stallman",
+            "type": "Émission"
+        },
+        {
             "source": "Richard Stallman",
             "target": "Culture Maker",
             "type": "Mouvement"
@@ -1485,7 +1495,12 @@
         {
             "source": "Fred Turner",
             "target": "Entretien avec Fred Turner, un penseur critique dans la Silicon Valley",
-            "type": "Article"
+            "type": "Émission"
+        },
+        {
+            "source": "France Culture",
+            "target": "Entretien avec Fred Turner, un penseur critique dans la Silicon Valley",
+            "type": "Émission"
         },
         {
             "source": "Licence Libre",
@@ -2023,6 +2038,11 @@
             "type": "Individu"
         },
         {
+            "source": "France Culture",
+            "target": "Bernard Stiegler",
+            "type": "Émission"
+        },
+        {
             "source": "Ars Industrialis",
             "target": "Pharmakon",
             "type": "Institution"
@@ -2308,6 +2328,11 @@
             "type": "Individu"
         },
         {
+            "source": "France Culture",
+            "target": "Gilbert Simondon",
+            "type": "Émission"
+        },
+        {
             "source": "Gilbert Simondon",
             "target": "Du mode d'existence des objets techniques",
             "type": "Livre"
@@ -2448,6 +2473,11 @@
             "type": "Livre"
         },
         {
+            "source": "France Culture",
+            "target": "Philippe Descola : Les anthropologues vont chercher l'étonnement",
+            "type": "Émission"
+        },
+        {
             "source": "Anthropologie",
             "target": "Pierre Legendre",
             "type": "Individu"
@@ -2461,6 +2491,11 @@
             "source": "Anthropologie",
             "target": "André Leroi-Gourhan",
             "type": "Individu"
+        },
+        {
+            "source": "France Culture",
+            "target": "André Leroi-Gourhan",
+            "type": "Émission"
         },
         {
             "source": "André Leroi-Gourhan",
