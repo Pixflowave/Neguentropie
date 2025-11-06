@@ -3010,7 +3010,7 @@
         {
             "source": "Melissa Plet-Wyckhuyse",
             "target": "Radio Campus Tours - La Méridienne",
-            "type": "Emission"
+            "type": "Émission"
         },
         {
             "source": "Melissa Plet-Wyckhuyse",
@@ -3185,7 +3185,7 @@
         {
             "source": "René Char",
             "target": "René Char, la résistance est un art",
-            "type": "Emission"
+            "type": "Émission"
         },
         {
             "source": "Licence Libre",
@@ -3310,7 +3310,7 @@
         {
             "source": "Radio",
             "target": "Radio Campus Tours - La Méridienne",
-            "type": "Emission"
+            "type": "Émission"
         },
         {
             "source": "Radio",
@@ -3320,13 +3320,38 @@
         {
             "source": "France Culture",
             "target": "Les Chemins de la philosophie",
-            "type": "Emission"
+            "type": "Émission"
         },
         {
             "source": "Les Chemins de la philosophie",
             "target": "René Char, la résistance est un art",
-            "type": "Emission"
-        } 
+            "type": "Émission"
+        },
+        {
+            "source": "Édition",
+            "target": "OpenEdition",
+            "type": "Institution"
+        },
+        {
+            "source": "OpenEdition",
+            "target": "OpenEdition Journals",
+            "type": "Institution"
+        },
+        {
+            "source": "OpenEdition Journals",
+            "target": "OpenEdition Journals | Le portiQue",
+            "type": "Revue"
+        },
+        {
+            "source": "OpenEdition Journals | Le portiQue",
+            "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
+            "type": "Revue"
+        },
+        {
+            "source": "Technique",
+            "target": "ScanR",
+            "type": "Objet"
+        }
 
     ]
 }
