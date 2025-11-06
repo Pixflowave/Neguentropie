@@ -369,7 +369,7 @@
             "url": "https://fr.wikipedia.org/wiki/Fibre_v%C3%A9g%C3%A9tale"
         },
         {
-            "id": "fibre de Bambou",
+            "id": "Fibre de Bambou",
             "url": "https://fr.wikipedia.org/wiki/Fibre_de_bambou"
         },
         {
@@ -784,7 +784,7 @@
             "url": "https://fr.wikipedia.org/wiki/Gisela_Pankow"
         },
         {
-            "id": "Yves Agid ",
+            "id": "Yves Agid",
             "url": "https://fr.wikipedia.org/wiki/Yves_Agid"
         },
         {
@@ -1002,7 +1002,7 @@
             "url": "https://bambouscoopic.org/"
         },
         {
-            "id": "musique",
+            "id": "Musique",
             "url": "https://fr.wikipedia.org/wiki/Musique"
         },
         {
@@ -1151,7 +1151,7 @@
         },
         {
             "id": "Jean Lassègue",
-            "url": "https://www.puf.com/lempire-numerique"
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref050190636"
         },
         {
             "id": "THE NEGANTHROPOCENE",
@@ -1344,6 +1344,22 @@
         {
             "id": "Radio",
             "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_radio"
+        },
+        {
+            "id": "Internet",
+            "url": "https://fr.wikipedia.org/wiki/Internet"
+        },
+        {
+            "id": "World Wide Web",
+            "url": "https://fr.wikipedia.org/wiki/World_Wide_Web"
+        },
+        {
+            "id": "Wikipedia",
+            "url": "https://fr.wikipedia.org/wiki/Wikipédia"
+        },
+        {
+            "id": "Puf",
+            "url": "https://www.puf.com/"
         }
     ],
     "edges": [
@@ -1864,7 +1880,7 @@
         },
         {
             "source": "Fibre Végétale",
-            "target": "fibre de Bambou",
+            "target": "Fibre de Bambou",
             "type": "Savoir-faire"
         },
         {
@@ -2569,16 +2585,16 @@
         },
         {
             "source": "Neuropsychiatrie",
-            "target": "Yves Agid ",
+            "target": "Yves Agid",
             "type": "Individu"
         },
         {
-            "source": "Yves Agid ",
+            "source": "Yves Agid",
             "target": "L'homme Glial",
             "type": "Livre"
         },
         {
-            "source": "Yves Agid ",
+            "source": "Yves Agid",
             "target": "Institut du Cerveau",
             "type": "Livre"
         },
@@ -3388,6 +3404,16 @@
             "type": "Institution"
         },
         {
+            "source": "Édition",
+            "target": "Puf",
+            "type": "Institution"
+        },
+        {
+            "source": "Puf",
+            "target": "L'empire numérique",
+            "type": "Livre"
+        },
+        {
             "source": "OpenEdition",
             "target": "OpenEdition Journals",
             "type": "Institution"
@@ -3403,15 +3429,364 @@
             "type": "Revue"
         },
         {
+            "source": "OpenEdition Journals | Appareil",
+            "target": "Vocabulaire de l’Internation",
+            "type": "Article"
+        },
+        {
             "source": "OpenEdition Journals | Le portiQue",
             "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
             "type": "Revue"
         },
         {
-            "source": "Technique",
+            "source": "Technologie",
+            "target": "Internet",
+            "type": "Objet"
+        },
+        {
+            "source": "Internet",
+            "target": "World Wide Web",
+            "type": "Objet"
+        },
+        {
+            "source": "World Wide Web",
             "target": "scanR",
             "type": "Objet"
+        },
+        {
+            "source": "World Wide Web",
+            "target": "Wikipedia",
+            "type": "Objet"
+        },
+        {
+            "source": "Licence Libre",
+            "target": "Wikipedia",
+            "type": "Objet"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Radio",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "René Char",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "René Girard",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Édition",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Low-Tech",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Do it yourself",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Histoire",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Gaël Giraud",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Musique",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Construction en Bambou",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Architecture",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Franck Pavloff",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Poésie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Art",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Frantz Fanon",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Pierre Delion",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Yves Agid",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Gisela Pankow",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Neuropsychiatrie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Joseph Gabel",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Psychiatrie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "David Graeber",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Anthropologie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Coopération",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "John Dewey",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Philosophie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Épistémologie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Mathématique",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Christophe Bonneuil",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Jean-Baptiste Fressoz",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Historien",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "CNRS",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Chanvre",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Toile de jute",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Fibre de Bambou",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Fibre Végétale",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Alimentation",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Agriculture",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Agronomie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Essai sur le don",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Marcel Mauss",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Sociologie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Licence Libre",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Droit",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Thomas Piketty",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Frédèrique Lordon",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Économie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Pédagogie institutionnelle",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Pédagogie de projet",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Pédagogie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Cartographie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Fred Turner",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Culture Maker",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Hacker",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Contre-Culture",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Textile",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Tissage",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Menuiserie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Bricolage",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Machine à Coudre",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Couture",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Cartographie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Démocratie",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Technique",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Technè",
+            "type": "Article"
         }
-
     ]
 }
