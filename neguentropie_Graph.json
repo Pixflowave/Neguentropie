@@ -1274,8 +1274,8 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie"
         },
         {
-            "id": "Les chemins de la philosophie",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie"
+            "id": "René Char, la résistance est un art",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie/rene-char-la-resistance-est-un-art-3627931"
         },
         {
             "id": "Paolo Vignola",
@@ -1340,8 +1340,11 @@
         {
             "id": "scanR",
             "url": "https://scanr.enseignementsup-recherche.gouv.fr"
-        } 
-    
+        }, 
+        {
+            "id": "Radio",
+            "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_radio"
+        }
     ],
     "edges": [
         {
@@ -3298,7 +3301,32 @@
             "source": "Rachid Boutayeb",
             "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
             "type": "Revue"
-        }
+        },
+        {
+            "source": "Technique",
+            "target": "Radio",
+            "type": "Institution"
+        },
+        {
+            "source": "Radio",
+            "target": "Radio Campus Tours - La Méridienne",
+            "type": "Emission"
+        },
+        {
+            "source": "Radio",
+            "target": "France Culture",
+            "type": "Institution"
+        },
+        {
+            "source": "France Culture",
+            "target": "Les Chemins de la philosophie",
+            "type": "Emission"
+        },
+        {
+            "source": "Les Chemins de la philosophie",
+            "target": "René Char, la résistance est un art",
+            "type": "Emission"
+        } 
 
     ]
 }
