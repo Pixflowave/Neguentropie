@@ -2513,6 +2513,11 @@
             "type": "Livre"
         },
         {
+            "source": "France Culture",
+            "target": "Julia Kristeva, l'œuvre qui bouscule la littérature",
+            "type": "Émission"
+        },
+        {
             "source": "Association Culturel de la Borde",
             "target": "Chimères n°84 - Avec Jean Oury",
             "type": "Revue"
@@ -2633,6 +2638,16 @@
             "type": "Individu"
         },
         {
+            "source": "France Culture",
+            "target": "François Tosquelles",
+            "type": "Émission"
+        },
+        {
+            "source": "France Culture",
+            "target": "Jean Oury",
+            "type": "Émission"
+        },
+        {
             "source": "Jean Oury",
             "target": "Le Collectif",
             "type": "Livre"
@@ -2655,7 +2670,12 @@
         {
             "source": "Jean Oury",
             "target": "De Saint-Alban à La Borde, la psychothérapie institutionnelle",
-            "type": "Livre"
+            "type": "Émission"
+        },
+        {
+            "source": "France Culture",
+            "target": "De Saint-Alban à La Borde, la psychothérapie institutionnelle",
+            "type": "Émission"
         },
         {
             "source": "Jean Oury",
