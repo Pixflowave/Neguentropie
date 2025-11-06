@@ -3343,6 +3343,11 @@
             "type": "Revue"
         },
         {
+            "source": "OpenEdition Journals",
+            "target": "OpenEdition Journals | Appareil",
+            "type": "Revue"
+        },
+        {
             "source": "OpenEdition Journals | Le portiQue",
             "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
             "type": "Revue"
