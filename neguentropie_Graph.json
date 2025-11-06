@@ -582,7 +582,7 @@
         },
         {
             "id": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
-            "url": "https://www.lespressesdureel.com/ouvrage.php?id=11380&menu="
+            "url": "https://www.lespressesdureel.com/ouvrage.php?id=11380&menu=0"
         },
         {
             "id": "Pharmakon Studies",
@@ -1050,7 +1050,7 @@
             "url": "https://www.berkeley.edu"
         },
         {
-            "id": "David Bates",
+            "id": "David W. Bates",
             "url": "https://rhetoric.berkeley.edu/people/david-bates"
         },
         {
@@ -1242,11 +1242,106 @@
             "url": "https://fr.wikipedia.org/wiki/René_Char"
         },
         {
-            "id": "René Char, la résistance est un art",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie/rene-char-la-resistance-est-un-art-3627931"
+            "id": "Les presses du réel",
+            "url": "https://www.lespressesdureel.com/"
+        },
+        {
+            "id": "Le portiQue",
+            "url": "https://www.lespressesdureel.com/magazine.php?id=220&menu=0"
+        },
+        {
+            "id": "Jean-Hugues Barthélèmy",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref087879638"
+        },
+        {
+            "id": "OpenEdition",
+            "url": "https://www.openedition.org/"
+        },
+        {
+            "id": "OpenEdition Journals",
+            "url": "https://journals.openedition.org/6438"
+        },        
+        {
+            "id": "OpenEdition Journals | Le portiQue",
+            "url": "https://journals.openedition.org/leportique/"
+        },
+        {
+            "id": "France Culture",
+            "url": "https://www.radiofrance.fr/franceculture"
+        },
+        {
+            "id": "Les chemins de la philosophie",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie"
+        },
+        {
+            "id": "Les chemins de la philosophie",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie"
+        },
+        {
+            "id": "Paolo Vignola",
+            "url": "http://www.sfifvg.eu/?page_id=3214"
+        },
+        {
+            "id": "OpenEdition Journals | Appareil",
+            "url": "https://journals.openedition.org/appareil/"
+        },
+        {
+            "id": "Michaël Crevoisier",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref177952334"
+        },
+        {
+            "id": "Isabelle Alfandary",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref059823542"
+        },
+        {
+            "id": "Francesco Vitale",
+            "url": "https://docenti.unisa.it/005853/home"
+        },
+        {
+            "id": "Élise Lamy-Rested",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref174764820"
+        },
+        {
+            "id": "Susanna Lindberg",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref145217744"
+        },
+        {
+            "id": "Pierre Cassou-Noguès",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref056611277"
+        },
+        {
+            "id": "Noel Fitzpatrick",
+            "url": "https://researchprofiles.tudublin.ie/en/persons/noel-fitzpatrick-2/"
+        },
+        {
+            "id": "Pieter Lemmens",
+            "url": "https://radboud.academia.edu/PieterLemmens"
+        },
+        {
+            "id": "Hector G. Castaño",
+            "url": "https://nsysu.academia.edu/HéctorGCastaño"
+        },
+        {
+            "id": "Ludovic Duhem",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref109307097"
+        },
+        {
+            "id": "N'Dré Sam Beugé",
+            "url": "https://cv.hal.science/ndre-sam-beugre"
+        },
+        {
+            "id": "Loubna Abahani",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/publications/halhal-04245114"
+        },
+        {
+            "id": "Rachid Boutayeb",
+            "url": "https://independent.academia.edu/RachidBoutayeb"
+        },
+        {
+            "id": "scanR",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr"
         } 
- 
-
+    
     ],
     "edges": [
         {
@@ -2165,7 +2260,7 @@
             "type": "Institution"
         },
         {
-            "source": "David Bates",
+            "source": "David W. Bates",
             "target": "Collectif Internation",
             "type": "Institution"
         },
@@ -2766,21 +2861,21 @@
         },
         {
             "source": "UC Berkeley",
-            "target": "David Bates",
+            "target": "David W. Bates",
             "type": "Individu"
         },
         {
-            "source": "David Bates",
+            "source": "David W. Bates",
             "target": "An Artificial History of Natural Intelligence: Thinking with Machines from Descartes to the Digital Age",
             "type": "Livre"
         },
         {
-            "source": "David Bates",
+            "source": "David W. Bates",
             "target": "Organoesis",
             "type": "Institution"
         },
         {
-            "source": "David Bates",
+            "source": "David W. Bates",
             "target": "IRI",
             "type": "Institution"
         },
@@ -3093,6 +3188,51 @@
             "source": "Licence Libre",
             "target": "Stylo",
             "type": "Objet"
+        },
+        {
+            "source": "Édition",
+            "target": "Les presses du réel",
+            "type": "Institution"
+        },
+        {
+            "source": "Les presses du réel",
+            "target": "Le portiQue",
+            "type": "Revue"
+        },
+        {
+            "source": "Le portiQue",
+            "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
+            "type": "Revue"
+        },
+        {
+            "source": "Jean-Hugues Barthélémy",
+            "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
+            "type": "Revue"
+        },
+        {
+            "source": "Paolo Vignola",
+            "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
+            "type": "Revue"
+        },
+        {
+            "source": "Michel Crevoisier",
+            "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
+            "type": "Revue"
+        },
+        {
+            "source": "Michał Krzykawski",
+            "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
+            "type": "Revue"
+        },
+        {
+            "source": "David W. Bates",
+            "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
+            "type": "Revue"
+        },
+        {
+            "source": "Isabelle Alfandary",
+            "target": "Bernard Stiegler Panser le devenir des savoirs dans le milieu numérique",
+            "type": "Revue"
         }
 
     ]
