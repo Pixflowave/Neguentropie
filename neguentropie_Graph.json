@@ -3354,7 +3354,7 @@
         },
         {
             "source": "Technique",
-            "target": "ScanR",
+            "target": "scanR",
             "type": "Objet"
         }
 
