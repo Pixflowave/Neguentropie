@@ -1360,6 +1360,18 @@
         {
             "id": "Puf",
             "url": "https://www.puf.com/"
+        },
+        {
+            "id": "Critique de l’Intelligence Artificielle",
+            "url": "https://llcp.univ-paris8.fr/colloque-international-critique-de-l-intelligence-artificielle-enjeux"
+        },
+        {
+            "id": "Alban Leveau-Vallier",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref273347357"
+        },
+        {
+            "id": "Baptiste Loreaux",
+            "url": "https://shs.cairn.info/publications-de-baptiste-loreaux--811742?lang=fr"
         }
     ],
     "edges": [
@@ -3787,6 +3799,26 @@
             "source": "Wikipedia",
             "target": "Technè",
             "type": "Article"
+        },
+        {
+            "source": "Université Paris 8",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Alban Leveau-Vallier",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Anne Alombert",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Baptiste Loreaux",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
         }
     ]
 }
