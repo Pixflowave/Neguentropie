@@ -1372,6 +1372,50 @@
         {
             "id": "Baptiste Loreaux",
             "url": "https://shs.cairn.info/publications-de-baptiste-loreaux--811742?lang=fr"
+        },
+        {
+            "id": "Pablo Jensen",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref056519842"
+        },
+        {
+            "id": "Lê Nguyen Hoang",
+            "url": "https://fr.wikipedia.org/wiki/Lê_Nguyên_Hoang"
+        },
+        {
+            "id": "Félix Tréguer",
+            "url": "https://www.felixtreguer.fr"
+        },
+        {
+            "id": "Quadrature du Net",
+            "url": "https://www.laquadrature.net"
+        },
+        {
+            "id": "Juan-Luis Gastaldi",
+            "url": "https://www.giannigastaldi.com"
+        },
+        {
+            "id": "Gwenola Wagon",
+            "url": "https://gwenolawagon.com"
+        },
+        {
+            "id": "Grégory Chatonsky",
+            "url": "https://chatonsky.net"
+        },
+        {
+            "id": "Yves Citton",
+            "url": "https://www.yvescitton.net"
+        },
+        {
+            "id": "Mathieu Garling",
+            "url": "https://sacre.psl.eu/wp-content/uploads/2021/05/Fiche_Mathieu-GARLING.pdf"
+        },
+        {
+            "id": "Anna Longo",
+            "url": "https://u-paris.academia.edu/AnnaLongo"
+        },
+        {
+            "id": "Antonio Somaini",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref122427440"
         }
     ],
     "edges": [
@@ -3817,6 +3861,101 @@
         },
         {
             "source": "Baptiste Loreaux",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Jean Lassègue",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "David W. Bates",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Giuseppe Longo",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Pablo Jensen",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Lê Nguyen Hoang",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Lê Nguyen Hoang",
+            "type": "Article"
+        },
+        {
+            "source": "Félix Tréguer",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "CNRS",
+            "target": "Félix Tréguer",
+            "type": "Individu"
+        },
+        {
+            "source": "Félix Tréguer",
+            "target": "Quadrature du Net",
+            "type": "Institution"
+        },
+        {
+            "source": "Frédéric Kaplan",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Michal Krzykawski",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Juan-Luis Gastaldi",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Pierre Cassou-Noguès",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Gwenola Wagon",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Yves Citton",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Grégory Chatonsky",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Mathieu Garling",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Anna Longo",
+            "target": "Critique de l’Intelligence Artificielle",
+            "type": "Colloque"
+        },
+        {
+            "source": "Antonio Somaini",
             "target": "Critique de l’Intelligence Artificielle",
             "type": "Colloque"
         }
