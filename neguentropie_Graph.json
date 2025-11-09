@@ -700,8 +700,12 @@
             "url": "https://tekhne.neguentropie.art/+neguentropie/humus/publications/humus?display=slides"
         },
         {
-            "id": "Méta-Humus",
+            "id": "Méta-Humus | MSH VDL",
             "url": "https://www.msh-vdl.fr/actualite/human-tech-days-meta-humus/"
+        },
+        {
+            "id": "Méta-Humus",
+            "url": "https://tekhne.neguentropie.art/+neguentropie/meta-humus/publications/meta-humus-msh-val-de-loire-htd-2023?display=slides"
         },
         {
             "id": "Anthropologie",
@@ -4077,7 +4081,19 @@
             "source": "Florence Troin",
             "target": "Cartes & Géomatique",
             "type": "Revue"
+        },
+        {
+            "source": "Maison des sciences de l'Homme du Val de Loire",
+            "target": "Méta-Humus | MSH VDL",
+            "type": "Article"
+        },
+        {
+            "source": "Méta-Humus | MSH VDL",
+            "target": "Méta-Humus",
+            "type": "Article"
         }
+        
+
     
 
 
