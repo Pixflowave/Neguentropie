@@ -1448,7 +1448,15 @@
         {
             "id": "Nepthys Zwer",
             "url": "https://www.imagomundi.fr/"
-        }, 
+        },
+        {
+            "id": "Christine Zanin",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref034618953"
+        },
+        {
+            "id": "Élisabeth Habert",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref150509073"
+        },    
         {
             "id": "Learning Planet Institute",
             "url": "https://www.learningplanetinstitute.org"
@@ -2559,6 +2567,21 @@
         },
         {
             "source": "Printemps des Cartes",
+            "target": "CFC - METTRE À L’HONNEUR UN FESTIVAL DE CARTOGRAPHIE GRAND PUBLIC",
+            "type": "Article"
+        },
+        {
+            "source": "Élisabeth Habert",
+            "target": "CFC - METTRE À L’HONNEUR UN FESTIVAL DE CARTOGRAPHIE GRAND PUBLIC",
+            "type": "Article"
+        },
+        {
+            "source": "Florence Troin",
+            "target": "CFC - METTRE À L’HONNEUR UN FESTIVAL DE CARTOGRAPHIE GRAND PUBLIC",
+            "type": "Article"
+        },
+        {
+            "source": "Christine Zanin",
             "target": "CFC - METTRE À L’HONNEUR UN FESTIVAL DE CARTOGRAPHIE GRAND PUBLIC",
             "type": "Article"
         },
