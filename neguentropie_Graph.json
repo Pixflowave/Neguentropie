@@ -1448,10 +1448,17 @@
         {
             "id": "Nepthys Zwer",
             "url": "https://www.imagomundi.fr/"
-        },
+        }, 
         {
             "id": "Learning Planet Institute",
             "url": "https://www.learningplanetinstitute.org"
+        },
+        {
+            "id": "CFC - METTRE À L’HONNEUR UN FESTIVAL DE CARTOGRAPHIE GRAND PUBLIC",
+            "url": "https://www.lecfc.fr/new/articles/257-article-1.pdf"
+        },
+        {
+            "id": "Le Printemps des Cartes à Montmorillon mai 2024"
         }
     ],
     "edges": [
@@ -2538,42 +2545,62 @@
         {
             "source": "Anne Alombert",
             "target": "Néguentropie à La Fabrique de Blois HTD2022",
-            "type": "Événement"
-        },
-        {
-            "source": "Néguentropie",
-            "target": "Printemps des Cartes",
             "type": "Festival"
         },
         {
-            "source": "Néguentropie au Printemps des Cartes",
-            "target": "Cartes & Géomatique",
+            "source": "Néguentropie",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Printemps des Cartes",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Printemps des Cartes",
+            "target": "CFC - METTRE À L’HONNEUR UN FESTIVAL DE CARTOGRAPHIE GRAND PUBLIC",
+            "type": "Article"
+        },
+        {
+            "source": "Cartes & Géomatique",
+            "target": "CFC - METTRE À L’HONNEUR UN FESTIVAL DE CARTOGRAPHIE GRAND PUBLIC",
+            "type": "Article"
+        },
+        {
+            "source": "Cartes & Géomatique",
+            "target": "Le Printemps des Cartes à Montmorillon mai 2024",
+            "type": "Revue"
+        },
+        {
+            "source": "Printemps des Cartes",
+            "target": "Le Printemps des Cartes à Montmorillon mai 2024",
             "type": "Article"
         },
         {
             "source": "Néguentropie",
             "target": "Néguentropie Frontiére",
-            "type": "Événement"
+            "type": "Festival"
         },
         {
             "source": "Néguentropie",
             "target": "Néguanthropocène",
-            "type": "Événement"
+            "type": "Projet"
         },
         {
             "source": "Néguentropie",
             "target": "Habitus",
-            "type": "Événement"
+            "type": "Projet"
         },
         {
             "source": "Néguentropie",
             "target": "Humus",
-            "type": "Objet"
+            "type": "Projet"
         },
         {
             "source": "Humus",
             "target": "Méta-Humus",
-            "type": "Événement"
+            "type": "Bifurcation"
         },
         {
             "source": "Festival Human Tech Days",
