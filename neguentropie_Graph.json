@@ -669,7 +669,7 @@
             "url": "https://neguentropie.art/"
         },
         {
-            "id": "Néguentropie",
+            "id": "Néguentropie | Organoesis",
             "url": "https://organoesis.org/projets-contributifs/neguentropie"
         },
         {
@@ -4014,7 +4014,12 @@
         },
         {
             "source": "Néguentropie",
-            "target": "Organoesis",
+            "target": "Néguentropie | Organoesis",
+            "type": "Article"
+        },
+        {
+            "source": "Organoesis",
+            "target": "Néguentropie | Organoesis",
             "type": "Article"
         }
 
