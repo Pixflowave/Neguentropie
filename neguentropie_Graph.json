@@ -4111,6 +4111,16 @@
             "type": "Festival"
         },
         {
+            "source": "CNRS",
+            "target": "Maison des sciences de l'Homme du Val de Loire",
+            "type": "Festival"
+        },
+        {
+            "source": "Université de Tours",
+            "target": "Maison des sciences de l'Homme du Val de Loire",
+            "type": "Festival"
+        },
+        {
             "source": "Université de Tours",
             "target": "Néguentropie | Université de Tours",
             "type": "Festival"
