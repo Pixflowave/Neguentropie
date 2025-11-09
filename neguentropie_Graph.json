@@ -669,6 +669,10 @@
             "url": "https://neguentropie.art/"
         },
         {
+            "id": "Néguentropie",
+            "url": "https://organoesis.org/projets-contributifs/neguentropie"
+        },
+        {
             "id": "Néguentropie à La Fabrique de Blois HTD2022",
             "url": "https://tekhne.neguentropie.art/+neguentropie/neguentropie-la-fabrique-de-blois-2022/publications/neguentropie-la-fabrique-de-blois-2022?display=section&section=section-1760092463921.meta.txt"
         },
@@ -3009,6 +3013,11 @@
             "type": "Événement"
         },
         {
+            "source": "Erwan Bozec",
+            "target": "Campus fluxus",
+            "type": "Événement"
+        },
+        {
             "source": "Technè",
             "target": "Histoire",
             "type": "Discipline"
@@ -3997,6 +4006,16 @@
             "source": "Printemps des Cartes",
             "target": "Néguentropie au Printemps des Cartes",
             "type": "Festival"
+        },
+        {
+            "source": "Néguentropie",
+            "target": "CRACN",
+            "type": "Article"
+        },
+        {
+            "source": "Néguentropie",
+            "target": "Organoesis",
+            "type": "Article"
         }
 
     ]
