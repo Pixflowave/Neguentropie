@@ -2521,11 +2521,6 @@
             "type": "Institution"
         },
         {
-            "source": "Maison des sciences de l'Homme du Val de Loire",
-            "target": "Méta-Humus",
-            "type": "Festival"
-        },
-        {
             "source": "Coopération",
             "target": "Artéfacts",
             "type": "Institution"
