@@ -1467,7 +1467,47 @@
         },
         {
             "id": "Le Printemps des Cartes à Montmorillon mai 2024"
+        },
+        {
+            "id": "Université de Poitiers | Département de Géographie",
+            "url": "https://sha.univ-poitiers.fr/geo/"
+        },
+        {
+            "id": "Dominique Andrieux",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref147699959"
+        }, 
+        {
+            "id": "MJC Claude Nougaro",
+            "url": "https://mjcmontmorillon.fr"
+        },
+        {
+            "id": "Carole Maire",
+            "url": "https://www.linkedin.com/in/carole-maire-03b504177/"
+        },
+        {
+            "id": "Samuel Arlaud",
+            "url": "https://www.printempsdescartes.fr/samuel-arlaud/"
+        },
+        {
+            "id": "Matthieu LEE",
+            "url": "https://sha.univ-poitiers.fr/geo/membres/matthieu-lee/"
+        },
+        {
+            "id": "Christine Plumejeaud",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref132090511"
+        },
+        {
+            "id": "Pascal chauchefoin",
+            "url": "https://ruralites.labo.univ-poitiers.fr/membres/pascal-chauchefoin/"
         }
+
+
+
+
+
+
+
+        
     ],
     "edges": [
         {
@@ -2528,6 +2568,51 @@
         {
             "source": "Festival Human Tech Days",
             "target": "Maison des sciences de l'Homme du Val de Loire",
+            "type": "Festival"
+        },
+        {
+            "source": "Dominique Andrieu",
+            "target": "Maison des sciences de l'Homme du Val de Loire",
+            "type": "Individu"
+        },
+        {
+            "source": "Dominique Andrieu",
+            "target": "Méta-Humus",
+            "type": "Contributeur·se"
+        },
+        {
+            "source": "Dominique Andrieu",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Christine Plumejeaud",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Christine Plumejeaud",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Matthieu LEE",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Pascal chauchefoin",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Samuel Arlaud",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Carole Maire",
+            "target": "Printemps des Cartes",
             "type": "Festival"
         },
         {
