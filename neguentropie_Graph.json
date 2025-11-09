@@ -1503,7 +1503,9 @@
         {
             "id": "Espace Mendes France",
             "url": "https://emf.fr"
-        }        
+        }
+          
+        
     ],
     "edges": [
         {
@@ -2624,6 +2626,21 @@
         {
             "source": "Samuel Arlaud",
             "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Samuel Arlaud",
+            "target": "MJC Claude Nougaro",
+            "type": "Festival"
+        },
+        {
+            "source": "Carole Maire",
+            "target": "MJC Claude Nougaro",
+            "type": "Festival"
+        },
+        {
+            "source": "Samuel Arlaud",
+            "target": "Université de Poitiers",
             "type": "Festival"
         },
         {
