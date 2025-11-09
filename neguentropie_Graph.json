@@ -541,6 +541,10 @@
             "url": "https://recherchecontributive.org/"
         },
         {
+            "id": "Urbanité Numérique en jeu",
+            "url": "https://recherchecontributive.org/modelisation-urbaine/"
+        },
+        {
             "id": "contribution écologique ECO",
             "url": "https://www.comite-eco.fr/"
         },
@@ -1535,14 +1539,20 @@
         {
             "id": "Zoé Ginter",
             "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref27215086X"
+        },
+        {
+            "id": "Anne Lacambre",
+            "url": "https://www.linkedin.com/in/anne-lacambre-99002b46/"
+        },
+        {
+            "id": "François Lecordix",
+            "url": "https://www.ign.fr/ignfab"
+        },
+        {
+            "id": "Minecraft® à la carte",
+            "url": "https://minecraft.ign.fr"
         }
 
-
-
-
-
-
-          
         
     ],
     "edges": [
@@ -2707,7 +2717,17 @@
             "type": "Individu"
         },
         {
-            "source": "Zoé Ginterr",
+            "source": "Anne Lacambre",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Anne Lacambre",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Zoé Ginter",
             "target": "Néguentropie au Printemps des Cartes",
             "type": "Festival"
         },
@@ -4430,6 +4450,28 @@
             "source": "Learning Planet Institute",
             "target": "Néguentropie | Université de Tours",
             "type": "Festival"
+        },
+        {
+            "source": "François Lecordix",
+            "target": "Cartes & Géomatique",
+            "type": "Institution"
+        },
+        {
+            "source": "François Lecordix",
+            "target": "Minecraft® à la carte",
+            "type": "Objet"
+        },
+        {
+            "source": "Minecraft® à la carte",
+            "target": "Urbanité Numérique en jeu",
+            "type": "Objet"
+        },
+        {
+            "source": "Recherche contributive",
+            "target": "Urbanité Numérique en jeu",
+            "type": "Objet"
         }
+
+
     ]
 }
