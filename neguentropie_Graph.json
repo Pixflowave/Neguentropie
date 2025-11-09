@@ -2456,17 +2456,22 @@
         {
             "source": "Festival Human Tech Days",
             "target": "La Fabrique de Blois",
-            "type": "Institution"
+            "type": "Festival"
         },
         {
             "source": "Festival Human Tech Days",
             "target": "Maison des sciences de l'Homme du Val de Loire",
-            "type": "Institution"
+            "type": "Festival"
         },
         {
             "source": "Maison des sciences de l'Homme du Val de Loire",
             "target": "Atelier de la donnée Centre-Val de Loire",
             "type": "Institution"
+        },
+        {
+            "source": "Maison des sciences de l'Homme du Val de Loire",
+            "target": "Méta-Humus",
+            "type": "Festival"
         },
         {
             "source": "Coopération",
@@ -2481,7 +2486,7 @@
         {
             "source": "Néguentropie",
             "target": "Néguentropie à La Fabrique de Blois HTD2022",
-            "type": "Événement"
+            "type": "Festival"
         },
         {
             "source": "Anne Alombert",
@@ -2490,8 +2495,8 @@
         },
         {
             "source": "Néguentropie",
-            "target": "Néguentropie au Printemps des Cartes",
-            "type": "Événement"
+            "target": "Printemps des Cartes",
+            "type": "Festival"
         },
         {
             "source": "Néguentropie au Printemps des Cartes",
