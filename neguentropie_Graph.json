@@ -2621,6 +2621,11 @@
         {
             "source": "Pascal chauchefoin",
             "target": "Espace Mendes France",
+            "type": "Individu"
+        },
+        {
+            "source": "MJC Claude Nougaro",
+            "target": "Printemps des Cartes",
             "type": "Festival"
         },
         {
@@ -2631,17 +2636,17 @@
         {
             "source": "Samuel Arlaud",
             "target": "MJC Claude Nougaro",
-            "type": "Festival"
+            "type": "Individu"
         },
         {
             "source": "Carole Maire",
             "target": "MJC Claude Nougaro",
-            "type": "Festival"
+            "type": "Individu"
         },
         {
             "source": "Samuel Arlaud",
             "target": "Université de Poitiers",
-            "type": "Festival"
+            "type": "Individu"
         },
         {
             "source": "Carole Maire",
