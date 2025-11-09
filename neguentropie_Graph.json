@@ -4051,6 +4051,11 @@
             "type": "Festival"
         },
         {
+            "source": "Nepthys Zwer",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
             "source": "Néguentropie",
             "target": "CRACN",
             "type": "Article"
