@@ -1438,12 +1438,20 @@
             "url": "https://citeres.univ-tours.fr"
         },
         {
+            "id": "Néguentropie | Université de Tours",
+            "url": "https://tekhne.neguentropie.art/+neguentropie/neguentropie-universite-de-tours/publications/ufr-art-sciences-humaines?display=section"
+        }, 
+        {
             "id": "Université de Tours",
             "url": "https://www.univ-tours.fr"
         }, 
         {
             "id": "Nepthys Zwer",
             "url": "https://www.imagomundi.fr/"
+        },
+        {
+            "id": "Learning Planet Institute",
+            "url": "https://www.learningplanetinstitute.org"
         }
     ],
     "edges": [
@@ -4069,14 +4077,25 @@
         },
         {
             "source": "Florence Troin",
-            "target": "CITERS",
+            "target": "CITERS | Université de Tours",
             "type": "Festival"
         },
         {
-            "source": "CITERS",
-            "target": "Maison des sciences de l'Homme du Val de Loire",
+            "source": "CITERS | Université de Tours",
+            "target": "Université de Tours",
             "type": "Institution"
         },
+        {
+            "source": "Néguentropie",
+            "target": "Université de Tours",
+            "type": "Festival"
+        },
+        {
+            "source": "Néguentropie",
+            "target": "Université de Tours",
+            "type": "Festival"
+        },
+
         {
             "source": "Florence Troin",
             "target": "Cartes & Géomatique",
@@ -4091,11 +4110,26 @@
             "source": "Méta-Humus | MSH VDL",
             "target": "Méta-Humus",
             "type": "Article"
+        },
+        {
+            "source": "Néguentropie",
+            "target": "Néguentropie | Université de Tours",
+            "type": "Festival"
+        },
+        {
+            "source": "Université de Tours",
+            "target": "Néguentropie | Université de Tours",
+            "type": "Festival"
+        },
+        {
+            "source": "Festival Human Tech Days",
+            "target": "Néguentropie | Université de Tours",
+            "type": "Festival"
+        },
+        {
+            "source": "Learning Planet Institute",
+            "target": "Néguentropie | Université de Tours",
+            "type": "Festival"
         }
-        
-
-    
-
-
     ]
 }
