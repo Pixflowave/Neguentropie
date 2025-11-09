@@ -397,7 +397,7 @@
             "url": "https://fr.wikipedia.org/wiki/Centre_national_de_la_recherche_scientifique"
         },
         {
-            "id": "Historien",
+            "id": "Historien·ne",
             "url": "https://fr.wikipedia.org/wiki/Historien"
         },
         {
@@ -1132,7 +1132,7 @@
         {
             "id": "Aline Perdereau",
             "url": "https://www.linkedin.com/in/aline-perdereau-1b6a08179/"
-        }, 
+        },
         {
             "id": "Radio Campus Tours - La Méridienne",
             "url": "https://www.radiocampustours.com/emissions/la-meridienne/"
@@ -1160,7 +1160,7 @@
         {
             "id": "THE NEGANTHROPOCENE",
             "url": "https://library.oapen.org/bitstream/handle/20.500.12657/30171/649431.pdf?sequence=1"
-        }, 
+        },
         {
             "id": "Intelligences artificielles : vers une automatisation de la pensée ?",
             "url": "https://blogs.alternatives-economiques.fr/reseauinnovation/2023/07/15/intelligences-artificielles-vers-une-automatisation-de-la-pensee"
@@ -1192,15 +1192,15 @@
         {
             "id": "Cap digital",
             "url": "https://www.capdigital.com"
-        }, 
+        },
         {
             "id": "ENSCI",
             "url": "https://www.ensci.com"
-        }, 
+        },
         {
             "id": "Revue 3.0",
             "url": "https://revue30.org/"
-        }, 
+        },
         {
             "id": "Stylo",
             "url": "https://stylo.huma-num.fr"
@@ -1264,7 +1264,7 @@
         {
             "id": "OpenEdition Journals",
             "url": "https://journals.openedition.org/6438"
-        },        
+        },
         {
             "id": "OpenEdition Journals | Le portiQue",
             "url": "https://journals.openedition.org/leportique/"
@@ -1344,7 +1344,7 @@
         {
             "id": "scanR",
             "url": "https://scanr.enseignementsup-recherche.gouv.fr"
-        }, 
+        },
         {
             "id": "Radio",
             "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_radio"
@@ -1424,7 +1424,23 @@
         {
             "id": "Printemps des Cartes",
             "url": "https://www.printempsdescartes.fr"
-        } 
+        },
+        {
+            "id": "Florence Troin",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref184240077"
+        },
+        {
+            "id": "CITERS | Université de Tours",
+            "url": "https://citeres.univ-tours.fr"
+        },
+        {
+            "id": "Université de Tours",
+            "url": "https://www.univ-tours.fr"
+        }, 
+        {
+            "id": "Nepthys Zwer",
+            "url": "https://www.imagomundi.fr/"
+        }
     ],
     "edges": [
         {
@@ -1681,6 +1697,26 @@
             "source": "Contre-Cartographie",
             "target": "Open Street Map",
             "type": "Objet"
+        },
+        {
+            "source": "Contre-Cartographie",
+            "target": "Printemps des Cartes",
+            "type": "Objet"
+        },
+        {
+            "source": "Nepthys Zwer",
+            "target": "Contre-Cartographie",
+            "type": "Discipline"
+        },
+        {
+            "source": "Nepthys Zwer",
+            "target": "Historien·ne",
+            "type": "Discipline"
+        },
+        {
+            "source": "Nepthys Zwer",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Contributeur·se"
         },
         {
             "source": "Contre-Cartographie",
@@ -2039,7 +2075,7 @@
         },
         {
             "source": "CNRS",
-            "target": "Historien",
+            "target": "Historien·ne",
             "type": "Discipline"
         },
         {
@@ -2048,12 +2084,12 @@
             "type": "Livre"
         },
         {
-            "source": "Historien",
+            "source": "Historien·ne",
             "target": "Jean-Baptiste Fressoz",
             "type": "Individu"
         },
         {
-            "source": "Historien",
+            "source": "Historien·ne",
             "target": "Christophe Bonneuil",
             "type": "Individu"
         },
@@ -3256,7 +3292,7 @@
             "source": "ETHICS EA7446",
             "target": "Prendre soin de l'informatique et des génèrations",
             "type": "Livre"
-        }, 
+        },
         {
             "source": "Association des Amis de la Génération Thunberg",
             "target": "Prendre soin de l'informatique et des génèrations",
@@ -3296,7 +3332,7 @@
             "source": "Caisse des Dépots",
             "target": "Institut pour la recherche",
             "type": "Institution"
-        }, 
+        },
         {
             "source": "Institut pour la recherche",
             "target": "Les Entretiens du nouveau monde industriel",
@@ -3709,7 +3745,7 @@
         },
         {
             "source": "Wikipedia",
-            "target": "Historien",
+            "target": "Historien·ne",
             "type": "Article"
         },
         {
@@ -4001,7 +4037,7 @@
             "source": "Cartographie",
             "target": "Printemps des Cartes",
             "type": "Festival"
-        }, 
+        },
         {
             "source": "Printemps des Cartes",
             "target": "Néguentropie au Printemps des Cartes",
@@ -4021,7 +4057,29 @@
             "source": "Organoesis",
             "target": "Néguentropie | Organoesis",
             "type": "Article"
+        },
+        {
+            "source": "Florence Troin",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Florence Troin",
+            "target": "CITERS",
+            "type": "Festival"
+        },
+        {
+            "source": "CITERS",
+            "target": "Maison des sciences de l'Homme du Val de Loire",
+            "type": "Institution"
+        },
+        {
+            "source": "Florence Troin",
+            "target": "Cartes & Géomatique",
+            "type": "Revue"
         }
+    
+
 
     ]
 }
