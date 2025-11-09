@@ -2529,6 +2529,26 @@
             "type": "Événement"
         },
         {
+            "source": "Festival Human Tech Days",
+            "target": "Méta-Humus",
+            "type": "Festival"
+        },
+        {
+            "source": "Erwan Bozec",
+            "target": "Méta-Humus",
+            "type": "Festival"
+        },
+        {
+            "source": "Luc Léger",
+            "target": "Méta-Humus",
+            "type": "Festival"
+        },
+        {
+            "source": "Anne Alombert",
+            "target": "Méta-Humus",
+            "type": "Festival"
+        },
+        {
             "source": "Technè",
             "target": "Anthropologie",
             "type": "Discipline"
