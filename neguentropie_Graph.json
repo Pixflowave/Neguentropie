@@ -1531,7 +1531,12 @@
         {
             "id": "Académie Royale des Sciences d'Outre-Mer",
             "url": "https://www.kaowarsom.be/fr/"
+        },
+        {
+            "id": "Zoé Ginter",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref27215086X"
         }
+
 
 
 
@@ -2689,6 +2694,21 @@
         {
             "source": "Jean-Luc Arnaud",
             "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Zoé Ginter",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Zoé Ginter",
+            "target": "Université de Tours",
+            "type": "Individu"
+        },
+        {
+            "source": "Zoé Ginterr",
+            "target": "Néguentropie au Printemps des Cartes",
             "type": "Festival"
         },
         {
