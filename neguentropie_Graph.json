@@ -1503,7 +1503,40 @@
         {
             "id": "Espace Mendes France",
             "url": "https://emf.fr"
+        },
+        {
+            "id": "Jean-Luc Arnaud",
+            "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref032440766"
+        },
+        {
+            "id": "TELEMMe",
+            "url": "https://telemme.mmsh.fr"
+        },
+        {
+            "id": "Université Aix Marseille",
+            "url": "https://www.univ-amu.fr"
+        },
+        {
+            "id": "Alexis Metzger",
+            "url": "https://www.ecole-nature-paysage.fr/enseignants/"
+        },
+        {
+            "id": "L'école de la nature et du paysage",
+            "url": "https://www.ecole-nature-paysage.fr"
+        }, 
+        {
+            "id": "Philippe De Mayer",
+            "url": "https://www.kaowarsom.be/fr/de-maeyer-philippe"
+        },
+        {
+            "id": "Académie Royale des Sciences d'Outre-Mer",
+            "url": "https://www.kaowarsom.be/fr/"
         }
+
+
+
+
+
           
         
     ],
@@ -2629,6 +2662,11 @@
             "type": "Festival"
         },
         {
+            "source": "Espace Mendes France",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
             "source": "Samuel Arlaud",
             "target": "Printemps des Cartes",
             "type": "Festival"
@@ -2647,6 +2685,61 @@
             "source": "Samuel Arlaud",
             "target": "Université de Poitiers",
             "type": "Individu"
+        },
+        {
+            "source": "Jean-Luc Arnaud",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Philippe De Mayer",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Philippe De Mayer",
+            "target": "Académie Royale des Sciences d'Outre-Mer",
+            "type": "Individu"
+        },
+        {
+            "source": "Philippe De Mayer",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Alexis Metzger",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Alexis Metzger",
+            "target": "L'école de la nature et du paysage",
+            "type": "Individu"
+        },
+        {
+            "source": "Alexis Metzger",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Jean-Luc Arnaud",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Jean-Luc Arnaud",
+            "target": "TELEMMe",
+            "type": "Individu"
+        },
+        {
+            "source": "CNRS",
+            "target": "TELEMMe",
+            "type": "Institution"
+        },
+        {
+            "source": "Université Aix Marseille",
+            "target": "TELEMMe",
+            "type": "Institution"
         },
         {
             "source": "Carole Maire",
