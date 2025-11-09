@@ -1469,11 +1469,11 @@
             "id": "Le Printemps des Cartes à Montmorillon mai 2024"
         },
         {
-            "id": "Université de Poitiers | Département de Géographie",
-            "url": "https://sha.univ-poitiers.fr/geo/"
+            "id": "Université de Poitiers",
+            "url": "https://sha.univ-poitiers.fr"
         },
         {
-            "id": "Dominique Andrieux",
+            "id": "Dominique Andrieu",
             "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref147699959"
         }, 
         {
@@ -1499,15 +1499,11 @@
         {
             "id": "Pascal chauchefoin",
             "url": "https://ruralites.labo.univ-poitiers.fr/membres/pascal-chauchefoin/"
-        }
-
-
-
-
-
-
-
-        
+        },
+        {
+            "id": "Espace Mendes France",
+            "url": "https://emf.fr"
+        }        
     ],
     "edges": [
         {
@@ -2587,6 +2583,11 @@
         },
         {
             "source": "Christine Plumejeaud",
+            "target": "Université de Poitiers",
+            "type": "Individu"
+        },
+        {
+            "source": "Christine Plumejeaud",
             "target": "Printemps des Cartes",
             "type": "Festival"
         },
@@ -2597,12 +2598,27 @@
         },
         {
             "source": "Matthieu LEE",
+            "target": "Université de Poitiers",
+            "type": "Individu"
+        },
+        {
+            "source": "Matthieu LEE",
             "target": "Printemps des Cartes",
             "type": "Festival"
         },
         {
             "source": "Pascal chauchefoin",
             "target": "Printemps des Cartes",
+            "type": "Festival"
+        },
+        {
+            "source": "Pascal chauchefoin",
+            "target": "Université de Poitiers",
+            "type": "Individu"
+        },
+        {
+            "source": "Pascal chauchefoin",
+            "target": "Espace Mendes France",
             "type": "Festival"
         },
         {
