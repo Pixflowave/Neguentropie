@@ -1416,7 +1416,11 @@
         {
             "id": "Antonio Somaini",
             "url": "https://scanr.enseignementsup-recherche.gouv.fr/authors/idref122427440"
-        }
+        },
+        {
+            "id": "Printemps des Cartes",
+            "url": "https://www.printempsdescartes.fr"
+        } 
     ],
     "edges": [
         {
@@ -3958,6 +3962,17 @@
             "source": "Antonio Somaini",
             "target": "Critique de l’Intelligence Artificielle",
             "type": "Colloque"
+        },
+        {
+            "source": "Cartographie",
+            "target": "Printemps des Cartes",
+            "type": "Festival"
+        }, 
+        {
+            "source": "Printemps des Cartes",
+            "target": "Néguentropie au Printemps des Cartes",
+            "type": "Festival"
         }
+
     ]
 }
