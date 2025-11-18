@@ -1587,6 +1587,10 @@
         {
             "id": "Cern",
             "url": "https://home.web.cern.ch/fr"
+        },
+        {
+            "id": "Inrupt",
+            "url": "https://www.inrupt.com"
         }
     ],
     "edges": [
@@ -4564,7 +4568,17 @@
             "source": "Cern",
             "target": "Naissance du web",
             "type": "Dispositif"
+        },
+        {
+            "source": "Tim Berners-Lee",
+            "target": "Inrupt",
+            "type": "Institution"
+        },
+        {
+            "source": "Inrupt",
+            "target": "Solid Project",
+            "type": "Dispositif"
         }
-        
+
     ]
 }
