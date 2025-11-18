@@ -1551,9 +1551,43 @@
         {
             "id": "Minecraft® à la carte",
             "url": "https://minecraft.ign.fr"
+        },
+        {
+            "id": "Tim Berners-Lee",
+            "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+        },
+        {
+            "id": "Naissance du web",
+            "url": "https://home.web.cern.ch/fr/science/computing/birth-web"
+        },
+        {
+            "id": "World Wide Web Consortium",
+            "url": "https://www.w3.org"
+        },
+        {
+            "id": "Solid Project",
+            "url": "https://solidproject.org"
+        },
+        {
+            "id": "Open Data Institute",
+            "url": "https://theodi.org"
+        },
+        {
+            "id": "SHAP",
+            "url": "https://shap.readthedocs.io/en/latest/"
+        },
+        {
+            "id": "EBSI",
+            "url": "https://ec.europa.eu/digital-building-blocks/sites/spaces/EBSI/pages/447687044/Home"
+        },
+        {
+            "id": "Hub EBSI",
+            "url": "https://hub.ebsi.eu"
+        },
+        {
+            "id": "Cern",
+            "url": "https://home.web.cern.ch/fr"
         }
-
-        
     ],
     "edges": [
         {
@@ -4470,8 +4504,67 @@
             "source": "Recherche contributive",
             "target": "Urbanité Numérique en jeu",
             "type": "Objet"
+        },
+        {
+            "source": "Internet",
+            "target": "Tim Berners-Lee",
+            "type": "Individu"
+        },
+        {
+            "source": "Tim Berners-Lee",
+            "target": "Naissance du web",
+            "type": "Institution"
+        },
+        {
+            "source": "Naissance du web",
+            "target": "World Wide Web",
+            "type": "Dispositif"
+        },
+        {
+            "source": "World Wide Web",
+            "target": "World Wide Web Consortium",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Tim Berners-Lee",
+            "target": "Solid Project",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Tim Berners-Lee",
+            "target": "Open Data Institute",
+            "type": "Institution"
+        },
+        {
+            "source": "Licence Libre",
+            "target": "SHAP",
+            "type": "Dispositif"
+        },
+        {
+            "source": "World Wide Web",
+            "target": "EBSI",
+            "type": "Institution"
+        },
+        {
+            "source": "EBSI",
+            "target": "Hub EBSI",
+            "type": "Dispositif"
+        },
+        {
+            "source": "UNESCO",
+            "target": "Cern",
+            "type": "Institution"
+        },
+        {
+            "source": "Cern",
+            "target": "Tim Berners-Lee",
+            "type": "Individu"
+        },
+        {
+            "source": "Cern",
+            "target": "Naissance du web",
+            "type": "Dispositif"
         }
-
-
+        
     ]
 }
