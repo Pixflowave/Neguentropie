@@ -1591,7 +1591,12 @@
         {
             "id": "Inrupt",
             "url": "https://www.inrupt.com"
+        },
+        {
+            "id": "Dokieli",
+            "url": "https://dokie.li"
         }
+
     ],
     "edges": [
         {
@@ -4577,6 +4582,11 @@
         {
             "source": "Inrupt",
             "target": "Solid Project",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Solid Project",
+            "target": "Dokieli",
             "type": "Dispositif"
         }
 
