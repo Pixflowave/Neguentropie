@@ -1595,7 +1595,17 @@
         {
             "id": "Dokieli",
             "url": "https://dokie.li"
+        },
+        {
+            "id": "Jean Oury et la conation esthétique. Un parcours entre Sartre, Goldstein et Lacan",
+            "url": "https://journals.openedition.org/rgi/2307"
+        },
+        {
+            "id": "Valentine Meunier",
+            "url": "https://valentine-meunier.de"
         }
+        
+
 
     ],
     "edges": [
@@ -3193,6 +3203,16 @@
             "source": "Jean Oury",
             "target": "Le Collectif",
             "type": "Livre"
+        },
+        {
+            "source": "Jean Oury",
+            "target": "Jean Oury et la conation esthétique. Un parcours entre Sartre, Goldstein et Lacan",
+            "type": "Article"
+        },
+        {
+            "source": "Valentine Meunier",
+            "target": "Jean Oury et la conation esthétique. Un parcours entre Sartre, Goldstein et Lacan",
+            "type": "Traduction"
         },
         {
             "source": "Jean Oury",
