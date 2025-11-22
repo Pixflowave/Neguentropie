@@ -1603,8 +1603,19 @@
         {
             "id": "Valentine Meunier",
             "url": "https://valentine-meunier.de"
-        }
-        
+        },
+        {
+            "id": "Technologies de l'esprit, machines à coexister",
+            "url": "https://p-node.org/broadcasts/machines-a-coexister"
+        },
+        {
+            "id": "Baptiste Loreaux",
+            "url": "https://shs.cairn.info/publications-de-baptiste-loreaux--811742?lang=fr"
+        },
+        {
+            "id": "∏Node",
+            "url": "https://p-node.org"
+        },
 
 
     ],
@@ -4608,6 +4619,36 @@
             "source": "Solid Project",
             "target": "Dokieli",
             "type": "Dispositif"
+        },
+        {
+            "source": "Baptiste Loreaux",
+            "target": "Technologies de l'esprit, machines à coexister",
+            "type": "Institution"
+        },
+        {
+            "source": "Alban Leveau-Vallier",
+            "target": "Technologies de l'esprit, machines à coexister",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Pierre Cassou-Noguès",
+            "target": "Technologies de l'esprit, machines à coexister",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Radio",
+            "target": "∏Node",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Licence Libre",
+            "target": "∏Node",
+            "type": "Dispositif"
+        },
+        {
+            "source": "∏Node",
+            "target": "Technologies de l'esprit, machines à coexister",
+            "type": "Article"
         }
 
     ]
