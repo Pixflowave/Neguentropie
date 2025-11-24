@@ -4757,6 +4757,16 @@
             "source": "Philippe Rivière",
             "target": "D3.js",
             "type": "Dispositif"
+        },
+        {
+            "source": "Licence Libre",
+            "target": "D3.js",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Licence Libre",
+            "target": "Pure Data",
+            "type": "Dispositif"
         }
 
 
