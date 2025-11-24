@@ -1026,7 +1026,7 @@
             "url": "https://www.youtube.com/@ptitlouislaplanche5846"
         },
         {
-            "id": "centrepompidou",
+            "id": "Centre Pompidou",
             "url": "https://www.centrepompidou.fr/fr/"
         },
         {
@@ -1615,7 +1615,40 @@
         {
             "id": "∏Node",
             "url": "https://p-node.org"
+        },
+        {
+            "id": "Pure Data",
+            "url": "https://puredata.info"
+        },
+        {
+            "id": "B01xy",
+            "url": "https://github.com/b01xy"
+        },
+        {
+            "id": "Patch Pure Data - ∏node",
+            "url": "https://github.com/b01xy/A-Pd-Stream-Mixer-reStreamer-?tab=readme-ov-file"
+        },
+        {
+            "id": "Miller Puckette",
+            "url": "https://fr.wikipedia.org/wiki/Miller_Puckette"
+        },
+        {
+            "id": "Max/Msp",
+            "url": "https://fr.wikipedia.org/wiki/Max/MSP"
+        },
+        {
+            "id": "Ircam",
+            "url": "https://www.ircam.fr"
+        },
+        {
+            "id": "Mike Bostock",
+            "url": "https://observablehq.com/@mbostock"
+        },
+        {
+            "id": "D3.js",
+            "url": "https://d3js.org"
         }
+
 
 
     ],
@@ -3412,11 +3445,11 @@
         },
         {
             "source": "art",
-            "target": "centrepompidou",
+            "target": "Centre Pompidou",
             "type": "Institution"
         },
         {
-            "source": "centrepompidou",
+            "source": "Centre Pompidou",
             "target": "Réseaux-Mondes",
             "type": "Institution"
         },
@@ -4659,7 +4692,73 @@
             "source": "Technologies de l'esprit, machines à coexister",
             "target": "David W. Bates",
             "type": "Individu"
+        },
+        {
+            "source": "B01xy",
+            "target": "Labomedia",
+            "type": "Individu"
+        },
+        {
+            "source": "B01xy",
+            "target": "Pure Data",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Patch Pure Data - ∏node",
+            "target": "∏node",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Patch Pure Data - ∏node",
+            "target": "∏node",
+            "type": "Dispositif"
+        },
+        {
+            "source": "B01xy",
+            "target": "CRACN",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Centre Pompidou",
+            "target": "Ircam",
+            "type": "Institution"
+        },
+        {
+            "source": "Miller Puckette",
+            "target": "Ircam",
+            "type": "Individu"
+        },
+        {
+            "source": "Miller Puckette",
+            "target": "Max/Msp",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Ircam",
+            "target": "Max/Msp",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Miller Puckette",
+            "target": "Pure Data",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Mike Bostock",
+            "target": "D3.js",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Mike Bostock",
+            "target": "ObservableHQ",
+            "type": "Dispositif"
+        },
+        {
+            "source": "Philippe Rivière",
+            "target": "D3.js",
+            "type": "Dispositif"
         }
+
 
     ]
 }
