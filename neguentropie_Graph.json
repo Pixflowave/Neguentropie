@@ -4767,6 +4767,16 @@
             "source": "Licence Libre",
             "target": "Pure Data",
             "type": "Dispositif"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Max/Msp",
+            "type": "Article"
+        },
+        {
+            "source": "Wikipedia",
+            "target": "Miller Puckette",
+            "type": "Article"
         }
 
 
