@@ -1649,25 +1649,21 @@
       "url": "https://d3js.org"
     },
     {
-      "id": "Capital rules : the construction of global finance / Rawi Abdelal",
+      "id": "Capital rules : the construction of global finance",
       "url": "https://catalogue.bnf.fr/ark:/12148/cb412050783",
       "year": "2007"
     },
     {
-      "id": "Rawi (1971-....). Auteur du texte Abdelal",
+      "id": "Rawi Abdelal",
       "url": ""
     },
     {
-      "id": "Schizophrénie numérique : la crise de l'esprit à l'ère des nouvelles technologies / Anne Alombert",
+      "id": "Schizophrénie numérique : la crise de l'esprit à l'ère des nouvelles technologies ",
       "url": "https://catalogue.bnf.fr/ark:/12148/cb47255137n",
       "year": "2023"
     },
     {
-      "id": "Anne. Auteur du texte Alombert",
-      "url": ""
-    },
-    {
-      "id": "Penser l'humain et la technique : Simondon et Derrida après la métaphysique / Anne Alombert",
+      "id": "Penser l'humain et la technique : Simondon et Derrida après la métaphysique",
       "url": "https://catalogue.bnf.fr/ark:/12148/cb473259211",
       "year": "2023"
     },
@@ -1699,21 +1695,21 @@
       "url": ""
     },
     {
-      "id": "Un nouvel âge de ténèbres : la technologie et la fin du futur / James Bridle ; traduit de l'anglais par Benjamin Saltel",
+      "id": "Un nouvel âge de ténèbres : la technologie et la fin du futur",
       "url": "https://catalogue.bnf.fr/ark:/12148/cb46974626m",
       "year": "2022"
     },
     {
-      "id": "James (1980-....). Auteur du texte Bridle",
+      "id": "James Bridle",
       "url": ""
     },
     {
-      "id": "Qu'est-ce que le digital labor ? / Dominique Cardon & Antonio A. Casilli",
+      "id": "Qu'est-ce que le digital labor ?",
       "url": "https://catalogue.bnf.fr/ark:/12148/cb44373525f",
       "year": "2015"
     },
     {
-      "id": "Dominique (1965-....). Auteur du texte Cardon",
+      "id": "Dominique Cardon",
       "url": ""
     },
     {
@@ -1729,10 +1725,6 @@
       "id": "Échographies de la télévision : entretiens filmés / Jacques Derrida, Bernard Stiegler",
       "url": "https://catalogue.bnf.fr/ark:/12148/cb35847212h",
       "year": "1996"
-    },
-    {
-      "id": "Jacques (1930-2004). Auteur du texte Derrida",
-      "url": ""
     }
   ],
   "edges": [
@@ -4862,32 +4854,32 @@
       "type": "Article"
     },
     {
-      "source": "Rawi (1971-....). Auteur du texte Abdelal",
-      "target": "Capital rules : the construction of global finance / Rawi Abdelal",
+      "source": "Rawi Abdelal",
+      "target": "Capital rules : the construction of global finance",
       "type": "Livre"
     },
     {
-      "source": "Capital rules : the construction of global finance / Rawi Abdelal",
+      "source": "Capital rules : the construction of global finance",
       "target": "Le capital que je ne suis pas !",
       "type": "Référence"
     },
     {
-      "source": "Anne. Auteur du texte Alombert",
-      "target": "Schizophrénie numérique : la crise de l'esprit à l'ère des nouvelles technologies / Anne Alombert",
+      "source": "Anne Alombert",
+      "target": "Schizophrénie numérique : la crise de l'esprit à l'ère des nouvelles technologies ",
       "type": "Livre"
     },
     {
-      "source": "Schizophrénie numérique : la crise de l'esprit à l'ère des nouvelles technologies / Anne Alombert",
+      "source": "Schizophrénie numérique : la crise de l'esprit à l'ère des nouvelles technologies ",
       "target": "Le capital que je ne suis pas !",
       "type": "Référence"
     },
     {
-      "source": "Anne. Auteur du texte Alombert",
-      "target": "Penser l'humain et la technique : Simondon et Derrida après la métaphysique / Anne Alombert",
+      "source": "Anne Alombert",
+      "target": "Penser l'humain et la technique : Simondon et Derrida après la métaphysique",
       "type": "Livre"
     },
     {
-      "source": "Penser l'humain et la technique : Simondon et Derrida après la métaphysique / Anne Alombert",
+      "source": "Penser l'humain et la technique : Simondon et Derrida après la métaphysique",
       "target": "Le capital que je ne suis pas !",
       "type": "Référence"
     },
@@ -4922,22 +4914,22 @@
       "type": "Référence"
     },
     {
-      "source": "James (1980-....). Auteur du texte Bridle",
-      "target": "Un nouvel âge de ténèbres : la technologie et la fin du futur / James Bridle ; traduit de l'anglais par Benjamin Saltel",
+      "source": "James Bridle",
+      "target": "Un nouvel âge de ténèbres : la technologie et la fin du futur",
       "type": "Livre"
     },
     {
-      "source": "Un nouvel âge de ténèbres : la technologie et la fin du futur / James Bridle ; traduit de l'anglais par Benjamin Saltel",
+      "source": "Un nouvel âge de ténèbres : la technologie et la fin du futur",
       "target": "Le capital que je ne suis pas !",
       "type": "Référence"
     },
     {
-      "source": "Dominique (1965-....). Auteur du texte Cardon",
-      "target": "Qu'est-ce que le digital labor ? / Dominique Cardon & Antonio A. Casilli",
+      "source": "Dominique Cardon",
+      "target": "Qu'est-ce que le digital labor ?",
       "type": "Livre"
     },
     {
-      "source": "Qu'est-ce que le digital labor ? / Dominique Cardon & Antonio A. Casilli",
+      "source": "Qu'est-ce que le digital labor ?",
       "target": "Le capital que je ne suis pas !",
       "type": "Référence"
     },
@@ -4952,7 +4944,7 @@
       "type": "Référence"
     },
     {
-      "source": "Jacques (1930-2004). Auteur du texte Derrida",
+      "source": "Jacques Derrida",
       "target": "Échographies de la télévision : entretiens filmés / Jacques Derrida, Bernard Stiegler",
       "type": "Livre"
     },
