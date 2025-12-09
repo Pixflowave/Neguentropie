@@ -879,6 +879,10 @@
       "url": "https://www.arcadia-editorial.com/llibres/la-deconniatrie/"
     },
     {
+      "id": "Clinique de la Borde",
+      "url": "http://www.cliniquedelaborde.com/"
+    },
+    {
       "id": "Jean Oury",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/a-voix-nue-jean-oury-4-5-1ere-diffusion-27-09-1990-3631406"
     },
@@ -4975,6 +4979,16 @@
     {
       "source": "Saint-Alban",
       "target": "Assocition culturelle de Saint-Alban",
+      "type": "Institution"
+    },
+    {
+      "source": "Jean Oury",
+      "target": "Clinique de la Borde",
+      "type": "Institution"
+    },
+    {
+      "source": "Clinique de la Borde",
+      "target": "Association Culturel de la Borde",
       "type": "Institution"
     }
   ]
