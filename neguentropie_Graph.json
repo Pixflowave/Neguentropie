@@ -4990,6 +4990,16 @@
       "source": "Clinique de la Borde",
       "target": "Association Culturel de la Borde",
       "type": "Institution"
+    },
+    {
+      "source": "Jean Oury",
+      "target": "Psychotherapie institutionnelle",
+      "type": "Pratique"
+    },
+    {
+      "source": "François Tosquelles",
+      "target": "Psychotherapie institutionnelle",
+      "type": "Pratique"
     }
   ]
 }
