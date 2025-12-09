@@ -835,7 +835,8 @@
       "url": "https://www.cairn.info/vers-l-anthropopsychiatrie--9782705667474.htm"
     },
     {
-      "id": "Marc Ledoux"
+      "id": "Marc Ledoux",
+      "url": "https://fr.wikipedia.org/wiki/Marc_Ledoux"
     },
     {
       "id": "Ce qui se passe",
@@ -848,6 +849,10 @@
     {
       "id": "Écrits sur l'aliénation et la liberté",
       "url": "https://www.editionsladecouverte.fr/ecrits_sur_l_alienation_et_la_liberte-9782707186386"
+    },
+    {
+      "id": "Lucien Bonnafé",
+      "url": "http://www.champsocial.com/book-saint-alban,466.html"
     },
     {
       "id": "François Tosquelles",
@@ -892,6 +897,14 @@
     {
       "id": "Vie quotidienne, rythme et présence, 1986",
       "url": "https://www.esquisses.eu/revue/jean-oury-vie-quotidienne-rythme-et-presence-1986/"
+    },
+    {
+      "id": "Saint-Alban",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/serie-saint-alban-lieu-d-hospitalite"
+    },
+    {
+      "id": "Assocition culturelle de Saint-Alban",
+      "url": "https://collectifrencontres.wordpress.com"
     },
     {
       "id": "De Saint-Alban à La Borde, la psychothérapie institutionnelle",
@@ -1470,7 +1483,8 @@
       "url": "https://www.lecfc.fr/new/articles/257-article-1.pdf"
     },
     {
-      "id": "Le Printemps des Cartes à Montmorillon mai 2024"
+      "id": "Le Printemps des Cartes à Montmorillon mai 2024",
+      "url": "https://www.printempsdescartes.fr/edition-2024-2/"
     },
     {
       "id": "Université de Poitiers",
@@ -4952,6 +4966,16 @@
       "source": "Échographies de la télévision : entretiens filmés / Jacques Derrida, Bernard Stiegler",
       "target": "Le capital que je ne suis pas !",
       "type": "Référence"
+    },
+    {
+      "source": "Psychotherapie institutionnelle",
+      "target": "Saint-Alban",
+      "type": "Institution"
+    },
+    {
+      "source": "Saint-Alban",
+      "target": "Assocition culturelle de Saint-Alban",
+      "type": "Institution"
     }
   ]
 }
