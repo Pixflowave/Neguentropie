@@ -768,7 +768,7 @@
       "url": "https://epiclachesnaieblog.wordpress.com"
     },
     {
-      "id": "Association Culturel de la Borde",
+      "id": "Association Culturelle de la Borde",
       "url": "https://associationculturelledelaborde.org/"
     },
     {
@@ -1740,7 +1740,7 @@
       "url": ""
     },
     {
-      "id": "Échographies de la télévision : entretiens filmés / Jacques Derrida, Bernard Stiegler",
+      "id": "Échographies de la télévision : entretiens filmés",
       "url": "https://catalogue.bnf.fr/ark:/12148/cb35847212h",
       "year": "1996"
     }
@@ -3183,11 +3183,11 @@
     },
     {
       "source": "Psychotherapie institutionnelle",
-      "target": "Association Culturel de la Borde",
+      "target": "Association Culturelle de la Borde",
       "type": "Institution"
     },
     {
-      "source": "Association Culturel de la Borde",
+      "source": "Association Culturelle de la Borde",
       "target": "Joseph Gabel",
       "type": "Individu"
     },
@@ -3197,7 +3197,7 @@
       "type": "Livre"
     },
     {
-      "source": "Association Culturel de la Borde",
+      "source": "Association Culturelle de la Borde",
       "target": "Julia Kristeva, l'œuvre qui bouscule la littérature",
       "type": "Livre"
     },
@@ -3207,12 +3207,12 @@
       "type": "Émission"
     },
     {
-      "source": "Association Culturel de la Borde",
+      "source": "Association Culturelle de la Borde",
       "target": "Chimères n°84 - Avec Jean Oury",
       "type": "Revue"
     },
     {
-      "source": "Association Culturel de la Borde",
+      "source": "Association Culturelle de la Borde",
       "target": "Neuropsychiatrie",
       "type": "Discipline"
     },
@@ -3237,7 +3237,7 @@
       "type": "Livre"
     },
     {
-      "source": "Association Culturel de la Borde",
+      "source": "Association Culturelle de la Borde",
       "target": "Pierre Delion",
       "type": "Individu"
     },
@@ -3257,7 +3257,7 @@
       "type": "Livre"
     },
     {
-      "source": "Association Culturel de la Borde",
+      "source": "Association Culturelle de la Borde",
       "target": "Anthropopsychiatrie",
       "type": "Discipline"
     },
@@ -3282,7 +3282,7 @@
       "type": "Livre"
     },
     {
-      "source": "Association Culturel de la Borde",
+      "source": "Association Culturelle de la Borde",
       "target": "Frantz Fanon",
       "type": "Individu"
     },
@@ -4963,11 +4963,11 @@
     },
     {
       "source": "Jacques Derrida",
-      "target": "Échographies de la télévision : entretiens filmés / Jacques Derrida, Bernard Stiegler",
+      "target": "Échographies de la télévision : entretiens filmés",
       "type": "Livre"
     },
     {
-      "source": "Échographies de la télévision : entretiens filmés / Jacques Derrida, Bernard Stiegler",
+      "source": "Échographies de la télévision : entretiens filmés",
       "target": "Le capital que je ne suis pas !",
       "type": "Référence"
     },
@@ -4988,7 +4988,7 @@
     },
     {
       "source": "Clinique de la Borde",
-      "target": "Association Culturel de la Borde",
+      "target": "Association Culturelle de la Borde",
       "type": "Institution"
     },
     {
