@@ -852,8 +852,8 @@
     },
     {
       "id": "Lucien Bonnafé",
-      "url": "http://www.champsocial.com/book-saint-alban,466.html"
-    },
+      "url": "https://fr.wikipedia.org/wiki/Lucien_Bonnafé"
+    },    
     {
       "id": "François Tosquelles",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/entretien-avec-francois-tosquelles-1-2-1ere-diffusion-04-10-1985-5305009"
@@ -4797,8 +4797,8 @@
       "type": "Dispositif"
     },
     {
-      "source": "Patch Pure Data - ∏node",
-      "target": "∏node",
+      "source": "Pure Data",
+      "target": "Patch Pure Data - ∏node",
       "type": "Dispositif"
     },
     {
@@ -5005,6 +5005,11 @@
       "source": "François Tosquelles",
       "target": "De Saint-Alban à La Borde, la psychothérapie institutionnelle",
       "type": "Article"
+    },
+    {
+      "source": "Lucien Bonnafé",
+      "target": "Saint-Alban",
+      "type": "Individu"
     }
   ]
 }
