@@ -1203,6 +1203,10 @@
       "url": "https://fr.wikipedia.org/wiki/Édition"
     },
     {
+      "id":"Whoisbn",
+      "url":"https://whoisbn.net/fr/"
+    },
+    {
       "id": "Victor Chaix",
       "url": "https://llm.umontreal.ca/repertoire-departement/doctorantes-doctorants/victor-chaix-illui/"
     },
@@ -5010,6 +5014,11 @@
       "source": "Lucien Bonnafé",
       "target": "Saint-Alban",
       "type": "Individu"
+    },
+    {
+      "source": "Édition",
+      "target": "Whoisbn",
+      "type": "Dispositif"
     }
   ]
 }
