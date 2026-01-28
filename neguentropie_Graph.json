@@ -768,7 +768,7 @@
       "url": "https://shs.cairn.info/revue-institutions?lang=fr&tab=a-propos"
     },
     {
-      "id": "Connivence",
+      "id": "Connivences",
       "url": "https://revueinstitutions.blogspot.com/p/blog-page.html"
     },
     {
@@ -5080,7 +5080,7 @@
       "type": "Individu"
     },
     {
-      "source": "Connivence",
+      "source": "Connivences",
       "target": "Institutions | Revue de psychothérapie institutionnelle",
       "type": "Individu"
     }
