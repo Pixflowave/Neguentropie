@@ -764,12 +764,31 @@
       "url": "https://psychotherapieinstitutionnelle.net/"
     },
     {
+      "id": "Institutions | Revue de psychothérapie institutionnelle",
+      "url": "https://shs.cairn.info/revue-institutions?lang=fr&tab=a-propos"
+    },
+    {
+      "id": "Connivence",
+      "url": "https://revueinstitutions.blogspot.com/p/blog-page.html"
+    },
+    {
+      "id" :"Fédération inter-associations culturelles (FIAC)",
+      "url": "https://shs.cairn.info/editeur/FIAC?lang=fr&tab=apercu"
+    },
+    {
+      "id" :"Cairn",
+      "url": "https://shs.cairn.info/editeur/"
+    },
+    {
       "id": "Ecole de Psychiatrie institutionnelle de la Chesnaie",
       "url": "https://epiclachesnaieblog.wordpress.com"
     },
     {
       "id": "Association Culturelle de la Borde",
       "url": "https://associationculturelledelaborde.org/"
+    },
+    {
+      "id": "Annick de MONCUIT de BOISCUILLÉ"
     },
     {
       "id": "Joseph Gabel",
@@ -5019,6 +5038,51 @@
       "source": "Édition",
       "target": "Whoisbn",
       "type": "Dispositif"
+    },
+    {
+      "source": "Édition",
+      "target": "Cairn",
+      "type": "Institution"
+    },
+    {
+      "source": "Cairn",
+      "target": "Fédération inter-associations culturelles (FIAC)",
+      "type": "Institution"
+    },
+    {
+      "source": "Fédération inter-associations culturelles (FIAC)",
+      "target": "Institutions | Revue de psychothérapie institutionnelle",
+      "type": "Revue"
+    },
+    {
+      "source": "Psychotherapie institutionnelle",
+      "target": "Fédération inter-associations culturelles (FIAC)",
+      "type": "Revue"
+    },
+    {
+      "source": "Psychotherapie institutionnelle",
+      "target": "Association Culturelle de la Borde",
+      "type": "Institution"
+    },
+    {
+      "source": "Association Culturelle de la Borde",
+      "target": "Annick de MONCUIT de BOISCUILLÉ",
+      "type": "Individu"
+    },
+    {
+      "source": "Clinique de la Borde",
+      "target": "Annick de MONCUIT de BOISCUILLÉ",
+      "type": "Individu"
+    },
+    {
+      "source": "Psychotherapie institutionnelle",
+      "target": "Annick de MONCUIT de BOISCUILLÉ",
+      "type": "Individu"
+    },
+    {
+      "source": "Connivence",
+      "target": "Institutions | Revue de psychothérapie institutionnelle",
+      "type": "Individu"
     }
   ]
 }
