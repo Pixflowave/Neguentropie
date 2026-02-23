@@ -449,6 +449,10 @@
       "url": "https://pharmakon.fr/wordpress/"
     },
     {
+      "id": "« Une limite au-delà de laquelle est l’inconnu »",
+      "url": "https://doi.org/10.4000/elfe.4714"
+    },
+    {
       "id": "Aimer, s’aimer, nous aimer",
       "url": "http://www.editions-galilee.fr/f/index.php?sp=liv&livre_id=3088"
     },
@@ -5105,6 +5109,16 @@
     {
       "source": "La Deleuziana",
       "target": "La question du « Néguanthropocène » chez B. Stiegler. De l’infidélité du milieu au changement d’époque : chocs technologiques et avenir « néguanthropique »",
+      "type": "Article"
+    },
+    {
+      "source": "Bernard Stiegler",
+      "target": "« Une limite au-delà de laquelle est l’inconnu »",
+      "type": "Article"
+    },
+    {
+      "source": "OpenEdition Journals",
+      "target": "« Une limite au-delà de laquelle est l’inconnu »",
       "type": "Article"
     }
   ]
