@@ -601,6 +601,14 @@
       "url": "https://organoesis.org/recherches/critique-de-lintelligence-artificielle"
     },
     {
+      "id": "La question du « Néguanthropocène » chez B. Stiegler. De l’infidélité du milieu au changement d’époque : chocs technologiques et avenir « néguanthropique »",
+      "url": "https://ladeleuziana.org/wp-content/uploads/2016/12/Alombert-–-La-Question-du-neganthropocene-chez-B.-Stiegler.pdf"
+    },
+    {
+      "id": "La Deleuziana",
+      "url": "https://ladeleuziana.org"
+    },
+    {
       "id": "Henry Maldiney",
       "url": "https://www.henri-maldiney.org/"
     },
@@ -5083,6 +5091,21 @@
       "source": "Connivences",
       "target": "Institutions | Revue de psychothérapie institutionnelle",
       "type": "Individu"
+    },
+    {
+      "source": "Anne Alombert",
+      "target": "La question du « Néguanthropocène » chez B. Stiegler. De l’infidélité du milieu au changement d’époque : chocs technologiques et avenir « néguanthropique »",
+      "type": "Article"
+    },
+    {
+      "source": "Édition",
+      "target": "La Deleuziana",
+      "type": "Revue"
+    },
+    {
+      "source": "La Deleuziana",
+      "target": "La question du « Néguanthropocène » chez B. Stiegler. De l’infidélité du milieu au changement d’époque : chocs technologiques et avenir « néguanthropique »",
+      "type": "Article"
     }
   ]
 }
