@@ -918,6 +918,18 @@
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/a-voix-nue-jean-oury-4-5-1ere-diffusion-27-09-1990-3631406"
     },
     {
+      "id": "Le politique par Jean Oury (15-10-2004)",
+      "url": "https://ecole-lacanienne.net/wp-content/uploads/2017/01/Le-politique-par-Jean-Oury-.pdf"
+    },
+    {
+      "id": "École Lacanienne",
+      "url": "https://ecole-lacanienne.net"
+    },
+    {
+      "id": "Psychanalyse",
+      "url": "https://fr.wikipedia.org/wiki/Psychanalyse"
+    },
+    {
       "id": "Le Collectif",
       "url": "http://www.champsocial.com/book-le_collectif_le_seminaire_de_sainte-anne,467.html#couv"
     },
@@ -5120,6 +5132,22 @@
       "source": "OpenEdition Journals",
       "target": "« Une limite au-delà de laquelle est l’inconnu »",
       "type": "Article"
+    },
+    {
+      "source": "Jean Oury",
+      "target": "Le politique par Jean Oury (15-10-2004)",
+      "type": "Article"
+    },
+    {
+      "source": "Psychanalyse",
+      "target": "École Lacanienne",
+      "type": "Institution"
+    },
+    {
+      "source": "Psychanalyse",
+      "target": "Jean Oury",
+      "type": "Individu"
     }
+
   ]
 }
