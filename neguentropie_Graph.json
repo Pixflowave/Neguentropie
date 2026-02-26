@@ -764,6 +764,10 @@
       "url": "https://fr.wikipedia.org/wiki/Psychiatrie"
     },
     {
+      "id": "Sigmund Freud",
+      "url": "https://fr.wikipedia.org/wiki/Sigmund_Freud"
+    },
+    {
       "id": "Collectif des 39",
       "url": "https://www.collectifpsychiatrie.fr"
     },
@@ -3206,6 +3210,16 @@
     {
       "source": "Technè",
       "target": "Psychiatrie",
+      "type": "Discipline"
+    },
+    {
+      "source": "Psychiatrie",
+      "target": "Sigmund Freud",
+      "type": "Individu"
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Psychanalyse",
       "type": "Discipline"
     },
     {
