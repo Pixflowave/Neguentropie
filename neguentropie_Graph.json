@@ -3250,6 +3250,11 @@
     },
     {
       "source": "Sándor Ferenczi",
+      "target": "",
+      "type": "École"
+    },
+    {
+      "source": "Psychanalyse",
       "target": "Mélani Klein",
       "type": "École"
     },
@@ -3257,6 +3262,21 @@
       "source": "Société de Psychanalyse Freudienne",
       "target": "François Tosquelles",
       "type": "Individu"
+    },
+    {
+      "source": "Psychanalyse",
+      "target": "François Tosquelles",
+      "type": "École"
+    },
+    {
+      "source": "Psychanalyse",
+      "target": "Jacques Lacan",
+      "type": "École"
+    },
+    {
+      "source": "Psychanalyse",
+      "target": "Jean Oury",
+      "type": "École"
     },
     {
       "source": "Société de Psychanalyse Freudienne",
