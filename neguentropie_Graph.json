@@ -768,6 +768,22 @@
       "url": "https://fr.wikipedia.org/wiki/Sigmund_Freud"
     },
     {
+      "id": "Sándor Ferenczi",
+      "url": "https://fr.wikipedia.org/wiki/Sándor_Ferenczi"
+    },
+    {
+      "id": "Mélani Klein",
+      "url": "https://fr.wikipedia.org/wiki/Melanie_Klein"
+    },
+    {
+      "id": "Société de Psychanalyse Freudienne",
+      "url": "https://www.spf.asso.fr"
+    },
+    {
+      "id": "Jacques Lacan",
+      "url": "https://fr.wikipedia.org/wiki/Jacques_Lacan"
+    },
+    {
       "id": "Collectif des 39",
       "url": "https://www.collectifpsychiatrie.fr"
     },
@@ -3223,6 +3239,31 @@
       "type": "Discipline"
     },
     {
+      "source": "Psychanalyse",
+      "target": "Sándor Ferenczi",
+      "type": "École"
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Sándor Ferenczi",
+      "type": "École"
+    },
+    {
+      "source": "Sándor Ferenczi",
+      "target": "Mélani Klein",
+      "type": "École"
+    },
+    {
+      "source": "Société de Psychanalyse Freudienne",
+      "target": "François Tosquelles",
+      "type": "Individu"
+    },
+    {
+      "source": "Société de Psychanalyse Freudienne",
+      "target": "Jacques Lacan",
+      "type": "Individu"
+    },
+    {
       "source": "Psychiatrie",
       "target": "Collectif des 39",
       "type": "Mouvement"
@@ -3384,6 +3425,11 @@
     },
     {
       "source": "François Tosquelles",
+      "target": "Jean Oury",
+      "type": "Individu"
+    },
+    {
+      "source": "Jaques Lacan",
       "target": "Jean Oury",
       "type": "Individu"
     },
@@ -5149,6 +5195,11 @@
     },
     {
       "source": "Jean Oury",
+      "target": "Le politique par Jean Oury (15-10-2004)",
+      "type": "Article"
+    },
+    {
+      "source": "École Lacanienne",
       "target": "Le politique par Jean Oury (15-10-2004)",
       "type": "Article"
     },
