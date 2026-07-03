@@ -94,12 +94,17 @@
       "type": "Ouvrages"
     },
     {
+      "source": "a_tisser",
+      "target": "Vidéo",
+      "type": "Support"
+    },
+    {
       "source": "Vidéo",
       "target": "De Rekenaarsters, Grietje Keller (2005, sous-titré en anglais) (Youtube)",
       "type": "Vidéo"
     },
     {
-      "source": "Video",
+      "source": "Vidéo",
       "target": "Feminist Ninja : Actualizando el feminismo interseccional a la clase hacker, Ai Carmela Netīrk (Peertube)",
       "type": "video"
     }
